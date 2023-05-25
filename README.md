@@ -10,9 +10,14 @@
 自动生成部分修改于217heidai/adblockfilters
 
 ## 订阅链接
-* 主过滤器
-- [原始链接](https://raw.githubusercontent.com/NaivG/adlist/main/mainlist.txt)
-- [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/mainlist.txt)
+主过滤器
+* [原始链接](https://raw.githubusercontent.com/NaivG/adlist/main/mainlist.txt)
+* [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/mainlist.txt)
+
+附加过滤器
+* [原始链接](https://raw.githubusercontent.com/NaivG/adlist/main/extralist.txt)
+* [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/extralist.txt)
+
 ## 规则源
 
 | 规则 | 原始链接 | 加速链接 | 更新日期 |
