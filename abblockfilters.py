@@ -43,7 +43,7 @@ def CreatReadme(ruleList, fileName):
     f.write("这是一个整合了easylist、chinalist、cjx list、adgk、adbyby、neo list、adguard dns filter等的超级过滤器，经过实际测试能过滤90%以上的广 告。代价是需要一定配置，低配机（安卓安兔兔20w以下或pc娱乐大师5w以下）慎用。\n")
     f.write("搭配DNS、隐身模式使用效果更佳，最好再添加一些补充过滤器，理论adguard和adblock应该都可以用\n")
     f.write("发现无法拦截欢迎issue，我看到就处理。\n")
-    f.write("自动生成部分修改于217heidai/adblockfilters")
+    f.write("自动生成部分修改于217heidai/adblockfilters\n")
     f.write("## 订阅链接\n")
     f.write("* 主过滤器\n")
     f.write("- [原始链接](https://raw.githubusercontent.com/NaivG/adlist/main/mainlist.txt)\n")
