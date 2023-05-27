@@ -1,10 +1,12 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-05-25 21:44:20（北京时间） 
-! Total Count: 3453
+! Update Time: 2023-05-27 11:45:14（北京时间） 
+! Total Count: 3456
 ! by: 酷安@大萌主
 ! Host
+||mfoevvy.com^
+||jv0rlf.com^
 ||dohihf.com^
 ||hrngmf.com^
 ||lgecqrb.com^
@@ -2524,7 +2526,6 @@
 ||*.go.sohu.com^
 ||zz.bdstatic.com^
 ||tsearch.snssdk.com^
-||zhanzhang.toutiao.com^
 ||fclick.baidu.com^
 ||ssp.qq.com^
 ||ecmb.bdimg.com^
@@ -2933,6 +2934,7 @@ _/bigREDdog.css?
 /api/getPos?jspath=/videos/view//*
 /s/page_runtime_*.js
 /v0/amp-addthis-*.js
+.com:8010/cc/
 .xyz/Kfc_
 .xyz/xtub_
 .xyz/?token=
@@ -2989,11 +2991,11 @@ baidu.com##.rel-exp-feed-ad-item
 baidu.com###qtqy_container
 baidu.com##div.se-recommend-word-list,#se-recommend-word-list-container
 baidu.com##a.ball-wrapper__3BTBO.c-blocka
-m.baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
-m.baidu.com##DIV.barea-ad
-m.baidu.com##DIV[data-module='rec:undefined-undefined']
+baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
+baidu.com##DIV.barea-ad
+baidu.com##DIV[data-module='rec:undefined-undefined']
 www.baidu.com###content_left > *:not([id]) *,[class="result c-container new-pmd"][id="1"][tpl="se_com_default"][data-click]
-m.baidu.com##DIV#page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
+baidu.com##DIV#page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
 hanyu.baidu.com##DIV#fengchao_els.c-container.card.fengchao-els
 hanyu.baidu.com##DIV.fengchao-el
 fanyi.baidu.com##H1,H3,DIV.intro-nav.clearfix,DIV.intro-copyrigh,A.app-bar,DIV.intro-copyright
@@ -3444,6 +3446,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##IMG[src*='qmfcybwbf']
 ##[href*='.top/?token=']
 ##div.appad
+##.cupfox-content.right,.cupfox-content.left
 ##DIV.row.no-gutters.m-0
 ##DIV#top-ads
 ##DIV#bottom-ads
