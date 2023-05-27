@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Hl1nzz7qgZWdvNQ63qU+Kg
-! Version: 202305261540
+! Checksum: sFe7BzIz7bwQJNmoaO4PCg
+! Version: 202305270020
 ! Title: EasyPrivacy
-! Last modified: 26 May 2023 15:40 UTC
+! Last modified: 27 May 2023 00:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11534,8 +11534,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ecommstats.s3.amazonaws.com^
 ||ecustomeropinions.com/survey/nojs.php?
 ||ecustomeropinions.com^*/i.php?
-||edge-hls.doppiocdn.com^
-||edge-hls.doppiocdn.org^
+||edge-hls.doppiocdn.com/ping
+||edge-hls.doppiocdn.org/ping
 ||edge.bredg.com^$third-party
 ||edgesuite.net^*/googleanalyt
 ||edkt.io^*/edgekit.min.js
@@ -33114,6 +33114,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||lecho.be/track/
 ||lefigaro.fr/ext/analytics
 ||lefigaro.fr/ext/figanalytics
+||lemonde.fr/*&cts=
 ||lemonde.fr/*&stc=
 ||lemonde.fr/bucket/*/tagistan.
 ||leparking-moto.fr/jsV155/Tracker.js
