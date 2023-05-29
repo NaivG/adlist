@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 20E2Kg/h7b9HBWMfKldKMA
-! Version: 202305290740
+! Checksum: +6dTP6BsQjsojH7/y2gOtg
+! Version: 202305291540
 ! Title: EasyPrivacy
-! Last modified: 29 May 2023 07:40 UTC
+! Last modified: 29 May 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1334,6 +1334,7 @@
 /dmpcollector.js
 /dmpmetrics.
 /dmtracking2.
+/dmu2panalytics/*
 /DNATracking.
 /dni_reporting.js
 /doctracking.
@@ -11811,6 +11812,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hsforms.com^*/counters.gif
 ||hsforms.com^*/timings.gif$image
 ||hspbotdetection.azurewebsites.net^
+||hub.reacti.co/index.js
 ||hubspot.com/analytics/
 ||hubspot.com/cs/loader-v2.js
 ||hubspot.com/tracking/
@@ -12670,6 +12672,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.pswec.com^
 ||t.raptorsmartadvisor.com^
 ||t.rentcafe.com^
+||t.screeb.app^
 ||t.sharethis.com^
 ||t.signalayer.com^
 ||t.skimresources.com^
