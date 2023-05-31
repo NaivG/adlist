@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: /vSXiR2XMj3Z+EM936JFZw
-! Version: 202305310020
+! Checksum: IiPA80MDkh9ViAj1pOaGeQ
+! Version: 202305310740
 ! Title: EasyPrivacy
-! Last modified: 31 May 2023 00:20 UTC
+! Last modified: 31 May 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6049,7 +6049,6 @@ _mongo_stats/
 ||cvtr.io^$third-party
 ||cya2.net^$third-party
 ||cyberanalytics.nl^$third-party
-||cytoclause.com^$third-party
 ||d-1.co^$third-party
 ||d41.co^$third-party
 ||dacounter.com^$third-party
@@ -8264,7 +8263,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||g1thub.com^
 ||gay-hotvideo.net^
 ||goldoffer.online^$third-party
-||googleanalytcs.com^$third-party
 ||gramombird.com^
 ||gus.host^$third-party
 ||hashcoin.co^$third-party
@@ -8878,7 +8876,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||glisteningguide.com^$third-party
 ||glisteningsign.com^
 ||gloriousbeef.com^$third-party
-||gloriouscracker.com^
 ||glossysense.com^
 ||godlygeese.com^
 ||gondolagnome.com^
@@ -9062,7 +9059,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||meatydime.com^
 ||meddleplant.com^
 ||mediatescarf.com^
-||medusasailor.com^
 ||melodicminute.com^
 ||meltmilk.com^
 ||memopilot.com^
@@ -10793,7 +10789,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.algolia.com^
 ||analytics.amakings.com^
 ||analytics.apnewsregistry.com^
-||analytics.atomiconline.com^
 ||analytics.audioeye.com^
 ||analytics.avanser.com.au^
 ||analytics.aweber.com^
@@ -11893,7 +11888,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||log.cookieyes.com^
 ||log.go.com^
 ||log.invodo.com^
-||log.kibboko.com^
 ||log.mediacategory.com^
 ||log.nordot.jp^
 ||log.olark.com^
@@ -12618,7 +12612,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||telemetry.soundcloud.com^
 ||telemetry.tableausoftware.com^
 ||th.bing.com/th/*&riu=$image,third-party
-||thdstatic.com/analytics/$domain=homedepot.com
 ||the-group.net/aether/
 ||themesltd.com/online-users-counter/$third-party
 ||theoplayer.com/t?
@@ -14237,7 +14230,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adv.drtuber.com^
 ||advancedmp3players.co.uk/support/visitor/index.php?
 ||aegis.trovo.live^
-||affiliate.gearbest.com^$image,third-party
 ||affiliates.treasureisland.com^
 ||affiliates.vpn.ht^
 ||agoda.com/api/pixel/
@@ -15128,7 +15120,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||startpage.com/sp/elp
 ||startpage.com/sp/jst
 ||stat.cdngeek.com^
-||stat.livesportbar.net^
 ||stat.pubhtml5.com^
 ||stat.tildacdn.com^
 ||stat.turb.pw^
@@ -15738,6 +15729,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ! ||wl.spotify.com^
 ! ||digital.att.com^
 ! ||connect.telstrawholesale.com^
+! ||form.info-morimoto-real.jp^
 ||clickmail.stubhub.com^$image,script
 ||email.mg.everyonesocial.com^$image,script
 ||wl.spotify.com^$image,script
@@ -16032,7 +16024,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||a8.shop.tsukijiwadatsumi.com^
 ||a8.shopserve.jp^
 ||a8.simple-hoiku.com^
-||a8.skill-crowd.com^
 ||a8.smp.shanon.co.jp^
 ||a8.soelu.com^
 ||a8.sommelier.gift^
@@ -16267,7 +16258,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||a8clk.staff.mynavi.jp^
 ||a8clk.star-mall.net^
 ||a8clk.starwifi.jp^
-||a8clk.store.healthcare.omron.co.jp^
 ||a8clk.store.kadokawa.co.jp^
 ||a8clk.store.mago-ch.com^
 ||a8clk.stylestore.jp^
@@ -16767,7 +16757,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||analytics.martin-fieber.de^
 ||analytics.mc500.info^
 ||analytics.mhpod.gov.au^
-||analytics.mondoweiss.net^
 ||analytics.mycater.fr^
 ||analytics.naturequant.com^
 ||analytics.qualityquestions.co^
@@ -17527,7 +17516,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||stats.roderickduenas.com^
 ||stats.ruhrfestspiele.de^
 ||stats.rushilperera.me^
-||stats.ruthmontenegro.com^
 ||stats.rymawby.com^
 ||stats.s-zt.at^
 ||stats.sahpa.co.za^
@@ -17621,14 +17609,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||we-love-privacy.humane.club^
 ||webstats.bijenpatel.com^
 ||whz9ruftvh4pxz8fc7vh.theochu.com^
-||www2.azimuthpsych.com^
 ||yolo.philipbjorge.com^
-||yolo.phpliveregex.com^
 ||zahlen.olereissmann.de^
 !
 ! Company name: TraceDock https://github.com/AdguardTeam/cname-trackers/blob/master/trackers/tracedock.txt
 !
-||2tty.overstappen.nl^
 !
 ! a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com disguised trackers
 !
@@ -23185,8 +23170,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||cagkpu.suitdirect.co.uk^
 ||cajmze.allpax.de^
 ||caknmq.rotita.com^
-||carzbz.braincandy.net^
-||carzbz.triviatoday.com^
 ||cbpgpg.bombshellsportswear.com^
 ||cdfhpj.automobile.it^
 ||cfsaze.retailmenot.com^
@@ -25966,8 +25949,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||campaign.item-china.cn^
 ||campaign.kanto-mazda.com^
 ||cloud.aspiresys.com^
-||marketing.income.com.sg^
-||news.income.com.sg^
 ||rpa.aspiresys.com^
 !
 ! p04c.hs.eloqua.com disguised trackers
@@ -29053,7 +29034,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||adebis.chojyu.com^
 ||adebis.crowdcredit.jp^
 ||adebis.daiwahouse.co.jp^
-||adebis.datumow.com^
 ||adebis.demae-can.com^
 ||adebis.entetsu.co.jp^
 ||adebis.gfs-official.com^
@@ -29063,7 +29043,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||adebis.kamada.co.jp^
 ||adebis.kirei-journal.jp^
 ||adebis.kirin.co.jp^
-||adebis.kodomohamigaki.com^
 ||adebis.leben-establish.jp^
 ||adebis.leben-style.jp^
 ||adebis.lifestylemag.jp^
@@ -29090,8 +29069,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||adebiscname.sumirin-ht.co.jp^
 ||adebisu.wowow.co.jp^
 ||adex.jrwp-arimatsu34.com^
-||adex.kintetsu-re.co.jp^
-||adex.naruko333.jp^
 ||adnl.bk.mufg.jp^
 ||adpromo.peppynet.com^
 ||adtrack.loracle.jp^
@@ -29112,7 +29089,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||cname.lions-mansion.jp^
 ||cname.mebiusseiyaku.co.jp^
 ||cname.mitsuihome.co.jp^
-||cname.nikkei-cnbc.co.jp^
 ||cname1.shakenkan.co.jp^
 ||cname2.shaken-yoyaku.com^
 ||cnameebis.eizoshigoto.com^
@@ -29135,10 +29111,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||ebis-tracking.tcb-setagaya.com^
 ||ebis.15jikai.com^
 ||ebis.2jikaikun.com^
-||ebis.aibashiro.jp^
 ||ebis.apo-mjob.com^
 ||ebis.as-1.co.jp^
-||ebis.ayura.co.jp^
 ||ebis.belta.co.jp^
 ||ebis.biyo-job.com^
 ||ebis.care-tensyoku.com^
@@ -29189,13 +29163,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||ebisfracora.fracora.com^
 ||ebisstore.tamagokichi.com^
 ||ebistoppan1.kyowahakko-bio-campaign-1.com^
-||emc.dr-stick.shop^
 ||frontierconsul02.tsunagaru-office.com^
 ||greenjapan-cname.green-japan.com^
 ||hokkaidobank.rapi.jp^
 ||isebis.takamiclinic.or.jp^
 ||isebis.yutoriform.com^
-||itpebis03.recella3d.com^
 ||kyoufukudoucname.worldsmile.net^
 ||marketing.biz.mynavi.jp^
 ||marketing.zwei.com^
@@ -29299,7 +29271,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||deut3.fdj.fr^
 ||dko.vente-unique.nl^
 ||dqs3.darjeeling.fr^
-||du2k.bhv.fr^
 ||dv59b.montecarlomeeting.com^
 ||dw0c.sfr.fr^
 ||dw7u.hotelsbarriere.com^
@@ -29311,7 +29282,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||ea.audika.com^
 ||ea.auvergne-direct.fr^
 ||ea.bcassurance.fr^
-||ea.bongo.nl^
 ||ea.camping-and-co.com^
 ||ea.carrefour.com^
 ||ea.carrefour.fr^
@@ -29375,7 +29345,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||ea.reunica.com^
 ||ea.roxy.eu^
 ||ea.smallable.com^
-||ea.smartbox.com^
 ||ea.telecommandeonline.com^
 ||ea.tool-fitness.com^
 ||ea.topsante.com^
@@ -30491,7 +30460,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||webt.aqipa.com^
 ||webt.eleonto.com^
 ||webt.eu.teac-audio.com^
-||webt.pure.com^
 ||webt.store.okmilo.com^
 ||wetr.sportscheck.at^
 ||wetr.sportscheck.ch^
@@ -30602,7 +30570,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||tk.moveyourfit.com^
 ||tk.msccruises.com^
 ||tk.nhlottery.com^
-||tk.ornikar.com^
 ||tk.planete-oui.fr^
 ||tk.prismashop.fr^
 ||tk.qare.fr^
@@ -31561,7 +31528,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||app.roomsync.com^
 ||app.scrpbx.co^
 ||app.semusi.com^
-||app.sheepclash.com^
 ||app.shopback.com^
 ||app.shopeefood.vn^
 ||app.shouta.co^
@@ -31997,7 +31963,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||download.sendstack.africa^
 ||download.sharexpere.com^
 ||download.shiftsmart.com^
-||download.tglapp.com^
 ||download.usehero.com^
 ||download.virtual-shopping.klarna.com^
 ||download.withu.fit^
@@ -32155,7 +32120,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||go.leaf.fm^
 ||go.letscliq.com^
 ||go.letspepapp.com^
-||go.madbikeapp.com^
 ||go.majelan.com^
 ||go.makwajy.com^
 ||go.mapstr.com^
@@ -32334,7 +32298,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||l.siply.in^
 ||l.slothlive.com^
 ||l.supremapoker.net^
-||l.trafi.com^
 ||l.umba.com^
 ||l.uvcr.me^
 ||lapescheria.openapp.link^
@@ -32391,7 +32354,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||link.eventconnect.io^
 ||link.everlance.com^
 ||link.fanzapp.io^
-||link.farm.seedz.ag^
 ||link.fitwell.co^
 ||link.freetrade.io^
 ||link.frescoymas.com^
@@ -32466,7 +32428,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||link.swa.info^
 ||link.taptapapp.com^
 ||link.tastemade.com^
-||link.tbcbank.uz^
 ||link.testbook.com^
 ||link.thegourmetplus.net^
 ||link.thesecurityteam.rocks^
@@ -34268,6 +34229,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||shopify.com/shopifycloud/boomerang/shopify-boomerang-$domain=rydewear.com
 @@||signalshares.com/webtrends.min.js$script,~third-party
 @@||simcotools.app/assets/adsense-*.js$~third-party
+@@||siteintercept.qualtrics.com^$domain=homedepot.com
 @@||smartrevise.online/css/analytics.min.css$~third-party
 @@||smartrevise.online/js/teacher.analytics.min.js$~third-party
 @@||smushcdn.com^*/1.gif$domain=retrounlim.com
@@ -34320,6 +34282,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||uniqlo.com^*/trackingservice/$~third-party
 @@||usbank.com^*/adrum.js?$~third-party
 @@||userapi.com^*.gif?extra=$image,domain=vk.com
+@@||uwufufu.com/_nuxt/mixpanel.$~third-party
 @@||varagesale.com/assets/analytics-$script,~third-party
 @@||vast.com/vimpressions.js$domain=everycarlisted.com
 @@||vidible.tv^*/ComScore.StreamSense.js
@@ -34360,7 +34323,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 !! browser.sentry-cdn.com
 @@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|marshmallow-qa.com|menshealth.com|podcasty.seznam.cz|roomster.com|spacemarket.com|timesprime.com|vivareal.com.br|womenshealthmag.com
 !! adobedtm.com^*/satelliteLib-
-@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|auspost.com.au|backcountry.com|bmw.com.au|ceair.com|collegeboard.org|conad.it|costco.com|crackle.com|crackle.com.ar|crackle.com.br|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|crave.ca|crimewatchdaily.com|dhl.de|directline.com|elgiganten.se|elkjop.no|eonline.com|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|gigantti.fi|godigit.com|hellobank.fr|hgtv.com|hrw.com|ilsole24ore.com|jeep.com|laredoute.be|laredoute.ch|laredoute.co.uk|laredoute.com|laredoute.es|laredoute.fr|laredoute.it|laredoute.pl|laredoute.pt|laredoute.ru|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|myaetnasupplemental.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|nrj.fr|oprah.com|oracle.com|pnc.com|radiko.jp|realtor.com|redbull.tv|repco.co.nz|sbb.ch|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|sony.jp|stuff.co.nz|subaru.com|support.nec-lavie.jp|telegraph.co.uk|timewarnercable.com|tou.tv|usanetwork.com|vanityfair.com|vtr.com|wayin.com|wired.com|wowway.net
+@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|ally.com|americanexpress.com|auspost.com.au|backcountry.com|bmw.com.au|canadapost-postescanada.ca|ceair.com|collegeboard.org|conad.it|costco.com|crackle.com|crackle.com.ar|crackle.com.br|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|crave.ca|crimewatchdaily.com|dhl.de|directline.com|elgiganten.se|elkjop.no|eonline.com|fcbarcelona.cat|fcbarcelona.cn|fcbarcelona.com|fcbarcelona.es|fcbarcelona.fr|fcbarcelona.jp|firststatesuper.com.au|gigantti.fi|godigit.com|hellobank.fr|hgtv.com|hrw.com|ilsole24ore.com|jeep.com|laredoute.be|laredoute.ch|laredoute.co.uk|laredoute.com|laredoute.es|laredoute.fr|laredoute.it|laredoute.pl|laredoute.pt|laredoute.ru|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|myaetnasupplemental.com|nbcnews.com|nfl.com|nflgamepass.com|nofrills.ca|nrj.fr|oprah.com|oracle.com|pnc.com|radiko.jp|realtor.com|redbull.tv|repco.co.nz|sbb.ch|searspartsdirect.com|shoppersdrugmart.ca|smooth.com.au|sony.jp|stuff.co.nz|subaru.com|support.nec-lavie.jp|telegraph.co.uk|timewarnercable.com|tou.tv|usanetwork.com|vanityfair.com|vtr.com|wayin.com|wired.com|wowway.net
 !! adobedtm.com^*_source.min.js
 @@||adobedtm.com^*_source.min.js$domain=ally.com|americanexpress.com|backcountry.com|crave.ca|disneyplus.disney.co.jp|hilton.com|hl.co.uk|homedepot.ca|kroger.com|mora.jp|nbarizona.com|pnc.com|telus.com
 !! adobedtm.com^*-source.min.js
