@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: nUIyAER8TKXsIifmWqf1GA
-! Version: 202306010740
+! Checksum: S50VzliCEfzqfxFEqzdqVg
+! Version: 202306011540
 ! Title: EasyPrivacy
-! Last modified: 01 Jun 2023 07:40 UTC
+! Last modified: 01 Jun 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13045,6 +13045,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d28g9g3vb08y70.cloudfront.net^
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2ef20sk9hi1u3.cloudfront.net^
+||d2ezz24t9nm0vu.cloudfront.net^
 ||d2gbtcuv3w9qyv.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
 ||d2j1fszo1axgmp.cloudfront.net^
@@ -13427,6 +13428,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cdn-files.prsmedia.fr^*/xiti/
 ||ced-ns.sascdn.com/diff/js/smart.js
 ||cloudfront.net^$script,domain=gentside.com
+||canalplus-bo.net/web/*/tracker/?
 ||collect-v6.51.la^
 ||compteur.websiteout.net^
 ||core.unit-sense.net^
