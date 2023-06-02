@@ -24,7 +24,7 @@
 |:-|:-|:-|:-|
 | xwhyc-rules | [原始链接](https://raw.githubusercontent.com/NaivG/adlist/main/xwhyc-rules/lazy.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/xwhyc-rules.txt) | 2023/05/25 |
 | xwhyc-rules video | [原始链接](https://raw.githubusercontent.com/NaivG/adlist/main/xwhyc-rules/video.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/xwhyc-rules_video.txt) | 2023/05/25 |
-| jiekouAD | [原始链接](https://cdn.jsdelivr.net/gh/damengzhu/banad/jiekouAD.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/jiekouAD.txt) | 2023/06/01 |
+| jiekouAD | [原始链接](https://cdn.jsdelivr.net/gh/damengzhu/banad/jiekouAD.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/jiekouAD.txt) | 2023/06/02 |
 | easyprivacy | [原始链接](https://easylist-downloads.adblockplus.org/easyprivacy.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/easyprivacy.txt) | 2023/06/02 |
 | cjx-annoyance | [原始链接](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/cjx-annoyance.txt) | 2023/05/25 |
 | cjxlist | [原始链接](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/cjxlist.txt) | 2023/05/25 |
