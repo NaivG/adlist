@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: bHYO245UwC0oA365Hkg4og
-! Version: 202306020020
+! Checksum: 4H7gQQlUTH6ZD70RCTMyFQ
+! Version: 202306020740
 ! Title: EasyPrivacy
-! Last modified: 02 Jun 2023 00:20 UTC
+! Last modified: 02 Jun 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -56,8 +56,6 @@
 -trackingScript.
 -universal-analytics/
 .analytics.min.
-.asp?t=*&c=$image
-.aspx?trackid=
 .beacon.min.js
 .bmp?*&referrer=
 .cdn-tracking.js
@@ -66,10 +64,7 @@
 .cn/sl.gif?
 .com/_.gif?
 .com/analytics?
-.com/bt/s.png?b=
 .com/clk?
-.com/cm?ci=
-.com/cm?tid
 .com/count?
 .com/counter?
 .com/dc.gif?
@@ -104,9 +99,7 @@
 .jp/pv?
 .lms-analytics/
 .net/l.gif?
-.net/ping.php?
 .ntpagetag.
-.org/js/ga-
 .php?action=browse&
 .php?action_name=
 .php?hey_stat=
@@ -119,7 +112,6 @@
 .php?self=
 .php?stats=
 .php?tracking=
-.pt/n.gif?
 .sharecounter.$third-party
 .sitecatalyst.js
 .siteclarity.
@@ -128,7 +120,6 @@
 .snowplowanalytics.$domain=~snowplowanalytics.com
 .stats?action=
 .svc/?tracking_id=
-.track_Visit?
 .tv/log?event
 .v4.analytics.
 .vsTracking.
@@ -348,7 +339,6 @@
 /analytics-client-
 /analytics-collector
 /analytics-core-bundle-
-/analytics-corp.js
 /analytics-data-collector.
 /analytics-dotcom/*
 /analytics-efukt.
@@ -423,7 +413,6 @@
 /analytics/metric/*
 /analytics/mouse_
 /analytics/newrelic_
-/analytics/onLoad/*
 /analytics/page_view.
 /analytics/pageview
 /analytics/rt?
@@ -438,8 +427,6 @@
 /analytics/tracker.
 /analytics/trackers?
 /analytics/trackevent
-/Analytics/UniqueEndUser?
-/analytics/urlTracker.
 /analytics/visit/*
 /Analytics/Visitor.
 /analytics/web/*
@@ -447,7 +434,6 @@
 /analytics?body=
 /analytics?http_referer
 /analytics?token=
-/analytics?vv_events=
 /analytics_embed.
 /analytics_frame.
 /analytics_id.
@@ -513,6 +499,7 @@
 /api/v1/metrics
 /api/v1/stat?
 /api/v1/streamtelemetry
+/api/v2/collector
 /api/v2/jsonlogger
 /api/v3/getPageVisits
 /api/v3/trackSegmentEvent
@@ -545,7 +532,6 @@
 /article_counter.php?
 /article_hit.php?
 /ArticleCounterLogger.
-/ArticleLog.aspx?
 /articleOmnitureTracking.
 /ArticleViewTracking/*
 /aspenanalytics.
@@ -556,7 +542,6 @@
 /astrack.js
 /astracker.
 /astracker/*
-/async/stat|
 /asyncggtracking.
 /async~sentry-
 /at-composer.js
@@ -577,7 +562,6 @@
 /audienceScience.
 /audiweb.js
 /audsci.js
-/autotrack-with-autotrack-analytics.
 /autotrack.carbon.js
 /autotrack.custom.js
 /autotrack.custom.min.js
@@ -662,13 +646,10 @@
 /better-analytics/*
 /bf.gif?ac=
 /bfs-track.
-/bg_j.gif?
-/bglog.gif?
 /bh_counter.js
 /bi.tracking/*
 /bicomscore.
 /bicomscore_
-/bin/reff.php
 /bin/stats?
 /bineos.min.js
 /bing-bat.js
@@ -715,9 +696,6 @@
 /brightspot/analytics/*
 /brightTag-min.js
 /browserinfo?f.sid=
-/bs.measure.
-/bsc_trak.
-/bShowTrack.
 /bsp-analytics.
 /bstat.js
 /bstats.gif
@@ -770,9 +748,7 @@
 /certifica.js
 /certona.
 /Certona/*
-/certona_$script
 /cfformprotect/*
-/cfm-realtime-marketing/*
 /cgAnalyticsPageView.
 /cgi-bin/cnt/*
 /cgi-bin/count.cgi?
@@ -809,7 +785,6 @@
 /ckaudience/*
 /cklink.gif?
 /cklog.js
-/clarity-*.js$domain=~clarity-labs.kaminario.com|~clarity.imply.io|~make.services
 /clarity-api-
 /clear.gif?
 /click-analytics.
@@ -862,80 +837,48 @@
 /clicktale/*
 /clicktale_
 /clicktalecdn.
-/ClickTaleFilter.
-/clicktrack-*.gif?
 /ClickTrack.
 /clicktrack?
 /clicktracker.
-/clicktracking-global.
 /clicktracking.
 /clicktracking/*
-/clickTrackingAjaxController?
-/ClickTracks_
 /ClickTracksCookies.
-/clicktrends/*
 /clickx-tracker.
 /clicky.js
 /client-event-logger.
-/client-event.axd?
 /client-logging-bundle-
 /client-metrics/?target
-/client-tracking-sync.
 /client.rum.
 /client_pathlog.asp?
-/clientdatacollector/*
 /clientele/reports/*
 /clientEventLog/*
 /clientlib-analytics-
 /clientPageLog/*
 /clientstat?
-/clip-started.gif?
-/clk?utmwv=
-/cloudfrontvideotracker.
 /cls_report?
 /cls_rpt.gif?
-/cm?ci=*&tid=
-/cm?tid=
 /cm_segments.php?cookie
-/cmarketing.countus.js
-/cmd_track?
-/cmp-event-ioltrack.
-/cms-gg.js
 /cms.gif?
 /cms/stats/*
 /cmslog.dll?
 /cn-fe-stats/*
 /cn-track?
-/cnavperf?
 /cnstats.
 /cnstats/*
 /cnt-combined.php?
 /cnt.aspx?
 /cnt.cgi?
 /cnt.js
-/cnt.php?id=
-/cnt.php?rf=
 /cnt/cnt.php?
 /cnt/start.php?
 /cnt_js.php?
 /cntlog/*
 /cntpixel.
-/CntRpt.aspx?
 /cnvtr.js
-/cnwk.1d/*/apex.js
 /coAnalytics.
 /CofinaHits.
-/cognativex/cn.js
-/cognitive_match/*
 /cohesion-latest.
-/col1/*&ss=
-/col1/*?ss=
-/col2/*&sa=
-/col2/*&ss=
-/collect-*/jsEvent.js
-/collect-*/pageview|
 /collect.gif?
-/collect.php?data=
 /collect.php?tid=
 /collect/?dp=
 /collect/kasupport
@@ -960,9 +903,6 @@
 /collect?type=
 /collect_data.php?
 /collect_stat.
-/collect_v3.
-/collection.php?data=
-/collector-*/event
 /collector/beacon
 /collector/hit?
 /collector/pageview
@@ -975,7 +915,6 @@
 /common/analytics.js
 /common/ga.js
 /common/tracker.js
-/competeTracking_test.html?
 /compile/AppMeasurement.
 /comscore-js-
 /comscore-json/*
@@ -992,16 +931,11 @@
 /comscore_stats.
 /ComscoreAnalytics.
 /comscorebeacon.
-/comscorepageviewcomscorekw=
 /ComScorePlugin.
-/ComScoreSWF.
-/concat/tracking.
-/condenet-metric.
 /confiant-tag.
 /confiant.js
 /config/analytics.js
 /configuration-stat.js
-/connect_counter.js
 /contador.gif?
 /containerTag.js
 /containertag?
@@ -1022,7 +956,6 @@
 /cookiebean?
 /cookieId.htm
 /CookieLawStats/*
-/CookieManager-bdl?
 /CookieMapping?
 /cookieMonster?
 /CookiePingback?
@@ -1033,7 +966,6 @@
 /core-tracking.js
 /coretracking.php?
 /coreWatchingEvents.
-/CorporatePageTracking.
 /count.cfm?
 /count.do?
 /count.exe?
@@ -1043,11 +975,9 @@
 /count.gif?
 /count.php?
 /count.png?
-/count/?ad=
 /count/count.cgi?
 /count?pid=
 /count?type=
-/count_DB/*
 /count_js.
 /count_stats/*
 /countbk.
@@ -1086,8 +1016,6 @@
 /counter_image.gif?
 /counter_liveinternet.
 /countercgi.
-/countercollector/*
-/counterFooterFlash.
 /countertab.js?
 /countHits.
 /countinj.cgi?
@@ -1097,17 +1025,13 @@
 /countstat.php?
 /countubn.
 /countus.php
-/covery/pixcel.js
 /cpeEvent.
 /cpeEventTracking.
 /cqcounter.
-/cradleError.
 /crai_tracker.
 /create-lead.js
 /CreateAnalytics.js
 /CreateCookieSSO_
-/CreateVIDCookie.aspx?
-/creative.png?slotId=
 /criteo.$domain=~criteo.blotout.io|~criteo.github.io|~criteo.investorroom.com
 /Criteo/*
 /criteo_
@@ -1127,7 +1051,6 @@
 /csm/analytics;
 /csp_204?
 /csp_log?
-/csp_report.gne?
 /cta-loaded.js
 /ctd-sourcepoint.
 /ctd-tealium.
@@ -1135,7 +1058,6 @@
 /ctr_tracking.
 /ctrack?
 /ctracker/*$domain=~charmtracker.com
-/ctrl.gif?ref=
 /custom-analytics.js
 /custom-tracking.
 /CustomTrackingScript.
@@ -1169,15 +1091,8 @@
 /dataunlocker-prod.
 /dataunlocker.js
 /datawrapper.gif?
-/DatazoomAnalytics.
-/DavplusAnalytics.
 /dbdm-events.
 /dbdm-events/*
-/dc-storm-track.
-/dc-storm.js
-/dc-storm/aff.
-/dc-storm/track.
-/dc_performance.js
 /dcjs/prod/*
 /dcs.gif?
 /dcs/track.
@@ -1187,12 +1102,6 @@
 /dcs_tag2.
 /dcs_tag_
 /dcstag_
-/dcstorm-track.
-/dcstorm.js
-/dcstorm/track.
-/dctk.js
-/DecideDNATrackingCode-
-/DeepbiEventAdapter.
 /default/pAnalytics
 /delivery/lg.
 /delstats/*
@@ -12234,13 +12143,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pv.pjtsu.com^
 ||px-cdn.net/b/
 ||px-cdn.net^*/collector
-||px-cloud.net/api/v2/collector
 ||px-cloud.net/b/s
 ||px.marchex.io^
 ||px.mountain.com^
 ||px.owneriq.net^
 ||px.spiceworks.com^
-||pxchk.net/api/v2/collector$xmlhttprequest
 ||pxchk.net/b/s
 ||pylon.micstatic.com^
 ||qcloud.com/report.go?
@@ -14696,6 +14603,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||html5games.com/event/
 ||hulkshare.com/ajax/tracker.php
 ||hulu.com/metricsconfig
+||hypebeast.com/firebase-messaging-sw.js
 ||i.pokernews.com^
 ||ibtimes.com/front/js/counter.js
 ||icgp.ie/overview/js/tracker.php
