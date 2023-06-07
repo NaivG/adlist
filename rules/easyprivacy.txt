@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: a7hhlbrZbRxdxBI9Cy6gYg
-! Version: 202306061540
+! Checksum: JAcxV/clbznaHbcAHaAYYQ
+! Version: 202306070020
 ! Title: EasyPrivacy
-! Last modified: 06 Jun 2023 15:40 UTC
+! Last modified: 07 Jun 2023 00:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4184,6 +4184,7 @@
 ://collector.*/event
 ://email.*/blankpixel.gif
 ://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
+://internal-matomo.
 ://lightning.*/launch/
 ://matomo.$domain=~matomo.org
 ://mint.*/?js
@@ -4785,6 +4786,7 @@ _mongo_stats/
 ||g990421676.co^
 ||gbqofs.com^
 ||geoedge.be^
+||geotargetly-api-*.com^
 ||glimr.io^
 ||glookup.info^
 ||go-mpulse.net^
@@ -15275,6 +15277,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ! ||digital.att.com^
 ! ||connect.telstrawholesale.com^
 ! ||form.info-morimoto-real.jp^
+! ||hfd.bridgetowermedia.com^
 ||clickmail.stubhub.com^$image,script
 ||email.mg.everyonesocial.com^$image,script
 ||wl.spotify.com^$image,script
@@ -21199,7 +21202,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||halo.actonservice.com^
 ||harriscomputer.actonservice.com^
 ||hcacentralwesttexas.hrm.healthgrades.com^
-||hfd.bridgetowermedia.com^
 ||hotel-marketing.hrs.com^
 ||hub.hubinternational.com^
 ||ibamolecular.actonservice.com^

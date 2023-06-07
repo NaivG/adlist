@@ -1,10 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-06-05 15:49:38（北京时间）
-! Total Count: 3499
+! Update Time: 2023-06-06 19:22:30（北京时间）
+! Total Count: 3505
 ! by: 酷安@大萌主
 ! Host
+||zewfbw.buzz^
+||pohpll.xyz^
+||zhengliyqq.com^
+||ajcode.co^
 ||hefrpv.xyz^
 ||dghehu.com^
 ||nxnjw.com^
@@ -2824,6 +2828,7 @@ hanman/static/dist/ppm/js/main.js
 ||manhuabei.com/assets/xiwang.js
 ||yhdm.tv/bar/yfyh.js
 /js/js4.js
+.top/*/*.js?ts=$third-party
 /obj/ad-app-package
 /yinghuacd/bottom.js
 ||baidu.com/rec?*=ad&
@@ -2959,6 +2964,7 @@ _/bigREDdog.css?
 /v0/amp-addthis-*.js
 .com:8010/cc/
 .xyz/Kfc_
+.buzz/*0*0*0*==$third-party
 .xyz/xtub_
 .xyz/?token=
 .shop:*/bid?url=
