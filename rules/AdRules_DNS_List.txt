@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: NBtCS9/pdKJLKkCWksFbhA
+! Checksum: CHWLWQJJu7KGSv9qbiLeow
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by Cats-Team
 ! Expires: 1 (update frequency)
 ! Description: The DNS Filters
-! Version: 2023-06-08 08:37:36(GMT+8) 
-! Total count: 85777
+! Version: 2023-06-08 11:34:25(GMT+8) 
+! Total count: 85779
 ||*.wap.xsbiquge.com^
 ||*serror*.wo.com.cn^
 ||0-000.store^
@@ -31749,6 +31749,7 @@
 ||gadspms.com^
 ||gadspmz.com^
 ||gae.karte.io^
+||gae2-spclient.spotify.com^
 ||gaelsdaniele.website^
 ||gaesataigal.uno^
 ||gaffa.tns-gallup.dk^
@@ -42585,6 +42586,7 @@
 ||lmepbq.com^
 ||lmgdmwyd.com^
 ||lmgvur.scbt.com^
+||lmjwqbjmkrzyw.top^
 ||lmldvr.centauro.net^
 ||lmlmvip.com^
 ||lmlzht.xyz^
@@ -79514,7 +79516,6 @@
 ||vmcsatellite.com^
 ||vmcxdaynkhnekp.com^
 ||vmewz.xyz^
-||vmewz.xyzy.buzz^
 ||vmhzvqzx.com^
 ||vmindhls.tc.qq.com^
 ||vmjjzk.cn^
@@ -85695,6 +85696,7 @@
 ||zwaar.net^
 ||zwadakesq.cyou^
 ||zwatgf.megaknihy.cz^
+||zwbbkjvzqbyba.top^
 ||zwgoeg.zakcret.gr^
 ||zwiaaop.cyou^
 ||zwinqi.spartoo.pt^

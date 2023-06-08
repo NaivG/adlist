@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: /FeVxDD27r1i3CLFmHuN2Q
-! Version: 202306080020
+! Checksum: edPkfc6NRugtMBuBSBZZyw
+! Version: 202306080740
 ! Title: EasyPrivacy
-! Last modified: 08 Jun 2023 00:20 UTC
+! Last modified: 08 Jun 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8371,6 +8371,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||frailoffer.com^
 ||franticcarpenter.com^
 ||frantictrail.com^
+||freezingbuilding.com^
 ||fretfulfurniture.com^
 ||friendlyfold.com^
 ||friendwool.com^
@@ -8781,6 +8782,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||realizevacation.com^$third-party
 ||rebelhen.com^
 ||rebelsubway.com^
+||rebelswing.com^
 ||receptivebranch.com^
 ||receptiveink.com^
 ||receptivereaction.com^$third-party
