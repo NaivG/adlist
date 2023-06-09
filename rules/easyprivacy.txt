@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: /FZESh/cmz1gxHgtSjX4IA
-! Version: 202306082340
+! Checksum: edthX0WIAa1yPNxMaKyVpg
+! Version: 202306090740
 ! Title: EasyPrivacy
-! Last modified: 08 Jun 2023 23:40 UTC
+! Last modified: 09 Jun 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1509,6 +1509,7 @@
 /google/autotrack.
 /google_analitycs.
 /google_analytics3_
+/google_analytics4.js
 /google_page_track
 /google_tag.
 /google_tag/*
@@ -10178,6 +10179,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||amazonaws.com/analytics.
 ||amazonaws.com/appmonitors/
 ||amazonaws.com/avsmetrics/
+||amazonaws.com/beacon^
 ||amazonaws.com/cdn.barilliance.com/
 ||amazonaws.com/j.kissinsights.com/
 ||amazonaws.com/js/reach.js
@@ -10594,6 +10596,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cloudfront.net/autotracker
 ||cloudfront.net/beaver.js
 ||cloudfront.net/bti/
+||cloudfront.net/clipkit_assets/beacon-
 ||cloudfront.net/code/keen-2.1.0-min.js
 ||cloudfront.net/dough/*/recipe.js
 ||cloudfront.net/esf.js

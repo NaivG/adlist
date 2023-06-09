@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: T/ZNbCvclN0xd7ZznSN22g
+! Checksum: X53BCm9B9z25FCTz/ecNzQ
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by Cats-Team
 ! Expires: 1 (update frequency)
 ! Description: The DNS Filters
-! Version: 2023-06-09 08:40:28(GMT+8) 
-! Total count: 85569
+! Version: 2023-06-09 08:56:13(GMT+8) 
+! Total count: 85573
 ||*.wap.xsbiquge.com^
 ||*serror*.wo.com.cn^
 ||0-000.store^
@@ -4749,6 +4749,7 @@
 ||ad.qyer.com^
 ||ad.realist.gen.tr^
 ||ad.realmcdn.net^
+||ad.reejax.com^
 ||ad.rejichoice.jp^
 ||ad.repubblica.it^
 ||ad.scanmedios.com^
@@ -62112,6 +62113,7 @@
 ||server10.opentracker.net^
 ||server11.opentracker.net^
 ||server2.mediajmp.com^
+||server44.ne.com^
 ||server821.com^
 ||serveraddr.service.kugou.com^
 ||serverads.net^
@@ -76947,6 +76949,7 @@
 ||turdgasm.com^
 ||turdsarnatta.com^
 ||turfedtaboret.com^
+||turfomajokeroo.com^
 ||turfomani.fr^
 ||turifb.xyz^
 ||turkey.docsy.cloud^
@@ -79029,6 +79032,7 @@
 ||vidforclips.mom^
 ||vidforclips.net^
 ||vidforclips.space^
+||vidnli0.0.0.0freenation.com^
 ||vidnline.com^
 ||vidoomy.com^
 ||vidora.com^
