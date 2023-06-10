@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: iTTBE+ZhNqxBy/01bA+HbA
+! Checksum: 2OvQ4wlte0Bt32l1mPF6sA
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by Cats-Team
 ! Expires: 1 (update frequency)
 ! Description: The DNS Filters
-! Version: 2023-06-10 08:34:49(GMT+8) 
-! Total count: 85469
+! Version: 2023-06-10 10:12:18(GMT+8) 
+! Total count: 85473
 ||*.wap.xsbiquge.com^
 ||*serror*.wo.com.cn^
 ||0-000.store^
@@ -9312,6 +9312,7 @@
 ||analytics-eu.clickdimensions.com^
 ||analytics-eu.tactilews.com^
 ||analytics-events.inshorts.com^
+||analytics-gateway.delta.dp.lightricks.com^
 ||analytics-gw.games.wanmei.com^
 ||analytics-ingestion.production-public.tubi.io^
 ||analytics-ingress-global.bitmovin.com^
@@ -28968,6 +28969,7 @@
 ||events.audiate.me^
 ||events.avantisvideo.com^
 ||events.avaya.com^
+||events.betterhelp.com^
 ||events.bgrs.com^
 ||events.blackboard.com^
 ||events.bouncex.net^
@@ -29024,6 +29026,7 @@
 ||events.oddo-bhf.com^
 ||events.popinfo.jp^
 ||events.practo.com^
+||events.prd.api.discomax.com^
 ||events.prd.api.max.com^
 ||events.realgravity.com^
 ||events.reclamefolder.nl^
@@ -42618,6 +42621,7 @@
 ||log.beecost.vn^
 ||log.bitauto.com^
 ||log.bizlive.vn^
+||log.bloodsugars.live^
 ||log.btopenworld.com^
 ||log.china.cn^
 ||log.cinematoday.jp^
