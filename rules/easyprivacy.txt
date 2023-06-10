@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: pv/RY90QAMfC3VBCk+DgRA
-! Version: 202306100740
+! Checksum: klVLPSomfekROfIJXuYiYg
+! Version: 202306101540
 ! Title: EasyPrivacy
-! Last modified: 10 Jun 2023 07:40 UTC
+! Last modified: 10 Jun 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1739,51 +1739,26 @@
 /interaction/beacon
 /intercept.js
 /internal/page_view?
-/intervigil.
 /IPbeacon.
 /ipdvdc/*
 /iperceptions.
 /iperceptions/*
 /iperceptions_
-/IperceptionsSurvey.
-/ipfx?eid=
 /ipinfo.json
 /ipixel?spacedesc
-/iporganictrack.
 /ips-invite.iperceptions.com/*
 /iptracer.
-/iqtm.js
-/istat.aspx?
-/ists.tag?
-/item-stats.
-/ItemStats.ajax?
 /itgdtracksdk.
 /itmdp_code.
-/itrack.php?
-/iva_analytics.
-/iva_thefilterjwanalytics.
-/ivw.html
-/ivw.js
-/ivw.php
 /ivw/SP/*$image,script
-/ivw2.cgi?
-/ivw2.js
-/ivw_analytics_
-/IVWAnalytics.
-/ivwbox/*
-/iwa.js
-/iwstat.js
 /j.gif?
 /jgs_portal_log_bildschirm.php?
-/jltracking.
 /jquery.analytics.js|
 /jquery.audiencetarget.
 /jquery.browser-fingerprint-
 /jquery.google-analytics.
-/jquery.jw.analitycs.
 /jquery.trackstar.
 /jquery.unica.
-/JqueryEtracker.
 /js-sdk-event.
 /js/_analytics/*
 /js/analitics.
@@ -3731,7 +3706,6 @@
 /tunestats.
 /turn-proxy.html?
 /tw-track.js
-/twdc-dtci/prod/servercomponent.php?
 /TwitterTracking.
 /tynt.js
 /tzr.fcgi?
@@ -14126,6 +14100,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gurgle.pcmag.com^
 ||hankookilbo.com/service/kt/trk.js$script,domain=koreatimes.co.kr
 ||harryrosen.com/analytics/
+||health-metrics-api.setapp.com^
 ||healthline.com/api/metrics
 ||heap.drop.com^
 ||hilton.com/zJbufaUX/
@@ -15048,6 +15023,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||studeersnel.nl/27m703Hm/init.js
 ||studocu.com/27m703Hm/init.js
 ||sweetwater.com/p2TBVNJZ/init.js
+||thehill.com/6zcfGH4h/init.js
 ||therealreal.com/ev56mY37/init.js
 ||tumi.com/4i06uv8M/init.js
 ||twentytwowords.com/static/clients/twentytwowords/3CVQBi14_init.js
