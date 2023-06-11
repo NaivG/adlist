@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: cBRLQX3xxtH5lwqAmidGQw
-! Version: 202306110740
+! Checksum: eKODwjtWldKpO5lht/NBYg
+! Version: 202306111540
 ! Title: EasyPrivacy
-! Last modified: 11 Jun 2023 07:40 UTC
+! Last modified: 11 Jun 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13775,6 +13775,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.guide.photobucket.com^
 ||data.webullfintech.com/event/
 ||data.younow.com^
+||datadoghq.com/assets/dd-browser-logs-rum.js
 ||datadome.patreon.com^
 ||dbhsejcg-meetup-com.cdnjs.network^
 ||dc.banggood.com^
@@ -14004,6 +14005,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hulu.com/metricsconfig
 ||hypebeast.com/firebase-messaging-sw.js
 ||i.pokernews.com^
+||iam-rum-intake.datadoghq.com^
 ||ibtimes.com/front/js/counter.js
 ||icgp.ie/overview/js/tracker.php
 ||idiva.com/analytics_
@@ -14388,6 +14390,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||slack-edge.com/bv1-10/slack_beacon.
 ||slack.com/beacon/
 ||slack.com/clog/track/
+||slant.co/js/track.min.js
 ||slashdot.org/country.js
 ||slashdot.org/images/js.gif
 ||slickdeals.net/ajax/stats/
