@@ -1,8 +1,8 @@
 [Adblock Plus]
-! Version: 202306150007
+! Version: 202306150535
 ! Description: Block. Don't break.
 ! Title: oisd small
-! Last modified: 2023-06-15T00:07:42+0000
+! Last modified: 2023-06-15T05:35:39+0000
 ! Expires: 1 days (update frequency)
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List                                  
@@ -3365,7 +3365,6 @@
 ||adsee.jp^
 ||adsemirate.com^
 ||adsemo.com^
-||adsense.google.com^
 ||adsensecamp.com^
 ||adsensecustomsearchads.com^
 ||adser.io^
