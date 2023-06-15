@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: jhBE64TyYLHM+JVe5y9NPA
-! Version: 202306150740
+! Checksum: cTB1u7MrxpHhrF+9vuRK4Q
+! Version: 202306151540
 ! Title: EasyPrivacy
-! Last modified: 15 Jun 2023 07:40 UTC
+! Last modified: 15 Jun 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12433,6 +12433,24 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ! firebase
 ||firebase.googleapis.com^$domain=terabox.fun
 ||firebaseinstallations.googleapis.com^$domain=terabox.fun
+! https://gist.github.com/tinogomes/c425aa2a56d289f16a1f4fcb8a65ea65
+! Domains linking to 127.0.0.1
+||cefgo.com^
+||domaincontrol.com^
+||fbi.com^
+||lacolhost.com^
+||lndo.site^
+||local.computer^
+||local.qinlili.bid^
+||local.sisteminha.com^
+||localho.st^
+||localtest.me^
+||lvh.me^
+||nip.io^
+||ssh.town^
+||supercalifragilisticexpialidocious.co.uk^
+||xip.io^
+||yoogle.com^
 ! taboola
 ||am-vid-events.taboola.com^
 ||convsgmp.taboola.com^
