@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: l54JyFspBeUYF0uQpm0ZXg
-! Version: 202306160740
+! Checksum: IRHJLU3Eke8aJUqOobaWtg
+! Version: 202306161540
 ! Title: EasyPrivacy
-! Last modified: 16 Jun 2023 07:40 UTC
+! Last modified: 16 Jun 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11181,6 +11181,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||liverail.com/track/?
 ||livestats.kaltura.com^
 ||livestory.io/*/collect
+||llama.fi/script.js
 ||loader-cdn.azureedge.net^
 ||loader.zeroform.com^
 ||location3.com/analytics/
@@ -33724,6 +33725,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||businessclick.ch/index.js$domain=finanzen.ch
 @@||classic.comunio.de/clubImg.phtml/$image,~third-party
 @@||digitale-sammlungen.gwlb.de^*/pageview.js$script,domain=digitale-sammlungen.gwlb.de
+@@||digitalo.de/min/?b=*/WebTracking.js$script,~third-party
 @@||energy.de^*/ivw.js?$domain=energy.de
 @@||ens.nzz.ch^$~third-party
 @@||geo.kaloo.ga/json/$script,domain=tagesspiegel.de
