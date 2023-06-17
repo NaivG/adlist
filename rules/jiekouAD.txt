@@ -1,10 +1,18 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-06-14 20:05:15（北京时间）
-! Total Count: 3539
+! Update Time: 2023-06-16 20:11:12（北京时间）
+! Total Count: 3549
 ! by: 酷安@大萌主
 ! Host
+||owrkwilxbw.com^
+||kgfjrb711.com^
+||najnus.com^
+||ohoyao.com^
+||ecoefh.com^
+||kszvmqo.cn^
+||bis8j.com^
+||yichengjiajupt.com^
 ||pc768.com^
 ||t0pan.top^
 ||lfzk2cp.icu^
@@ -2974,6 +2982,7 @@ _/bigREDcat.css?
 /baidu/tg.js
 /baidu/189/999.php
 /new/2*.html
+/new/4*.html
 /new/5*.html
 /new/8*.html
 _/bigREDdog.css?
@@ -3517,6 +3526,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##A#floating-banner
 ##[style$='display:block;width:9.6vw;height:8.5vw;background: #000;opacity:0.01;']
 ##DIV.loc_banner.only-app
+##div.swiper-slide > A[rel='nofollow noopenner']
 ##div#liveline > l,div#liveline > ll
 ##DIV.duilian[style*='z-index: 9999; top: 0px; ']
 ##div#header-wrapper.header_b > div#header

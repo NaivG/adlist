@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: IRHJLU3Eke8aJUqOobaWtg
-! Version: 202306161540
+! Checksum: J0zExK/Au/Yn4axNu1xBuQ
+! Version: 202306170020
 ! Title: EasyPrivacy
-! Last modified: 16 Jun 2023 15:40 UTC
+! Last modified: 17 Jun 2023 00:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7178,6 +7178,7 @@ _mongo_stats/
 ||web-stat.fr^$third-party
 ||web-stat.net^$third-party
 ||webanalysis.dev^$third-party
+||webanalytic.info^$third-party
 ||webclicktracker.com^$third-party
 ||webcounter.co.za^$third-party
 ||webcounter.ws^$third-party
@@ -9651,6 +9652,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||smartnews-ads.com^$third-party
 ||socdm.com^$third-party
 ||speee-ad.jp^$third-party
+||talpa-analytics.com^$third-party
+||talpa-analytics.work^$third-party
 ||taxel.jp^$third-party
 ||team-rec.jp^$third-party
 ||tgknt.com^$third-party
@@ -33831,6 +33834,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 !
 !---------- Finnish ----------
 !
+@@||analytics-sdk.yle.fi/yle-analytics.min.js$~third-party
 @@||nelonenmedia.fi/logger/logger-ini.json$xmlhttprequest,domain=embed.sanoma-sndp.fi|supla.fi
 !
 !---------- Hebrew ----------
