@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
-! Checksum: 38WBj73HDWnmPUltTtZLzA
+! Checksum: MVa26CgCJ9G8lPUB9fYL2w
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by Cats-Team
 ! Expires: 1 (update frequency)
 ! Description: The DNS Filters
-! Version: 2023-06-17 08:03:39(GMT+8) 
-! Total count: 86609
+! Version: 2023-06-17 14:45:32(GMT+8) 
+! Total count: 86610
 ||*.wap.xsbiquge.com^
 ||*serror*.wo.com.cn^
 ||0-000.store^
@@ -411,6 +411,7 @@
 ||1368999.com^
 ||136dd8678f.com^
 ||137kfj65k.de^
+||1381a.xyz^
 ||1383a.xyz^
 ||1385a.xyz^
 ||13bt.info^
@@ -4264,7 +4265,6 @@
 ||accessiblescopevisitor.com^
 ||accessorydistantdepths.com^
 ||accesstrade.net^
-||accfiverif.com^
 ||accid.xyz^
 ||accident.changehealthcare.com^
 ||accidentalinfringementfat.com^
@@ -11072,7 +11072,6 @@
 ||app.getgigl.com^
 ||app.getmiles.com^
 ||app.getplayground.com^
-||app.getresponse.com^
 ||app.getselect.co^
 ||app.getsentry.com^
 ||app.getwoohoo.com^
@@ -20341,7 +20340,6 @@
 ||content.hourigan.group^
 ||content.hurix.com^
 ||content.hydraulicsproducts.com^
-||content.id.elsevier.com^
 ||content.investresolve.com^
 ||content.juniper.net^
 ||content.lemonpi.io^
@@ -32211,6 +32209,7 @@
 ||gcouncer.buzz^
 ||gcounter.hosting4u.net^
 ||gcowhi.thesalarycalculator.co.uk^
+||gcqciiqk.com^
 ||gcruperparverew.xyz^
 ||gct.americanexpress.com^
 ||gctd.xyz^
@@ -35160,6 +35159,7 @@
 ||hhbypdoecp.com^
 ||hhcj.co.uk^
 ||hhcskj.com^
+||hhff111222.com^
 ||hhfun.cn^
 ||hhgxbxk.cn^
 ||hhit.xyz^
@@ -43244,6 +43244,7 @@
 ||logging.je-apps.com^
 ||logging.kinhtedothi.vn^
 ||logging.prefixbox.com^
+||logging.pw.adn.cloud^
 ||loggingapi.spingo.com^
 ||loggly.cheatsheet.com^
 ||loggychops.paulsmith.site^
@@ -71891,7 +71892,6 @@
 ||tags.cdn.circlesix.co^
 ||tags.chip.de^
 ||tags.cmp.tail.digital^
-||tags.creativille.co.uk^
 ||tags.creditkarma.com^
 ||tags.digital-metric.com^
 ||tags.esri.com^
@@ -76802,6 +76802,7 @@
 ||tracking.vht.com.vn^
 ||tracking.vid4u.org^
 ||tracking.vietbao.vn^
+||tracking.viewlift.com^
 ||tracking.viewster.com^
 ||tracking.virginmediao2business.co.uk^
 ||tracking.virtus.com^

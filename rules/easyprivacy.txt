@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: J0zExK/Au/Yn4axNu1xBuQ
-! Version: 202306170020
+! Checksum: s1RjWmH9S/Vvp1E9JkLRWw
+! Version: 202306170740
 ! Title: EasyPrivacy
-! Last modified: 17 Jun 2023 00:20 UTC
+! Last modified: 17 Jun 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30,10 +30,8 @@
 -adobeDatalayer_
 -amp-error-reporting.
 -analytics-events.
--analytics-state?
 -appanalytics-
 -click-tracker.
--datacollection.
 -didomi.js
 -ga-tracker.
 -ga-tracking/
@@ -160,7 +158,6 @@
 /_gz/counter.php?
 /_hcms/perf
 /_lib/ga.js
-/_log?ocid=
 /_owa.gif?
 /_sess/script.js
 /_stat/log/*
@@ -179,7 +176,6 @@
 /acecounter/*
 /acecounter_
 /acounter.php?
-/action/analytics
 /ActionLogger?
 /activity-track/?
 /activity.gif?
@@ -200,7 +196,6 @@
 /addlogdetails.
 /addon/analytics/*
 /addpageview/*
-/addrtlog/*
 /adds/counter.js
 /addstats?callback=
 /adlogger.
@@ -2719,6 +2714,7 @@
 /rcpganalytics-
 /rcpganalytics/*
 /readReceipt/notify/?img=$image
+/readthedocs-analytics.js
 /readtracker-
 /realtimeapi/impression?
 /realytics-
@@ -2928,14 +2924,9 @@
 /set_optimizely_cookie.js
 /set_tracking.js
 /setAdStatEV?
-/setbucket?signature=
-/setcookieADV.js
-/SetSabreAnalyticsCookie.
 /setTDUID.do?
 /sfCounter/*
-/sfsites/auraAnalytics
 /sgtracker.js
-/share/analytics?
 /shareCounts.
 /shared/sentry/*
 /sherlock.gif?
@@ -2949,17 +2940,11 @@
 /showhits.php?
 /shreddit/perfMetrics
 /si-tracking.
-/sidebarAnalytic?
 /sidtracker.
 /sikcomscore_
-/sikquantcast_
 /silveregg_cookie?
 /silveregg_tracking.
-/SilverPop.
-/silverpop/*
-/simple-tracking?
 /simple_reach.js
-/simplereach_counts/*
 /simtracker.min.js
 /siq-analytics.
 /site_counter?
@@ -2973,24 +2958,17 @@
 /sitecatalist.js
 /sitecatalyst.js
 /sitecatalyst/tracking.
-/sitecounter/counter.
 /sitecrm.js
 /sitecrm2.js
 /SiteSearchAnalytics.js
-/siteskan.com/*
 /sitestat.
 /sitestat_
-/sitestatforms.
 /sitestats.gif?
-/sitetracker21.
-/SiteTrackingGA.
 /sitetrek.js
 /sizes.gif?*=
-/sk1n-async.
 /skstats-
 /skstats_
 /skype-analytics.
-/sl.gif?1=
 /slimstat/*
 /sluurpy_track.js
 /smart-pixel.min.
@@ -3016,7 +2994,6 @@
 /socialTracking.js
 /socialtracking.min.js
 /softclick.js
-/softpage/stats_registerhit.asp?
 /solarcode.js
 /sometrics/*
 /somni.js
@@ -3036,33 +3013,18 @@
 /sp_tracker.
 /space.gif?host=
 /spacer.gif?
-/spannerworks-tracking-
-/SpectrumAnalytics.js?
-/speedlog?ts=
-/SpeedTrapInsert.
-/spi.gif?aid=
-/spip.php?page=stats.js
-/spixel.
 /splunk-logging-
-/sponsorship_stats/*
-/spot.aspx?Log=
 /springmetrics.
-/sptlog.
-/spy/tracker.
-/spylog_
 /spymonitor.js
 /sr.gif?
 /sra_analytics.
 /sranalytics.
 /src/tracking_
-/srganalytics.
 /srp.gif?
 /ssl-intgr-net/*
 /SSOCore/update?
 /sst8.js
-/sst8.sst?
 /sstat_plugin.js
-/st.aspx?
 /standalone-analytics-
 /stat-adobe-
 /stat-analytics/*
@@ -3103,26 +3065,15 @@
 /statcounter.asp
 /statcounter.js
 /statcountex/count.asp?
-/stateye/*
-/static/javascript/readthedocs-analytics.js
 /statistic/pixel?
-/statistics-page-view/*
-/statistics.aspx?profile
-/statistics.html?action=
-/statistics.html?url=
 /statistics.js?$third-party
-/statistics.php?data=
 /statistics/get?
 /statistics/getcook.php?
-/statistics/imr.
-/Statistics/Log.svc/*
 /statistics/metrica.
 /statistics/ping.
 /statistics/pixel/*
-/statistics/seen
 /statistics/set?
 /statistics?counter=
-/statistics?eventType=
 /statisticsv2/*
 /statlogger.
 /StatRecorder.asp?
@@ -3443,9 +3394,7 @@
 /tracking/open?
 /tracking/pageview.
 /tracking/pixel.
-/tracking/pixel/*
 /tracking/pixel_
-/tracking/pixels.
 /tracking/referrer?
 /tracking/thirdpartytag.js
 /Tracking/TrackPage
@@ -3501,8 +3450,6 @@
 /trackpageview.
 /trackPageView/*
 /TrackPageview?
-/TrackPartnerVisit?
-/trackpidv3.
 /trackpix.
 /trackpixel.
 /trackpixel?
@@ -3516,7 +3463,6 @@
 /trackTimings.gif?
 /trackui.min.js
 /trackuity.
-/TrackUser?callback=
 /trackv&tmp=
 /TrackView/*$xmlhttprequest
 /TrackView/?track
@@ -3525,14 +3471,11 @@
 /trackvisit?
 /TrackVisitors/*
 /TrackWebPage?
-/tradelab.js
 /traffic-source-cookie.
 /traffic-source-cookie/*
-/traffic.asmx/*
 /traffic/status.gif?
 /traffic/track^
 /traffic4u.
-/traffic_link_client.php?
 /traffic_record.php?
 /traffic_tracker.
 /TrafficCookie.
@@ -3540,28 +3483,21 @@
 /traffictrade/*
 /traffix-track.
 /trafic.js
-/trail.gif?s=
-/trakksocial.js
 /trans_pixel.asp
 /transparent.gif?ray=
 /transparent1x1.
 /transparent_pixel.
 /transpix.gif
 /travel-pixel-
-/travelAdsBeacon/*
-/trax.gif?
 /traxis-logger.
 /trbo.js
 /trck/eclick/*
 /trck/etms/*
-/trcking/trck.php?
 /trckUtil.
-/trclnk.js
 /trendmd.min.js
 /trigger-visit-event
 /triggertag.js
 /triggit-analytics.
-/trk-off.
 /trk.*/impression/*
 /trk.*/open?$image
 /trk.*/tracking.
@@ -3570,29 +3506,12 @@
 /trk/api/*
 /trk2.*/open?$image
 /trk?t=$image
-/trk_tb.
-/trk_zbo.
 /trkga.
-/trkpixel.gif
-/trkr.js
-/trkr/php?
 /trovit-analytics.js
-/trpic.asp?
 /truehits.php?
-/trueTag-
-/truetag_landing_
-/trx?id=
-/tse/tracking.
-/tsrHitCounter.
-/ttt.gif?
-/tunestats.
-/turn-proxy.html?
 /tw-track.js
-/TwitterTracking.
 /tynt.js
-/tzr.fcgi?
 /u.gif?
-/uclick.php?add_event2=
 /ucount.php?
 /udctrack.
 /uds/stats?
@@ -3621,16 +3540,12 @@
 /universal-tracking-
 /universalPixelStatic.
 /update_hits3/*
-/updateBotStatus.do?
 /updateStats.
 /urchin.gif?
 /urchin.html?
 /urchin.js
 /urchinstats.
-/URLSplitTrack?
-/user-agent-analyzer.
 /user-context?referrer=
-/userdata_n?
 /userfingerprinttoken/*$xmlhttprequest
 /userfly.js
 /users/track?
@@ -4934,7 +4849,6 @@ _mongo_stats/
 ||analyticson.com^$third-party
 ||analyticswizard.com^$third-party
 ||analytik.xyz^$third-party
-||analytk.com^$third-party
 ||analyzz.com^$third-party
 ||anametrix.com^$third-party
 ||anametrix.net^$third-party
@@ -5319,7 +5233,6 @@ _mongo_stats/
 ||crtx.info^$third-party
 ||csdata1.com^$third-party
 ||ctnsnet.com^$third-party
-||cttracking02.com^$third-party
 ||cuberoot.co^$third-party
 ||curalate.com^$third-party
 ||customer.io^$third-party
@@ -5685,7 +5598,6 @@ _mongo_stats/
 ||globel.co.uk^$third-party
 ||globetrackr.com^$third-party
 ||gnpge.com^$third-party
-||go2link.net^$third-party
 ||goadservices.com^$third-party
 ||goatcounter.com^$third-party
 ||godhat.com^$third-party
@@ -6732,7 +6644,6 @@ _mongo_stats/
 ||siteapps.com^$third-party
 ||sitebro.com^$third-party
 ||sitebro.net^$third-party
-||sitebro.tw^$third-party
 ||sitecompass.com^$third-party
 ||siteimprove.com^$third-party
 ||siteimproveanalytics.com^$third-party
@@ -6883,7 +6794,6 @@ _mongo_stats/
 ||surveyscout.com^$third-party
 ||surveywriter.com^$third-party
 ||survicate.com^$third-party
-||swfstats.com^$third-party
 ||swiss-counter.com^$third-party
 ||synergy-e.com^$third-party
 ||synerise.com^$third-party
@@ -6968,7 +6878,6 @@ _mongo_stats/
 ||traceless.me^$third-party
 ||tracelytics.com^$third-party
 ||tracemyip.org^$third-party
-||tracer.jp^$third-party
 ||traceworks.com^$third-party
 ||track-re01.com^$third-party
 ||track-server-100.com^$third-party
@@ -7249,8 +7158,6 @@ _mongo_stats/
 ||wrating.com^$third-party
 ||wt-eu02.net^$third-party
 ||wt-safetag.com^$third-party
-||wtastats.com^$third-party
-||wtastats.ro^$third-party
 ||wts.one^$third-party
 ||wts2.one^$third-party
 ||wtstats.com^$third-party
@@ -7574,7 +7481,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lmiutil.com^$third-party
 ||machieved.com^$third-party
 ||mepirtedic.com^$third-party
-||mercy.ga^$third-party
 ||mi-de-ner-nis3.info^
 ||mine.nahnoji.cz^
 ||mine.torrent.pw^$third-party
@@ -9000,7 +8906,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||24log.de^$third-party
 ||3ng6p6m0.de^$third-party
 ||4stats.de^$third-party
-||actionallocator.com^$third-party
 ||active-tracking.de^$third-party
 ||adc-serv.net^$third-party
 ||adclear.net^$third-party
@@ -9776,7 +9681,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||retargeting.biz^$third-party
 ||statistics.ro^$third-party
 ||top-ro.ro^$third-party
-||trafix.ro^$third-party
 ||wtstats.ro^$third-party
 ||zontera.com^$third-party
 ! Russian
@@ -10213,7 +10117,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||apm-engine.meteor.com^$third-party,xmlhttprequest
 ||app.adjust.com^$third-party
 ||app.carnow.com/dealers/track_visitor
-||app.cdn-cs.com/__t.png?
 ||app.link/_r?$script,third-party
 ||app.opmnstr.com/v2/geolocate/
 ||app.yesware.com/t/$third-party
@@ -11541,7 +11444,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pushpro.io/api/logging/
 ||pussy.org^*.cgi?pid=
 ||pussy.org^*/track.php
-||pv.pjtsu.com^
 ||px-cdn.net/b/
 ||px-cdn.net^*/collector
 ||px-cloud.net/b/s
@@ -11895,7 +11797,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tags.catapultx.com^
 ||tags.cdn.circlesix.co^
 ||tags.clickagy.com^
-||tags.creativille.co.uk^
 ||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
 ||tags.refinery89.com^
@@ -13064,7 +12965,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||limone.iltrovatore.it^
 ||livestats.matrix.it^
 ||logger.kataweb.it^
-||maxusglobal.it/init.js
 ||mibatech.com/track/
 ||mrwebmaster.it/work/stats.php?
 ||nanopress.it/lab.js
@@ -13133,7 +13033,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||c-rings.net^$script,third-party
 ||cloudfunctions.net/trackEvent
 ||cnobi.jp^*/js/imp.
-||cookie.codemarketing.cloud^
 ||cookie.sync.usonar.jp^
 ||counter2.blog.livedoor.com^
 ||crossees.com^
@@ -14822,7 +14721,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||citi.com^*/fp.js
 ||citibank.com.ph/tmx/js/
 ||clear.wallapop.com^
-||content.id.elsevier.com^
 ||content22.bmoharris.com^
 ||content22.citi.eu^$script
 ||content22.citibank.com.au^
