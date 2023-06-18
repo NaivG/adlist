@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: wd3U8QadMpfSy1CZpiCDqg
-! Version: 202306171540
+! Checksum: tQp8GOX/SPj0yHUPhLCeaw
+! Version: 202306180031
 ! Title: EasyPrivacy
-! Last modified: 17 Jun 2023 15:40 UTC
+! Last modified: 18 Jun 2023 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -563,8 +563,6 @@
 /basesdc.js
 /basicMetricsTracking.
 /batch.gif?
-/batch/1/OE/*
-/batch/1/OP/*
 /batch/action/_:
 /baynote-$script
 /baynote.
@@ -2020,7 +2018,6 @@
 /logViewImpression/*
 /logwebhit.
 /logwriter.php
-/loi/imp?
 /lotame_audiences.
 /loyalty-tracking-
 /ls.gif?
@@ -3516,7 +3513,6 @@
 /udctrack.
 /uds/stats?
 /uecomscore_
-/uedata?
 /uem-ep.js
 /ui/analytics/*
 /uim.html/*
@@ -3527,7 +3523,6 @@
 /umami.js
 /umg-analytics/*
 /umt.gif?
-/unagi.amazon.
 /unbxdAnalytics.
 /unbxdAnalyticsConfig.
 /unica.gif?
@@ -3934,6 +3929,18 @@ _trackWebtrekkEvents.
 _view_pixel&$image
 _webanalytics.
 _WebVitalsReporter_
+! Amazon
+/action-impressions/*
+/ajax/counter?ctr=
+/batch/1/OE/*
+/batch/1/OP/*
+/insights/reportEvent/*
+/loi/imp?
+/remote-weblab-triggers/*
+/uedata?
+/unagi.amazon.
+/usage/Clickstream?
+/usage/ReportEvent?
 ! Email tracking pixels
 &mi_ecmp=
 -track-email-open?
@@ -13455,26 +13462,21 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adblocktape.online/stat/
 ||adblocktape.store/stat/
 ||adblocktape.wiki/stat/
-||adc.9news.com.au^
-||adc.api.nine.com.au^
-||adc.nine.com.au^
+||adc-js.nine.com.au^
 ||adguard.com/-/event/
 ||adl.bankofthewest.com^
 ||adobe.io/system/log
 ||adtech-events.bookmyshow.com^
 ||adv.drtuber.com^
-||advancedmp3players.co.uk/support/visitor/index.php?
+||advancedmp3players.co.uk/themes/basic/js/analytics.js
 ||aegis.trovo.live^
-||affiliates.treasureisland.com^
 ||affiliates.vpn.ht^
 ||agoda.com/api/pixel/
 ||agoda.net/v2/track
-||ai.iol.io^
 ||airtable.com/internal/$xmlhttprequest
 ||airtable.com^*/reports
 ||aiv-delivery.net/Events/
 ||aiv-delivery.net/v1/ReportEvent
-||akamai.net^*/button.clickability.com/
 ||akamaihd.net/paay6hyr.gif?
 ||alb.reddit.com^
 ||alicdn.com/AWSC/et/
@@ -13487,15 +13489,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||alljapanesepass.com/rstat
 ||als-svc.nytimes.com^
 ||altruja.de/js/micro/integration-ga.js
-||amazon.*/action-impressions/
-||amazon.*/ajax/counter?
-||amazon.*/cdp/usage/Clickstream
-||amazon.*/ReportEvent
 ||amazon.com/1/aiv-web-player/1/OE^
 ||amazon.com/1/events/$domain=~aws.amazon.com
-||amazon.com/1/remote-weblab-triggers/
 ||amazon.com/empty.gif?$image
-||amazon.com^*/impress.html
 ||americanexpress.com/beacon
 ||amethyst.zappos.com^
 ||amnesty.org/collect/
@@ -13512,7 +13508,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.brave.com^
 ||analytics.chase.com^
 ||analytics.designspiration.com^
-||analytics.ecosia.org^
 ||analytics.faceitanalytics.com^
 ||analytics.footballdb.com^
 ||analytics.freemake.com^
@@ -13537,7 +13532,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.synchrony.com^
 ||analytics.synedat.com^
 ||analytics.tradedoubler.com^
-||analytics.twitter.com^
 ||analytics.vedantu.com^
 ||analytics.wavebox.io^
 ||analytics.yugen.to^
@@ -14341,6 +14335,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||soundcloud.com^$ping
 ||sourcesync.io/analytics
 ||sp.cargurus.co.uk^
+||sp.ecosia.org^
 ||sp.welcometothejungle.com^
 ||spanishdict.com/page-view-metadata
 ||spectrum.gettyimages.com^
