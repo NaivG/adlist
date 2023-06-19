@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ZknFUQiKCRHPk9fXMaku9g
-! Version: 202306190740
+! Checksum: na45f2TGVyhZ4dF2zXozYA
+! Version: 202306191540
 ! Title: EasyPrivacy
-! Last modified: 19 Jun 2023 07:40 UTC
+! Last modified: 19 Jun 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12316,7 +12316,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||domaincontrol.com^
 ||fbi.com^
 ||lacolhost.com^
-||lndo.site^
+||lndo.site^$third-party
 ||local.computer^
 ||local.qinlili.bid^
 ||local.sisteminha.com^
@@ -12325,7 +12325,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||localtest.me^
 ||lvh.me^
 ||netfinity.hostedrmm.com^
-||nip.io^
+||nip.io^$third-party
 ||ssh.town^
 ||supercalifragilisticexpialidocious.co.uk^
 ||xip.io^
@@ -13644,6 +13644,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||consent.ghostery.com/v1.js
 ||console-telemetry.oci.oraclecloud.com^
 ||consumer.org.nz/session/ping/
+||containers.appdomain.cloud/api/send-log$domain=ibm.com
 ||conversion.mooncard.co^
 ||copilot-telemetry.githubusercontent.com^
 ||count.rin.ru^
@@ -13896,6 +13897,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hypebeast.com/firebase-messaging-sw.js
 ||i.pokernews.com^
 ||iam-rum-intake.datadoghq.com^
+||ibm.com/analytics/build/bluemix-analytics.min.js
 ||ibtimes.com/front/js/counter.js
 ||icgp.ie/overview/js/tracker.php
 ||idiva.com/analytics_
