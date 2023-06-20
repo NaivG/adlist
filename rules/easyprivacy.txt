@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: na45f2TGVyhZ4dF2zXozYA
-! Version: 202306191540
+! Checksum: X51EgcyKCF38DzOUIpnsTw
+! Version: 202306200020
 ! Title: EasyPrivacy
-! Last modified: 19 Jun 2023 15:40 UTC
+! Last modified: 20 Jun 2023 00:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1564,6 +1564,7 @@
 /gujTracker.
 /gv-analytics/*
 /gweb/analytics/*
+/h.gif?
 /hash_stat/*
 /hash_stat_bulk/*
 /hc/activity
@@ -2084,6 +2085,7 @@
 /mianalytics.
 /micro.php?action=view&
 /microsoft.cognitiveservices.speech.sdk.bundle.js
+/min/gtm/*
 /minder-tracker.
 /mint/?js
 /mint/?record
@@ -2109,6 +2111,7 @@
 /mnt/imp?
 /moapt-action-iq-analytics.
 /moat-tracker.
+/moat/yield.js
 /moatanalytics-
 /mobileanalytics.
 /modoweb-tracking/*
@@ -2138,6 +2141,7 @@
 /mtc.js
 /mtiFontTrackingCode.
 /mtrack.nl/js/*
+/mtracking.
 /mttag/*
 /mtvi_reporting.js
 /mv_Visit2.
@@ -2869,6 +2873,8 @@
 /sensorsdata.$domain=~sensorsdata.cn
 /sentry-browser.
 /sentry-logger.js
+/seo.taCo.min.js
+/seo.tagCommander-
 /seostats/*
 /seotracker/*
 /SEOTracking.
@@ -3182,6 +3188,8 @@
 /tc_analytics.
 /tccl.min.js
 /tck/gif/*
+/teal-comscore-
+/teal-gcianalytics-
 /TeaLeaf.js
 /tealeaf.min.js
 /TeaLeafCfg.js
@@ -3285,6 +3293,7 @@
 /track_pixel?
 /track_proxy?
 /track_stat?
+/track_video.php?id=
 /track_views.
 /track_visit.
 /track_visit?
@@ -13834,6 +13843,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||geoip.hmageo.com^
 ||geoip.ifunny.co^
 ||geolocation.forbes.com^
+||getadblock.com/js/log.js
 ||gettyimages.*/pulse$ping
 ||ghacks.net/statics/px.gif
 ||github.com/_private/browser/stats
@@ -14248,6 +14258,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rv.modanisa.com^$script
 ||rvo-cohesion.healthline.com^
 ||s.infogram.com^
+||s.wayfair.com^
 ||saa.insideedition.com^
 ||sciencechannel.com/events/
 ||scloud.online/stat/
@@ -31982,6 +31993,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||happysex.ch/app_jquery/Tracking.js
 ||hartgeld.com/cgi-sys/Count.cgi?
 ||heise.de/ivw-bin/ivw/cp/
+||herz-fuer-tiere.de^*/ad.gif?
+||herz-fuer-tiere.de^*/sunshine.gif?
 ||hokuspokus.tarnkappe.info^
 ||homegate.ch/g/collect?
 ||horizont.net/stats/
@@ -32237,6 +32250,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||autohome.com.cn/impress?
 ||baidu.com/api/bidder/
 ||baidu.com/kan/api/ipLocation
+||baidu.com^*/ps_default.gif?
 ||banana.le.com^
 ||beacon.qq.com^
 ||cherry.le.com^
@@ -32504,7 +32518,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||analytics.sanoma.fi^
 ||api.nettix.fi/counter/$image
 ||data.reactandshare.com^
-||dax.yle.fi/yya/event
+||dax.yle.fi^
 ||dp.alma.iltalehti.fi/v1/cookie
 ||events.il.fi^
 ||hs.fi/stats
