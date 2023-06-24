@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-06-23 19:44:30（北京时间）
-! Total Count: 3558
+! Update Time: 2023-06-24 15:07:50（北京时间）
+! Total Count: 3562
 ! by: 酷安@大萌主
 ! Host
 ||caardinal.com^
@@ -2882,6 +2882,8 @@ hanman/static/dist/ppm/js/main.js
 .top/*/*.js?ts=$third-party
 /obj/ad-app-package
 /yinghuacd/bottom.js
+/hm.js?$third-party
+||www.pkmp*.xyz/template/piankuwap/js/afoot.js
 ||baidu.com/rec?*=ad&
 ||download.2345.cn/2345yd1/apk/
 ||ifeng.com/showcode
@@ -3062,6 +3064,7 @@ baidu.com##a.ball-wrapper__3BTBO.c-blocka
 baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
 baidu.com##DIV.barea-ad
 baidu.com##DIV[data-module='rec:undefined-undefined']
+baidu.com##[class*='index_godCard'][class*='index_noGuaranteeTag'][class*='index_adTextPosition'],[class^='index_brandEntry__'],[data-show*='swan-ad-fc-swiper-banner']
 www.baidu.com###content_left > *:not([id]) *,[class="result c-container new-pmd"][id="1"][tpl="se_com_default"][data-click]
 baidu.com##DIV#page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
 hanyu.baidu.com##DIV#fengchao_els.c-container.card.fengchao-els
@@ -3081,6 +3084,7 @@ baike.baidu.com##[onclick^="page.Mixedor.mixedOpen(this,"]
 baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-content"],[class="yitiao-title"]
 zhidao.baidu.com###knowledge-answer-list
 zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
+baijiahao.baidu.com##DIV#bdrainrwDragButton
 bing.com##DIV#bnp_container
 bing.com##.b_ad
 tv.sohu.com##DIV.actv-banner.js-app-topbanner,DIV.banner_yunying,DIV.js-oper-pos,IMG.vrs-banner-act-img
