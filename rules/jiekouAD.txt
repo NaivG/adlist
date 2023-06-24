@@ -1,10 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-06-23 12:40:19（北京时间）
-! Total Count: 3572
+! Update Time: 2023-06-23 19:44:30（北京时间）
+! Total Count: 3558
 ! by: 酷安@大萌主
 ! Host
+||caardinal.com^
+||sgegie.fun^
+||hciea.xyz^
+||qctcu.com^
+||etregh.fun^
 ||zfmqfh.xyz^
 ||zfmtyv.buzz^
 ||xxhp2iz.icu^
@@ -2780,7 +2785,7 @@
 .live/o.js
 .cyou/redbaiduct.com
 /js/news2zz.js
-.com:8001/*/*?t=$3p
+.com:8001/*/*?*=$3p
 ||static.missav.com/js/plyr.js
 ||boxmp4.com/js/foot.js
 /site/mov*$third-party
@@ -2795,16 +2800,14 @@
 unpkg.com/aladug/*.js
 /index.html?channelCode=$~third-party
 .com/js/g.js
-.com:8008/cc/2427?is_not=
+:8008/*/*?is_not=
 trafficjunky.com$third-party
-.com:8007/*/*?n=$third-party
-.com:8007/*/*?t=$third-party
-.com:8007/*/*?c=$third-party
+.com:8007/*/*?*=$third-party
 .cn/2023/*/*.txt$third-party
-.com:8008/*/*?n=$third-party
-.com:8008/*/*?t=$third-party
+.com:8008/*/*?*=$third-party
 .cn/2022/*/*.txt$third-party
-/tongji.js
+.com:8004/*/*?*=$third-party
+yhdm*.com/js/wap2-jm-ms.js?ver=
 ||anluyg.net/static/js/channel*.js
 ||google-analytics.com$third-party
 ||killcovid2021.com/*.mp4
@@ -2822,8 +2825,6 @@ xmh/200/200-*.gif
 /statics/js/hth1111.html
 ||asacdn.com/prod/redirect.html
 ||img.bzzyx.cn/dipiao.js
-.com/ads.
-xc*.cos.ap-*.myqcloud.com/*.js
 ||hhdmh.net/bd/36mh.js
 ||hhdmh.net/js/g1.js
 /hm.html?s=*=http
@@ -2849,21 +2850,18 @@ chen-xing/figure_bed*
 ||qchannel03.cn$third-party
 ||templates_pc/default/scripts/chapter_bottom.js
 ||zxzj.me/slade2.js
-widgets.outbrain.com/outbrain.js
+||widgets.outbrain.com/outbrain.js
 ||xbiqu5.com/12345678.js
 .com/adv1/?q=
 ||1biqug.com/js/ajax.js
-/bar/yfgg.js
-/bar/yfdi.js
 /_xa/ads_
 hanman/static/dist/ppm/js/main.js
-.cn:8001/*/*?t=$third-party
+.cn:8001/*/*?*=$third-party
 .com:10446/*/get*.html
-.com:8001/*/*?n=$third-party
+.com:8001/*/*?*=$third-party
 /ht.js?site_
 /*/*.add.*.add
 /_xa/ads?
-.xyz/xxbbliffng
 .com/o.js$third-party
 .cc/o.js$third-party
 /gameapk/*/hongbao.apk
@@ -2899,10 +2897,10 @@ hanman/static/dist/ppm/js/main.js
 ||kukudm.com/mg/show2.js
 ||daishudy.com/js/g/b_1.js
 ||zwdu.com/getuserinfo.php
-pstatp.com/growth/fe_sdk/bannersdk
+||pstatp.com/growth/fe_sdk/bannersdk
 ||ikkdm.com/mg/show2.js
 ||cocomanga.com/js/atmp.html
-||shimo.im^*/ads?
+||shimo.im/*/ads?
 ||shimo.im/kong-api/ads
 ||yxdm.tv/js/gad.js
 .live/ty/*-*-*
@@ -2954,8 +2952,6 @@ com/js/lp365.js
 /adjs
 .com/xz/*?token8=
 ||zhanzhang.baidu.com/push.js
-/amp-analytics-
-.openx.
 .cfd/video/index/index/user_login/
 hm.js/
 /ad/dhgg.js
@@ -2975,7 +2971,6 @@ dingbu.*.*.com/dingbu.$third-party
 /blxn_*_*_*?*$third-party
 .top/*q=*form=*&*url=http*$third-party
 _/bigREDdog.js
-*/ads.
 /redbaiduct.com?s=
 .net/vh1/15*$third-party
 .net/v2/stats/10*$third-party
@@ -2991,15 +2986,8 @@ _/bigREDcat.css?
 .xyz/bid?url=*
 .xyz/gif
 .xyz/ack?s=
-.top/qby_
-.xyz/ui_
 .top/?token=$third-party
 .top/gluinfo.php?s=$third-party
-/static/zz*.js$third-party
-/static/o0*.js$third-party
-/static/ys*.js$third-party
-/static/mh*.js$third-party
-/static/ins.js$third-party
 /baidu/tg.js
 /baidu/189/999.php
 /new/2*.html
@@ -3017,13 +3005,10 @@ _/bigREDdog.css?
 /s/page_runtime_*.js
 /v0/amp-addthis-*.js
 .com:8010/cc/
-.xyz/Kfc_
 .buzz/*0*0*0*==$third-party
-.xyz/xtub_
 .xyz/?token=
 .shop:*/bid?url=
 .shop:*/ack?s=
-.xyz/*_*_*.js$third-party
 ||addthis.com/live/
 ||xn--*.xn--fiqs8s:
 ||zhenbuka.com/gg/lunbo.js
@@ -3160,9 +3145,10 @@ dm530p.net##DIV[style$='; display: block;']
 m.iqiyi.com##DIV.iqyGuide-content,.cover
 www.zhihu.com##DIV.KfeCollection-VipRecommendCard
 www.zhihu.com##A.MBannerAd
+www.zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
+www.zhihu.com##DIV.OpenInAppButton
 acglala.me##DIV.topm,div.donghua_info > DIV[style='width:100%;'],div.donghua_info > a
 ali213.net##DIV.placeholderforpromotion
-zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
 happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
 skyroad.downallbook.com##IMG[height='60'][width='98%']
 manwa1.me,manwa2.me,manwa.me##div.ad-area-close
