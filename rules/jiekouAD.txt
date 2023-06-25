@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-06-24 20:34:50（北京时间）
-! Total Count: 3569
+! Update Time: 2023-06-25 10:43:39（北京时间）
+! Total Count: 3570
 ! by: 酷安@大萌主
 ! Host
 ||caardinal.com^
@@ -3549,6 +3549,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##div#header-wrapper.header_b > div#header
 ##a[href^="https://91keep.tv"]
 ##DIV#bottom-ads
+##DIV#googleads-popup.popup.visible
 ##DIV[onclick='if (!window.__cfRLUnblockHandlers) return false; window.location.href=\'https://a.biquge-app.com/apps/\''],[onclick='if (!window.__cfRLUnblockHandlers) return false; window.location.href=\'https://a.biquge-app.com/apps/\''] + div
 ##DIV[style='clear: both; position: relative; width: 396px; height: 130px;']
 ##[style*='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147'][style*='bottom: 132px;']
