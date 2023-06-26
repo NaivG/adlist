@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 2b8l5dGqMyPLP7F0eZ47qg
-! Version: 202306260031
+! Checksum: AwBDN84bBxvpwvmBjhaLfQ
+! Version: 202306260750
 ! Title: EasyPrivacy
-! Last modified: 26 Jun 2023 00:31 UTC
+! Last modified: 26 Jun 2023 07:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8803,6 +8803,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tzwaw.pw^
 ||ubiquitousyard.com^
 ||ultraoranges.com^
+||unaccountablepie.com^
 ||unarmedindustry.com^
 ||unbecomingbikes.com^
 ||unbecominghall.com^
