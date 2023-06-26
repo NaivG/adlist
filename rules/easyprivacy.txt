@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: AwBDN84bBxvpwvmBjhaLfQ
-! Version: 202306260750
+! Checksum: ayzD0qPP0hLSRERelRe+LQ
+! Version: 202306261540
 ! Title: EasyPrivacy
-! Last modified: 26 Jun 2023 07:50 UTC
+! Last modified: 26 Jun 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -354,7 +354,7 @@
 /analytics.gif?
 /analytics.html?
 /analytics.js/v1/*
-/analytics.prod.
+/analytics.prod.$domain=~fifteen.eu
 /analytics.v1.js
 /analytics/?event
 /analytics/abtest/*
@@ -9098,6 +9098,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sitealyse.de^$third-party
 ||sitebro.de^$third-party
 ||slogantrend.de^$third-party
+||smarketer.de^$third-party
 ||space-link.de^$third-party
 ||spacehits.net^$third-party
 ||speedcount.de^$third-party
@@ -33240,6 +33241,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||cults3d.com/packs/js/quantcast-$~third-party
 @@||cvs.com/shop-assets/js/VisitorAPI.js$~third-party
 @@||d2ma0sm7bfpafd.cloudfront.net/wcsstore/waitrosedirectstorefrontassetstore/custom/js/analyticseventtracking/$script,domain=waitrosecellar.com
+@@||d347cldnsmtg5x.cloudfront.net/util/1x1.gif$image,domain=aplaceforeverything.co.uk
 @@||d41.co/tags/ff-2.min.js$domain=ads.spotify.com
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||datadoghq-browser-agent.com^$script,domain=bbcgoodfood.com|dashboard.getdriven.app|hungryroot.com|usa.experian.com
