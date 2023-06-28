@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: fNNA6Jww1q4edf0kkylHSQ
-! Version: 202306271540
+! Checksum: cHA0dMhcQnTeFhohx7ITig
+! Version: 202306280031
 ! Title: EasyPrivacy
-! Last modified: 27 Jun 2023 15:40 UTC
+! Last modified: 28 Jun 2023 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4272,7 +4272,7 @@ _track_pixel.gif?
 /client_204?$image,other,ping,script
 /csi_204?$image,other,ping,script
 /gen_204?$image,other,ping,script
-/generate_204$~xmlhttprequest
+! /generate_204$~xmlhttprequest
 ||google.com/gen_204?
 ||googleapis.com^*/gen_204?
 ||gstatic.com/gen_204?
@@ -33265,6 +33265,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||evil-inc.com/comic/advertising-age/$~third-party,xmlhttprequest
 @@||extreme-ip-lookup.com^$script,domain=bulkbarn.ca
 @@||fast.fonts.net/jsapi/core/mt.js$script,domain=eclecticbars.co.uk|gables.com|itsolutions-inc.com|senate.gov
+@@||fichub.com/plugins/adobe/lib/AppMeasurement.js$domain=natgeotv.com
+@@||fichub.com/plugins/adobe/lib/VisitorAPI.js$domain=natgeotv.com
 @@||firebase.google.com/docs/analytics/$~third-party
 @@||friendbuy.com^$domain=butcherbox.com
 @@||geoip-db.com/jsonp/$script,third-party
