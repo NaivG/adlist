@@ -1,10 +1,14 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-06-25 17:05:24（北京时间）
-! Total Count: 3571
+! Update Time: 2023-06-28 12:05:06（北京时间）
+! Total Count: 3583
 ! by: 酷安@大萌主
 ! Host
+||surface361.com^
+||destc10.icu^
+||leadc6.icu^
+||klbvqqqj.com^
 ||caardinal.com^
 ||sgegie.fun^
 ||hciea.xyz^
@@ -2786,7 +2790,8 @@
 .live/o.js
 .cyou/redbaiduct.com
 /js/news2zz.js
-.com:8001/*/*?*=$3p
+/js/lmdas.js
+.com:8001/*/*?*=$third-party
 ||static.missav.com/js/plyr.js
 ||boxmp4.com/js/foot.js
 /site/mov*$third-party
@@ -2814,6 +2819,10 @@ trafficjunky.com$third-party
 .com:*/*/*?c=$third-party
 .com:*/*/*?t=$third-party
 .com:*/*/*?n=$third-party
+.xyz/qby_*.js?$third-party
+/api/LM/Report?placeUUID=$third-party
+.icu/pssbk?$third-party
+/vhyoydie_*_*.js$third-party
 yhdm*.com/js/wap2-jm-ms.js?ver=
 ||anluyg.net/static/js/channel*.js
 ||google-analytics.com$third-party
@@ -2879,7 +2888,9 @@ hanman/static/dist/ppm/js/main.js
 /template/mytheme/statics/js/listing.js
 /asfile/m/gudings.js
 ?local_ga_js=
-.xyz/xling_*_*_*.js?*
+.xyz/xling_*_*_*.js?
+/statics/js/guding.js
+/statics/js/dddd.js
 ||x4jdm.tv/mdp.js
 ||cbu01.alicdn.com/img/ibank/2020/714/563/22725365417_967741881.jpg
 ||xinxindm.com/gog.js
@@ -3550,6 +3561,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##div#header-wrapper.header_b > div#header
 ##a[href^="https://91keep.tv"]
 ##DIV#bottom-ads
+##section.wrap > section.f0
 ##DIV#googleads-popup.popup.visible
 ##DIV[onclick='if (!window.__cfRLUnblockHandlers) return false; window.location.href=\'https://a.biquge-app.com/apps/\''],[onclick='if (!window.__cfRLUnblockHandlers) return false; window.location.href=\'https://a.biquge-app.com/apps/\''] + div
 ##DIV[style='clear: both; position: relative; width: 396px; height: 130px;']
