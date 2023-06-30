@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: E5jl/e/m0mONDFEPYND+hA
-! Version: 202306300740
+! Checksum: XjAGDySz3rSLgUzwFZrONg
+! Version: 202306301540
 ! Title: EasyPrivacy
-! Last modified: 30 Jun 2023 07:40 UTC
+! Last modified: 30 Jun 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -158,7 +158,6 @@
 /a8c-analytics.
 /a8c-analytics/*
 /aap/stats
-/ac.fcgi?
 /access.php?referrer=
 /accessanalyzer/tracker?
 /AccessCounter/*
@@ -189,7 +188,6 @@
 /addon/analytics/*
 /addpageview/*
 /adds/counter.js
-/addstats?callback=
 /adlogger.
 /adm_tracking.js
 /AdmitadTagTag.js
@@ -215,13 +213,11 @@
 /adpixel.
 /adplogger/*
 /ads/track/*
-/ads?cookie_
 /adsct?
 /adshield-
 /adstat.
 /adstats.
 /adstrack.
-/adtctr.
 /adtoniq-
 /adtrack-
 /adtrk/*
@@ -240,7 +236,6 @@
 /affiliateTracking.
 /affiliatetracking/*
 /affilinetRetargeting.
-/affl.cgi?
 /afftrack.
 /afftracking.
 /aftrack.
@@ -373,10 +368,8 @@
 /analytics/initSession
 /analytics/klaviyo_
 /analytics/layer
-/analytics/mbox.js
 /analytics/mbox_
 /analytics/metric/*
-/analytics/mouse_
 /analytics/newrelic_
 /analytics/page_view.
 /analytics/pageview
@@ -1616,9 +1609,6 @@
 /homePixelTracking.
 /honeybadger.js$third-party
 /honeybadger.min.js$third-party
-/horizon-pageview?
-/horizon-track.
-/horizon/track?
 /host-analyticsjs-local/*
 /hotmobtag_
 /hpmetrics.
@@ -1859,7 +1849,6 @@
 /log-view.
 /Log.ashx?
 /log.aspx?
-/log.bi?
 /log.cfm?
 /log.collect.
 /log.gif?
@@ -6001,6 +5990,7 @@ _mongo_stats/
 ||metricool.com^$third-party
 ||metrics0.com^$third-party
 ||metricsdirect.com^$third-party
+||metricswave.com^$third-party
 ||mezzobit.com^$third-party
 ||mfadsrvr.com^$third-party
 ||miadates.com^$third-party
@@ -32706,7 +32696,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||bookoffonline.co.jp/files/inc_js/ac/
 ||bookoffonline.co.jp/files/tracking/
 ||carview.co.jp/include_api/log/
-||cinematoday.jp/js/*/pageviews.
 ||contx.net/collect.js
 ||count.upc.rakuten.co.jp^
 ||counter.wikiwiki.jp^
@@ -32733,6 +32722,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||m-oo-m.com/data/report/
 ||mangaraw.to/api/v1/view/
 ||measure.ameblo.jp^
+||minkou.jp/js/tracking.js
 ||mixi.net/static/js/build/mixi-analysis.production.js
 ||mng.jiji.com/cookie.html
 ||nhk.or.jp^*/bc.js
@@ -33000,6 +32990,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||geo.emol.cl^
 ||gruporeforma.com/clickGrupoReforma.js
 ||hits.antena3.com^
+||horizon-track.globo.com^
 ||matt.mercadolibre.
 ||mercadolibre.com/tracks^
 ||pixel.europapress.net^
