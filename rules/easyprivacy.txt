@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: XjAGDySz3rSLgUzwFZrONg
-! Version: 202306301540
+! Checksum: Nd45HoKm9h1oob4AqNbUSA
+! Version: 202307010031
 ! Title: EasyPrivacy
-! Last modified: 30 Jun 2023 15:40 UTC
+! Last modified: 01 Jul 2023 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3681,6 +3681,7 @@
 /webstats/track.php?
 /webstats_counter/*
 /webtag.js
+/webtrack.js
 /webtracker.
 /webtracking/*$~subdocument,domain=~wwwapps.ups.com
 /webtraffic.js
@@ -3713,6 +3714,7 @@
 /wp-click-track/*
 /wp-clickmap/*
 /wp-content/plugins/confection/bridge.php
+/wp-content/plugins/pageviews/*
 /wp-content/tracker.
 /wp-counter.php
 /wp-js/analytics.
@@ -11175,6 +11177,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mochiads.com/clk/
 ||modules.ooyala.com^*/analytics-
 ||mon.domdog.io^
+||monitor-frontend-collector.a.bybit-aws.com^
 ||monitor.azure.com^
 ||monitoring.iraiser.eu^
 ||monorail-edge.shopifysvc.com^
@@ -12094,6 +12097,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||webservices.websitepros.com^
 ||webstats.thaindian.com^
 ||websuccess-data.com/tracker.js
+||webtrack.chd01.com^
+||webtrack.savoysystems.co.uk^$third-party
 ||webtracker.apicasystem.com^
 ||webvoo.com/wt/Track.aspx
 ||webvoo.com^*/logtodb.
@@ -12822,6 +12827,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||videostats.kakao.com^
 ||w3t.cn^*/fx.js
 ||web-trace.ksapisrv.com^
+||webtrack.pospal.cn^
 ||yigouw.com/c.js
 ! Croatian
 ||tracking.vid4u.org^
@@ -33704,6 +33710,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||k-img.com/script/analytics/s_code.js$script,domain=kakaku.com
 @@||karte.io/libs/tracker.$domain=zf1.tohoku-epco.co.jp|zozo.jp
 @@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
+@@||linksynergy.com/minified_logic.js$xmlhttprequest
 @@||log000.goo.ne.jp/gcgw.js$domain=nttxstore.jp
 @@||nittsu.com/Tracking/Scripts/Tracking/track.js
 @@||play.dlsite.com/csr/viewer/lib/newrelic.js
