@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: m41ZNQQhhgIIaijpwteXPA
-! Version: 202307060030
+! Checksum: jNB7C7eTOiM69sJYgIY8Uw
+! Version: 202307061540
 ! Title: EasyPrivacy
-! Last modified: 06 Jul 2023 00:30 UTC
+! Last modified: 06 Jul 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1100,6 +1100,7 @@
 /eluminate?
 /email/track/*$image
 /email/tracking?
+/email_opened_tracking_pixel?
 /EmailOpenTrackLog.aspx?$image
 /EmbedAsyncLogger.
 /emos2.js$~xmlhttprequest
@@ -3861,6 +3862,9 @@ _WebVitalsReporter_
 ! parked domains
 /ls.php?t=
 /track.php?domain=
+! pinterest.*
+/ContextLogResource/*
+/statslogresource/*
 ! Amazon
 /action-impressions/*
 /ajax/counter?ctr=
@@ -13789,6 +13793,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||eharmony.ca/fd/
 ||eharmony.co.uk/bd/
 ||eighten-bloc-party.thebrowser.company/script.js
+||elitesingles.com/cs/tp.png?
 ||embed.reddit.com/svc/shreddit
 ||engagefront.meteomedia.com^
 ||engagefront.theweathernetwork.com^
@@ -14119,6 +14124,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metrics.ted.com^
 ||metricsishare.rediff.com^
 ||metro.co.uk/base/rta/
+||metro.co.uk/cvx/client/sync/fpc?
 ||metroweekly.com/tools/blog_add_visitor/
 ||meucdn.vip/cdn-cgi/trace
 ||mewe.com/ubk4jrxn.js
@@ -14747,16 +14753,18 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 /^https?:\/\/www\.ebay-kleinanzeigen\.de\/[a-z0-9]{8}\-[0-9a-f]{4}\-/$script,domain=kleinanzeigen.de
 /^https?:\/\/www\.kroger\.com\/content\/{20,}/$script,xmlhttprequest,domain=kroger.com
 ||127.0.0.1^$third-party,domain=53.com|ameriprise.com|beachbody.com|chick-fil-a.com|citi.com|ebay.at|ebay.be|ebay.ca|ebay.ch|ebay.cn|ebay.co.uk|ebay.com|ebay.com.au|ebay.com.hk|ebay.com.my|ebay.com.sg|ebay.de|ebay.es|ebay.fr|ebay.ie|ebay.it|ebay.nl|ebay.ph|ebay.pl|equifax.ca|equifax.com|globo.com|gumtree.com|kleinanzeigen.de|lendup.com|mbna.ca|rusneb.ru|sciencedirect.com|sky.com|spectrum.net|td.com|tiaa.org|vedacheck.com|wepay.com|whatleaks.com
-||all3dp.com/kbcbqexpqvz8wrk88augy7b.js
 ||cfa.fidelity.com^
 ||citi.com^*/fp.js
+||citibank.com.ph/JSO/js/fp.js
 ||citibank.com.ph/tmx/js/
+||citibank.com.sg/jso/js/fp.js
+||citibank.com.sg/tmx/
 ||clear.wallapop.com^
-||content22.bmoharris.com^
+||content22.bmo.com^
 ||content22.citi.eu^$script
 ||content22.citibank.com.au^
 ||content22.citibank.com.sg^$script
-||contents2.00110.citi.com^
+||content22.online.citi.com^
 ||customer.homedepot.com^$script
 ||drfdisvc.walmart.com^
 ||ebay.com/nkfytkqtoxtljvzbxhr.js$script,domain=ebay.com
@@ -14782,7 +14790,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||u47.pnc.com^
 ||w-profiling.cibc.com^$script
 ||w-profiling.simplii.com^
-||wup-content23.bmoharris.com^
 ! Fingerprint
 ||bankofamerica.com/cookie-id.js
 ||bup.bankofamerica.com^
@@ -14803,6 +14810,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rail.bankofamerica.com^$script,~third-party,xmlhttprequest
 ||sofa.bankofamerica.com^
 ||t570.wiltonbulletin.com^
+||tilt.bankofamerica.com^
 ||u652.myplainview.com^
 ||u927.sfgate.com^
 ||w740.newstimes.com^
@@ -33433,7 +33441,7 @@ arketing.indianadunes.com^
 !! google-analytics.com/analytics.js
 @@||google-analytics.com/analytics.js$domain=beinsports.com|brooklinen.com|carnesvizzera.ch|cmoa.jp|enmotive.com|healthrangerstore.com|hobbyhall.fi|infoconso-multimedia.fr|jackbox.tv|k2radio.com|koel.com|kowb1290.com|ligtv.com.tr|meritonsuites.com.au|nabortu.ru|news.gamme.com.tw|novatv.bg|poiskstroek.ru|rzd.ru|saturn.at|schweizerfleisch.ch|skaties.lv|stressless.com|teddyfood.com|tracking.narvar.com|tradera.com|tribuna.com|truwin.com|tuasaude.com|tv3play.no|unicef.de|viandesuisse.ch|vox.de|westernunion.com|worldsbiggestpacman.com|xxl.se
 !! googletagmanager.com/gtag/js
-@@||googletagmanager.com/gtag/js$domain=academy.com|acornonline.com|aliexpress.com|carhartt-wip.com|cbslocal.com|cmoa.jp|devclass.com|dholic.co.jp|ejgiftcards.com|enmotive.com|game.anymanager.io|herculesstands.com|honeystinger.com|hostingvergelijker.nl|kawasaki.com|liene-life.com|livongo.com|m.putlocker.how|mediaite.com|modehasen.de|montcopa.org|nihontsushin.com|panflix.com.br|radiosarajevo.ba|rintraccialamiaspedizione.it|schwab.com|timparty.tim.it|toptal.com|virginplus.ca|winefolly.com|xl-bygg.no|zf1.tohoku-epco.co.jp
+@@||googletagmanager.com/gtag/js$domain=academy.com|acornonline.com|aliexpress.com|carhartt-wip.com|cbslocal.com|cmoa.jp|devclass.com|dholic.co.jp|ejgiftcards.com|enmotive.com|factory.pixiv.net|game.anymanager.io|herculesstands.com|honeystinger.com|hostingvergelijker.nl|kawasaki.com|liene-life.com|livongo.com|m.putlocker.how|mediaite.com|modehasen.de|montcopa.org|nihontsushin.com|panflix.com.br|radiosarajevo.ba|rintraccialamiaspedizione.it|schwab.com|timparty.tim.it|toptal.com|virginplus.ca|winefolly.com|xl-bygg.no|zf1.tohoku-epco.co.jp
 !! googleoptimize.com/optimize.js
 @@||googleoptimize.com/optimize.js$domain=binglee.com.au|grasshopper.com|in.bookmyshow.com|inquirer.com|investing.com|lacomer.com.mx|lodgecastiron.com|tentree.ca|virginmedia.com
 !! google-analytics.com/plugins/ua/ec.js
