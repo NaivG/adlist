@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-07-09T12:01:34.922Z
+! Last modified: 2023-07-10T00:03:03.612Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||bt.yurokrelax.com^
+||scenistgracy.life^
 ||mallettraumatize.com^
 ||steropestreaks.com^
 ||danbo.org^
@@ -5752,6 +5754,7 @@ vkcdnservice.appspot.com^
 ||beyedortostr.info^
 ||beylicbesmile.com^
 ||bezettescanner.com^
+||bezuka.xyz^
 ||bf-ad.net^
 ||bf358948d7.com^
 ||bf600e1d51.com^
@@ -6719,6 +6722,7 @@ vkcdnservice.appspot.com^
 ||carbonads.com^
 ||carcakeapagoge.com^
 ||carcelshatches.com^
+||carcelsreside.com^
 ||carcflma.de^
 ||cardermimeos.com^
 ||cardiwersg.com^
@@ -7340,6 +7344,7 @@ vkcdnservice.appspot.com^
 ||clearonclick.com^
 ||cleavepreoccupation.com^
 ||cleaversince.com^
+||cleddeexcl.com^
 ||clefskenelm.com^
 ||cleftinform.com^
 ||clementmeddling.com^
@@ -14172,6 +14177,7 @@ vkcdnservice.appspot.com^
 ||ketheappyrin.com^
 ||ketoo.com^
 ||kettleheedless.com^
+||kettlewharves.com^
 ||kevelandean.com^
 ||kewhulawi.com^
 ||keydawnawe.com^
@@ -15896,6 +15902,7 @@ vkcdnservice.appspot.com^
 ||miwhethi.xyz^
 ||mixandfun.com^
 ||mixedknitting.com^
+||mixerssouagga.com^
 ||mixescineols.uno^
 ||mixnewsbest.com^
 ||mixpo.com^
@@ -17780,6 +17787,7 @@ vkcdnservice.appspot.com^
 ||oursiignaboaord.xyz^
 ||ourteeko.com^
 ||ourzitemu.com^
+||ousouzay.net^
 ||oussaute.net^
 ||ousseghu.net^
 ||oustoope.com^
@@ -18608,6 +18616,7 @@ vkcdnservice.appspot.com^
 ||pipeschannels.com^
 ||piplavwci.com^
 ||pipsol.net^
+||piqueendogen.com^
 ||piquperkin.com^
 ||pirist.com^
 ||piroghiusent.com^
@@ -21319,6 +21328,7 @@ vkcdnservice.appspot.com^
 ||seatedparanoiaenslave.com^
 ||seatsrehearseinitial.com^
 ||seayipsex.com^
+||sebeewho.xyz^
 ||secludealcoholoverwhelm.com^
 ||secondboy.pro^
 ||secondcommander.com^
@@ -22114,6 +22124,7 @@ vkcdnservice.appspot.com^
 ||solemnmanarchie.com^
 ||solemnvine.com^
 ||solenttovaria.com^
+||solestudious.com^
 ||soliads.net^
 ||solideaved.com^
 ||solidindexes.com^
@@ -22990,6 +23001,7 @@ vkcdnservice.appspot.com^
 ||taigathi.xyz^
 ||taigrooh.net^
 ||tailpgjpearanc.com^
+||tainosapiece.com^
 ||taipsuwa.com^
 ||taisaiwe.xyz^
 ||taiuxljddwh.com^
@@ -25228,6 +25240,7 @@ vkcdnservice.appspot.com^
 ||volcanoimplement.com^
 ||voldarinis.com^
 ||volna2babla1dh1.com^
+||volostsonkos.com^
 ||voluim.com^
 ||volumeearthquakedozen.com^
 ||volunteerboutique.com^
@@ -26773,6 +26786,7 @@ vkcdnservice.appspot.com^
 ||zjo0tjqpm1.com^
 ||zkapibwampca.com^
 ||zkczzltlhp6y.com^
+||zkjqyrjmjbbne.top^
 ||zlacraft.com^
 ||zlink2.com^
 ||zlink6.com^
@@ -27550,6 +27564,7 @@ vkcdnservice.appspot.com^
 ||gururevenue.com^
 ||havetohave.com^
 ||headbidder.net^
+||headerlift.com^
 ||healthtrader.com^
 ||horse-racing-affiliate-program.co.uk^
 ||hot-mob.com^
@@ -39434,6 +39449,8 @@ inapps.appsflyersdk.com^
 ||track.yfret.com^
 ||tracker.beezup.com^
 ||tracker.financialcontent.com^
+||tracker.gamedock.io^
+||tracker.gamemonkey.org^
 ||tracker.icerocket.com^
 ||tracker.jkstremum.xyz^
 ||tracker.keywordintent.com^
@@ -45972,7 +45989,6 @@ inapps.appsflyersdk.com^
 ||gymsharksverige.com.se^
 ||gym-shark-sverige.com.se^
 ||hapyak.com^
-||headerlift.com^
 ||heroaffiliates.com^
 ||hollistersverige.com.se^
 ||hpevoices.com^
@@ -46186,7 +46202,6 @@ inapps.appsflyersdk.com^
 ||tr.apsisforms.com^
 ||track.addevent.com^
 ||track.postkodlotteriet.se^
-||tracker.gamedock.io^
 ||tracker.zummycloud.com^
 ||tracker-v4.gamedock.io^
 ||tracking.aktuellhallbarhet.se^
@@ -46702,8 +46717,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 07 Jul 2023 22:49 UTC+7
-! Version: 2307072249
+! Last modified: 09 Jul 2023 23:07 UTC+7
+! Version: 2307092307
 ! Blocked: 848 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -47512,55 +47527,64 @@ inapps.appsflyersdk.com^
 ||cix0wk.com^
 ||csedasdme.xyz^
 ||cuioxbqi.com^
+||cyq3noz.icu^
 ||dd778899dd.com^
 ||dhkipdsc.xyz^
 ||donchen501.cn^
 ||dstbunkfw.xyz^
 ||euitx.cn^
 ||evidhjksdtgyxrh.xyz^
+||eyq3nog.icu^
 ||fjsytjs.cn^
+||glhdan.site^
 ||hanwdsii.com^
 ||hdpdrandpd.xyz^
 ||hfqdipw.cn^
+||hikykhz.icu^
 ||hsadeg.site^
 ||huoju.asia^
+||hypwbv.xyz^
+||hzhabei.cn^
+||ipadf.xyz^
 ||jh16csf.com^
+||jpqed.xyz^
 ||jujcjz.xyz^
 ||kahgjjd.com^
 ||kgeesh.site^
+||kl91ccp.com^
 ||lanver.fun^
+||metaversemolecule.com^
+||nryqr.cn^
+||one6u.xyz^
 ||plbs9k.icu^
 ||powedw.com^
 ||qhx1h2g.com^
+||qifyeldy.top^
+||relafp.xyz^
 ||rtumdhdk.xyz^
+||rtumwzp.icu^
 ||sq59.cn^
 ||tgbevv.xyz^
+||tifyeldi.top^
 ||tqdctl.xyz^
 ||uejdsw.com^
 ||ulojlvmejkaem.xyz^
 ||v1gyb.xyz^
-||wuye3d.com^
-||hikykhz.icu^
-||cyq3noz.icu^
-||nryqr.cn^
-||zonyff.xyz^
-||qifyeldy.top^
-||ipadf.xyz^
 ||wubizigeng.com^
-||ymhyw6.lol^
-||kl91ccp.com^
-||glhdan.site^
-||hzhabei.cn^
-||hypwbv.xyz^
-||rtumwzp.icu^
-||jpqed.xyz^
-||relafp.xyz^
-||eyq3nog.icu^
-||tifyeldi.top^
-||one6u.xyz^
+||wuye3d.com^
+||xccadc.com^
 ||xiaoxiuapp.com^
 ||yh18h8s.com^
+||52kuwang.cn^
+||kxm1b0u.com^
+||bdates.fun^
+||zfcdirf.icu^
+||ronbbf.xyz^
+||lwide.xyz^
+||pirxzl.xyz^
+||ymhyw6.lol^
 ||zerolcp.cn^
+||zonyff.xyz^
 ||001adafg.xyz^
 ||003aldjads.xyz^
 ||004fsdljasd.xyz^
@@ -52601,7 +52625,6 @@ inapps.appsflyersdk.com^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
 ||27gh.cc^
-||qudajie.com^
 ||003store.com^
 ||0941.org^
 ||1.01fy.cn^
@@ -53263,6 +53286,7 @@ inapps.appsflyersdk.com^
 ||ql.uzuzuz.com^
 ||qpb*.sohu.com^
 ||qqhuhu.com^
+||qudajie.com^
 ||qujishu.com^
 ||r.99waiyu.com^
 ||rabc1.iteye.com^
