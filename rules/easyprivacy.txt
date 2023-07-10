@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: rBaCJiK8oD28YFvYTIsMzA
-! Version: 202307100031
+! Checksum: C8Wl6JHfzmvH03y61ZQS4w
+! Version: 202307100740
 ! Title: EasyPrivacy
-! Last modified: 10 Jul 2023 00:31 UTC
+! Last modified: 10 Jul 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -416,7 +416,6 @@
 /analyticsjs/*
 /analyticsScript.
 /analyticsscript_
-/analyticssdk.js
 /analyticstick.
 /analyticstrack.
 /analyticstracking.
@@ -3692,7 +3691,6 @@
 /wmxtracker.js
 /woocommerce-google-adwords-conversion-tracking-tag/*
 /woopra.js
-/worldwide_analytics/*
 /wp-click-track/*
 /wp-clickmap/*
 /wp-content/plugins/confection/bridge.php
@@ -5333,7 +5331,6 @@ _mongo_stats/
 ||europuls.eu^$third-party
 ||europuls.net^$third-party
 ||everestjs.net^$third-party
-||evergage.com^$third-party
 ||evisitanalyst.com^$third-party
 ||evorra.net^$third-party
 ||evyy.net^$third-party
@@ -10718,6 +10715,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||events.whisk.com^
 ||events.yourcx.io^
 ||eveonline.com/redir.asp$third-party
+||evergage.com/beacon/
 ||everyaction.com/v1/Track/
 ||evidon.com/pub/
 ||eviesays.com/js/analytics/
