@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: pEW5FweFFmRgKy7l5bZPxw
-! Version: 202307121541
+! Checksum: uSy7qpEgfu4FbQdalfND7Q
+! Version: 202307130031
 ! Title: EasyPrivacy
-! Last modified: 12 Jul 2023 15:41 UTC
+! Last modified: 13 Jul 2023 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -542,6 +542,7 @@
 /b/ss?AQB=
 /b/stats?
 /baiduStatistics.js
+/banalytics.js
 /base/es5/bundle.js
 /base/es6/bundle.js
 /basesdc.js
@@ -7247,7 +7248,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||webpushs.com^$third-party
 ||whiteclick.biz^$third-party
 ||wonderpush.com^$third-party
-||wpshsdk.com^
 ||wwclickserv.club^$third-party
 ||wwopenclick.space^
 ||xtremepush.com^$third-party
@@ -33048,6 +33048,7 @@ arketing.indianadunes.com^
 ! Turkish
 ||c.gazetevatan.com^
 ||d.haberler.com^
+||glami.com.tr/tracker/
 ||haberler.com/dinamik/
 ||hstats.hepsiburada.com^
 ||p.milliyet.com.tr^
@@ -33198,6 +33199,7 @@ arketing.indianadunes.com^
 @@||bgp.he.net/images/flags/*.gif?$image,~third-party
 @@||bjjhq.com/HttpCombiner.ashx?$script,~third-party
 @@||blackcircles.ca^$script,~third-party
+@@||blueconic.net/bostonglobemedia.js$domain=bostonglobe.com
 @@||bluecore.com/triggermail.js$script,domain=fcpeuro.com
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
 @@||brsrvr.com/api/$xmlhttprequest,domain=dollargeneral.com
