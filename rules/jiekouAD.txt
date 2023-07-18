@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-07-17 12:46:36（北京时间）
-! Total Count: 3631
+! Update Time: 2023-07-18 00:03:30（北京时间）
+! Total Count: 3629
 ! by: 酷安@大萌主
 ! Host
 ||zfticz.buzz^
@@ -3098,11 +3098,10 @@ myqqjd.com##.adsbygoogle
 baidu.com#@#div[class*="ads"]
 baidu.com#@##header > div:last-child
 baidu.com#@##page-pre
-cupfox.app#@#.adsbygoogle
 dongmanhuayuan.myheartsite.com##DIV.card-body
 m.guancha.cn##DIV.g_header.go-to-app
 www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
-cupfox.app##IMG.cupfox-img[width='100%']
+cupfox.app##IMG[class^='jsx-'][width='100%'],div.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
 baidu.com##div[class$="-ecom-ads"]
 baidu.com##.ec-ad
 baidu.com##.ad-wrapper
@@ -3591,7 +3590,6 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##body > DIV[style='bottom: 130px;']
 ##[style^='position: fixed; z-index: 2147483616; width: 10%; height: 32.5px;']
 ##body#wrapper A[ontouchstart='this.click();']
-##.cupfox-content.right,.cupfox-content.left
 ##DIV.row.no-gutters.m-0
 ##DIV#top-ads
 ##[style*='width: 100vw; background: url'][style$='no-repeat; position: fixed;'][style*='0px 0px / 100vw ']
