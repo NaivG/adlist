@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 7HwQw4kdwk9BeqdVNqqqjw
-! Version: 202307190740
+! Checksum: 882t8T+lxBgzPPzb0RVWdg
+! Version: 202307191540
 ! Title: EasyPrivacy
-! Last modified: 19 Jul 2023 07:40 UTC
+! Last modified: 19 Jul 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14462,6 +14462,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||thisiswhyimbroke.com/api/user/gift-guide-thumbnail-homepage/tracking
 ||thisiswhyimbroke.com/api/user/tracking
 ||thriftbooks.com/scripts/sp.js
+||thtk.temu.com^
 ||tiendeo.*/_statsapi/
 ||tiktok.com/captcha/report
 ||tiktok.com/v1/list
