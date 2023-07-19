@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: MtFREZlh3RsBvlJMHIQjZw
-! Version: 202307190102
+! Checksum: 7HwQw4kdwk9BeqdVNqqqjw
+! Version: 202307190740
 ! Title: EasyPrivacy
-! Last modified: 19 Jul 2023 01:02 UTC
+! Last modified: 19 Jul 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2805,6 +2805,7 @@
 /seed.gif?
 /segment/api/*
 /segment/js/*
+/segmentify.js
 /segmentio.js
 /sendLogs?cid
 /sensor.modern.ncl.
@@ -7960,6 +7961,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gorgeousedge.com^
 ||gorgeousground.com^
 ||gracefulsock.com^
+||grandfatherguitar.com^
 ||grandioseguide.com^
 ||grandmotherunit.com^
 ||grayoranges.com^
@@ -8494,6 +8496,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||shesubscriptions.com^
 ||shinesavage.com^
 ||shinestuart.com^
+||shirtsidewalk.com^
 ||shiveringspot.com^
 ||shiverscissors.com^
 ||shockinggrass.com^
@@ -9843,6 +9846,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sayyac.com^$third-party
 ||sayyac.net^$third-party
 ||sitetistik.com^$third-party
+||sortext.com^$third-party
 ||visilabs.net^$third-party
 ||webservis.gen.tr^$third-party
 ||webtemsilcisi.com^$third-party
@@ -14194,6 +14198,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||plenty.vidio.com^
 ||plushd.bio/cdn-cgi/trace
 ||pm.dailykos.com^
+||pm.geniusmonkey.com^
 ||poki.com/observer/
 ||politico.com/resource/assets/js.min/video-tracking.
 ||poptropica.com/brain/track.php?
@@ -14431,6 +14436,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||target.nationwide.com^
 ||target.nejm.org^
 ||targeting.washpost.nile.works^
+||tc.geniusmonkey.com^
 ||td.airdroid.com^
 ||ted.dailymail.co.uk^
 ||telegraph.prd.api.max.com^
