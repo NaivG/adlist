@@ -1,8 +1,8 @@
 [Adblock Plus]
-! Version: 202307220006
+! Version: 202307220430
 ! Description: Block. Don't break.
 ! Title: oisd small
-! Last modified: 2023-07-22T00:06:51+0000
+! Last modified: 2023-07-22T04:30:22+0000
 ! Expires: 1 hours
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List
@@ -24593,7 +24593,6 @@
 ||ospicalad.buzz^
 ||osqzilonfx.com^
 ||ossacmaw.com^
-||ossfile001.com^
 ||ossgogoaton.com^
 ||osshydreigonan.com^
 ||osskanger.com^
@@ -37065,6 +37064,7 @@
 ||www.7-7-7-partner.com^
 ||www.gjipd.xyz^
 ||www.jeannvalmvvvr.top^
+||www.ossfile001.com^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www5.oss-cn-hangzhou.aliyuncs.com^
