@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: uPNIQtsiohvc8DWZo7SMwQ
-! Version: 202307221540
+! Checksum: m5ubP5eSy5T4vpFGoPM9kQ
+! Version: 202307230020
 ! Title: EasyPrivacy
-! Last modified: 22 Jul 2023 15:40 UTC
+! Last modified: 23 Jul 2023 00:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -770,6 +770,7 @@
 /cnt_js.php?
 /cntpixel.
 /cnvtr.js
+/cocoon-master/lib/analytics/access.
 /CofinaHits.
 /cohesion-latest.
 /collect.gif?
