@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: bT5G1BVA4x72Q9pFNvK8ig
-! Version: 202307240741
+! Checksum: RSgAL5dXxP/iwW7z6Ahzxw
+! Version: 202307241540
 ! Title: EasyPrivacy
-! Last modified: 24 Jul 2023 07:41 UTC
+! Last modified: 24 Jul 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6622,6 +6622,7 @@ _mongo_stats/
 ||sumo.com^$third-party
 ||sumologic.com^$third-party,domain=~sumologic.net
 ||sumome.com^$third-party
+||sundaysky.com^$third-party
 ||supercounters.com^$third-party
 ||superstats.com^$third-party
 ||surefire.link^$third-party
@@ -13536,6 +13537,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||atrack.allposters.com^
 ||ats.alot.com^
 ||audacy.com/data-events/
+||aurum.tirto.id^
 ||auth.services.adobe.com/signin/v1/audit
 ||autotrader.com/pixall/
 ||avitop.com/aviation/hitlist.asp
@@ -13648,6 +13650,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collider.com/strpixel.png
 ||colvk.viki.io^
 ||confiant.msn.com^
+||connatix.com/us/google/
 ||connecteam.com/bi/api/ReportHit/
 ||consent.ghostery.com/v1.js
 ||console-telemetry.oci.oraclecloud.com^
@@ -14445,6 +14448,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||telemetry.tradingview.com^
 ||tellerreport.com/react/pixel
 ||terabox.com/abdr?
+||termsfeed.com/track/
 ||tgt.maep.ibm.com^
 ||the-sun.com/assets/client/analyticsListeners~
 ||the-sun.com/assets/client/newrelicExperimentTracking~
@@ -14513,6 +14517,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tripadvisor.*/wm/record
 ||tripcdn.com/bee/collect$domain=trip.com
 ||trivago.com/tracking/
+||trk.tirto.id^
 ||trumba.com/et.aspx?
 ||trx3.famousfix.com^
 ||ts.delfi.lt^
@@ -32959,6 +32964,7 @@ arketing.indianadunes.com^
 ! Turkish
 ||c.gazetevatan.com^
 ||d.haberler.com^
+||d.sondakika.com^
 ||glami.com.tr/tracker/
 ||haberler.com/dinamik/
 ||hstats.hepsiburada.com^
@@ -33603,6 +33609,7 @@ arketing.indianadunes.com^
 !
 @@||a8.net/svt/$image,domain=samplefan.com
 @@||allabout.co.jp/mtx_cnt.js$script,~third-party
+@@||analytics.digitalpfizer.com/js/prod/pcc/pf_appmeasurement.js$domain=pfizer-covid19-vaccine.jp
 @@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
 @@||b-cloud.templatebank.com/js/gtag.js$~third-party
 @@||bdash-cloud.com/recommend-script/$script,domain=junonline.jp
