@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-07-25 14:14:15（北京时间）
-! Total Count: 3655
+! Update Time: 2023-07-26 17:05:04（北京时间）
+! Total Count: 3639
 ! by: 酷安@大萌主
 ! Host
 ||kv8899.com^
@@ -1186,7 +1186,6 @@
 ||kshuiz.top^
 ||ksqfwxu.cn^
 ||kstj.baidu.com^
-||kszvmqo.cn^
 ||kszxqq.com^
 ||ktdlsb.com^
 ||kuanxin.top^
@@ -1931,8 +1930,6 @@
 ||track.sohu.com^
 ||track.uc.cn^
 ||tracking.kdnet.net^
-||tradplusad.com^
-||trafficjunky.net^
 ||trc.taboola.com^
 ||trektinyreproduce.com^
 ||trognoi.com^
@@ -2652,7 +2649,6 @@
 ||dm.toutiao.com^
 ||gdtimg.com^
 ||dm.bytedance.com^
-||mssdk-bu.bytedance.com^
 ||dm.pstatp.com^
 ||metok.sys.miui.com^
 ||api.tw06.xlmc.sec.miui.com^
@@ -2692,7 +2688,6 @@
 ||tuisong.baidu.com^
 ||sfp.safe.baidu.com^
 ||diagnosis.ad.xiaomi.com^
-||dataflow.biliapi.com^
 ||line1-log.biligame.net^
 ||irs03.com^
 ||o2o.api.xiaomi.com^
@@ -2760,13 +2755,10 @@
 ||ssp.qq.com^
 ||ecmb.bdimg.com^
 ||appc.baidu.com^
-||i.snssdk.com^
 ||d.toutiao.com^
 ||log-sdk.ksapisrv.com^
 ||dig.bdurl.net^
-||tnc3-aliec2.snssdk.com^
 ||tnc3-aliec2.zijieapi^
-||tnc3-alisc1.snssdk.com^
 ||tnc3-alisc1.zijieapi^
 ||tnc3-bjlgy.snssdk.com^
 ||tnc3-bjlgy.zijieapi^
@@ -2918,7 +2910,6 @@ chen-xing/figure_bed*
 hanman/static/dist/ppm/js/main.js
 .cn:8001/*/*?*=$third-party
 .com:10446/*/get*.html
-.com:8001/*/*?*=$third-party
 /ht.js?site_
 /*/*.add.*.add
 /_xa/ads?
@@ -3164,7 +3155,6 @@ bing.com###bnp_container
 bing.com##.b_ad
 tv.sohu.com##.actv-banner.js-app-topbanner,.banner_yunying,.js-oper-pos,IMG.vrs-banner-act-img
 hao123.com##.popup
-yhdmp.net##[style^='bottom:'][style$='block;']
 mobile.baidu.com##SECTION.detail-banner.banner-ck
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
 18comic.vip##IMG[src^='//18comic.vip/media/albums/']
@@ -3173,17 +3163,11 @@ mobile.baidu.com##SECTION.detail-banner.banner-ck
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 m.hupu.com##A[href^='https://mobile.yangkeduo.com/duo_transfer_channel.html']
 m.hupu.com##IMG[alt='NBA英雄'][width='94%']
-www.dmh8.me,dm88.me##DIV[style^='position: fixed; bottom: 0px; display: block; opacity:']
-www.dmh8.me,dm88.me##DIV[style^='width:300px;height:300px;position:fixed;bottom:0;left:0;']
-www.dmh8.me,dm88.me##CENTER
-dmh8.me,dm88.me##DIV[style='display: flex;']
-dmh8.me,dm88.me##DIV[style^='background: url("http']
-dmh8.me,dm88.me##H2[style='display: block;']
+m.douban.com##div.center [style*='padding: 4px;']
 www.xvideos.com###ad-footer
 www.xvideos.com##.thumb-ad
 ix6080.com##DIV[style$='vw; display: block;']
 m.hupu.com##[class^="show_ad"]
-m.zzzfun.com###show-2415689770463175004-8179
 sogou.com##.ad_result
 m.nxnba.com##.bootom-fixed
 ifeng.com##div[class^="ad_"]
