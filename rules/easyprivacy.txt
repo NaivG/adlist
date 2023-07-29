@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: NY05g+rkJPHx/AyQdxtXYw
-! Version: 202307281540
+! Checksum: lKWucx+I1cuZNdiWUTC7qg
+! Version: 202307290020
 ! Title: EasyPrivacy
-! Last modified: 28 Jul 2023 15:40 UTC
+! Last modified: 29 Jul 2023 00:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6624,6 +6624,7 @@ _mongo_stats/
 ||surveyscout.com^$third-party
 ||surveywriter.com^$third-party
 ||survicate.com^$third-party
+||swetrix.org^$third-party
 ||swiss-counter.com^$third-party
 ||synergy-e.com^$third-party
 ||synerise.com^$third-party
@@ -7893,6 +7894,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||floodprincipal.com^
 ||flowerstreatment.com^
 ||flowerycreature.com^
+||floweryfact.com^
 ||floweryflavor.com^
 ||floweryoperation.com^
 ||foamyfood.com^
