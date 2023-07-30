@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: uVbW+hcLdQemKDnUOIJsGQ
-! Version: 202307300020
+! Checksum: FyUc9r3PFPOxYuq8WYS4mw
+! Version: 202307300740
 ! Title: EasyPrivacy
-! Last modified: 30 Jul 2023 00:20 UTC
+! Last modified: 30 Jul 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4811,6 +4811,7 @@ _mongo_stats/
 ||bigbrain.me^$third-party
 ||bigcattracks.com^$third-party
 ||bigmir.net^$third-party
+||bignutty.xyz^$third-party
 ||bigreal.org^$third-party
 ||bigtracker.com^$third-party
 ||bionicclick.com^$third-party
@@ -5153,7 +5154,6 @@ _mongo_stats/
 ||donreach.com^$third-party
 ||dotaki.com^$third-party
 ||dotjs.com^$third-party
-||doubleverify.com^$third-party
 ||dpbolvw.net^$third-party
 ||dps-reach.com^$third-party
 ||driv-analytics.com^$third-party
@@ -13654,6 +13654,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||connatix.com/us/google/
 ||connecteam.com/bi/api/ReportHit/
 ||consent.ghostery.com/v1.js
+||consent.trustarc.com/bannermsg?
+||consent.trustarc.com/noticemsg?
 ||console-telemetry.oci.oraclecloud.com^
 ||consumer.org.nz/session/ping/
 ||containers.appdomain.cloud/api/send-log$domain=ibm.com
