@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: FyUc9r3PFPOxYuq8WYS4mw
-! Version: 202307300740
+! Checksum: jfzOlVS0lXQJewcsWUeb9Q
+! Version: 202307301540
 ! Title: EasyPrivacy
-! Last modified: 30 Jul 2023 07:40 UTC
+! Last modified: 30 Jul 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -33086,6 +33086,7 @@ arketing.indianadunes.com^
 @@||1001trackstats.com/api/$xmlhttprequest,domain=songstats.com
 @@||1trackapp.com/static/tracking/$script,stylesheet,~third-party
 @@||8tm.net/static/img/fbpixel.png$~third-party
+@@||ab.blogs.es/abtest.png$domain=trendencias.com|xataka.com
 @@||accounts.intuit.com/fe_logger?$~third-party
 @@||addthis.com/*-angularjs.min.js$script,domain=ead.senac.br|missingkids.com|missingkids.org
 @@||admin.memberspace.com/sites/*/analytics/views$~third-party
@@ -33221,6 +33222,7 @@ arketing.indianadunes.com^
 @@||hotstarext.com/web-messages/core/error/v52.json$xmlhttprequest,domain=hotstar.com
 @@||ibm.com/software/reports/compatibility/clarity-reports/js/$script,~third-party
 @@||identity.mparticle.com^$xmlhttprequest
+@@||ikea.com^*/assets/analyticsEvent.component-$script,~third-party
 @@||imgur.com/min/px.js$~third-party
 @@||indeed.com/rpc/log/myjobs/$~third-party
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=orionprotocol.io|tesco.com
