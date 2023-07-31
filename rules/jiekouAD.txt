@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-07-31 09:33:07（北京时间）
+! Update Time: 2023-07-31 20:07:50（北京时间）
 ! Total Count: 3645
 ! by: 酷安@大萌主
 ! Host
@@ -3370,7 +3370,6 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##.C1U,.C1M,.C2L,.C2R
 ##[src^='/Uploads/ad/'][src$='.gif'][alt='广告']
 ##img#hth[onclick$="hth.html')"]
-##.ads
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
 ##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
 ##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
@@ -3624,6 +3623,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[style^='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: '][style*='; top: 0px; left: 0px;']
 ##a[href*=".com?s="]
 ##div.my-ad > a
+##div#playlistbtn > A[href='/ht.html']
 ##INS[status='done'] A.external
 ##body > div#bottommob.bottommob
 ##DIV#xfb_lbox.zoomout_transition.zoomout
