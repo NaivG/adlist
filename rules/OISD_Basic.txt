@@ -1,8 +1,8 @@
 [Adblock Plus]
-! Version: 202307301606
+! Version: 202307301702
 ! Description: Block. Don't break.
 ! Title: oisd small
-! Last modified: 2023-07-30T16:06:24+0000
+! Last modified: 2023-07-30T17:02:11+0000
 ! Expires: 1 hours
 ! Homepage: https://oisd.nl
 ! Syntax: Adblock Plus Filter List
@@ -33114,6 +33114,7 @@
 ||tagdelivery.mayoclinic.org^
 ||tagdelivery.mayoclinic.org.pc-mc.greylabeldelivery.com^
 ||tagger.ope.scmp.com^
+||tagger.opecloud.com^
 ||taggerumbre.uno^
 ||tagging-qadkfoj6ha-as.a.run.app^
 ||taggyhearse.com^

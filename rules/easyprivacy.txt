@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: jfzOlVS0lXQJewcsWUeb9Q
-! Version: 202307301540
+! Checksum: MT7KEyfOHEjVOG4CljFUOg
+! Version: 202307310020
 ! Title: EasyPrivacy
-! Last modified: 30 Jul 2023 15:40 UTC
+! Last modified: 31 Jul 2023 00:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4380,6 +4380,7 @@ _mongo_stats/
 ||p2r14.com^
 ||p7cloud.net^
 ||pageid.info^
+||peiq.de^
 ||permutive.app^
 ||pippio.com^
 ||pix.pub^
@@ -4457,6 +4458,7 @@ _mongo_stats/
 ||tru.am^
 ||truffle.bid^
 ||trx-hub.com^
+||try-snowplow.com^
 ||tryzens-analytics.com^
 ||turboeagle.co^
 ||turbolion.io^
@@ -6205,6 +6207,7 @@ _mongo_stats/
 ||publicgood.com^$third-party
 ||publicidees.com^$third-party
 ||publishflow.com^$third-party
+||publytics.net^$third-party
 ||pubperf.com^$third-party
 ||pubplus.com^$third-party
 ||pubstack.io^$third-party
@@ -12926,6 +12929,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||aruba.it/servlet/counterserver?
 ||audit.shaa.it^
 ||bemail.it^*/analytics.js
+||blasterzone.it/analytics/
 ||click.kataweb.it^
 ||cnt.iol.it^
 ||d32hwlnfiv2gyn.cloudfront.net^
@@ -14235,6 +14239,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||qwant.com/impression/
 ||qwant.com/maps/events
 ||qwant.com/v2/api/ux/surveys?
+||qwerpdf.com/trk23/
 ||r.bbci.co.uk^
 ||raindrop.io/pb/api/event
 ||rakuten.com/rmsgjs/soj2.js
@@ -14394,6 +14399,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||streamtape.cc/stat/
 ||streamtape.com/stat/
 ||streamtape.to/stat/
+||streamtape.xyz/stat/
 ||streamtapeadblock.art/stat/
 ||streamtapeadblockuser.art/stat/
 ||streamtapeadblockuser.homes/stat/
@@ -31992,6 +31998,7 @@ arketing.indianadunes.com^
 ||t.wayfair.de^
 ||tagm.eduscho.at^
 ||tarnkappe.info^$ping
+||teltarif.de/ttt.go?
 ||tgw.gmx.ch^
 ||tgw.gmx.net^
 ||tgw.web.de^
@@ -32020,6 +32027,7 @@ arketing.indianadunes.com^
 ||tracking.fupa.net^
 ||tracking.grosseladies.de^
 ||tracking.hobbyladies.de^
+||tracking.immobilienscout24.de^
 ||tracking.jungeladies.de^
 ||tracking.krone.at^
 ||tracking.kussladies.de^
