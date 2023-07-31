@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: MT7KEyfOHEjVOG4CljFUOg
-! Version: 202307310020
+! Checksum: ZDHpReU0xg3SU7ADEoUngQ
+! Version: 202307310740
 ! Title: EasyPrivacy
-! Last modified: 31 Jul 2023 00:20 UTC
+! Last modified: 31 Jul 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10108,6 +10108,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||appspot.com/event?
 ||appspot.com/stats?
 ||appspot.com/take?
+||arc.pub/clavis/training/events
 ||arclk.net/trax?
 ||arcpublishing.com/beacon
 ||argos.citruserve.com^
@@ -10400,6 +10401,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect.usefathom.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
+||collector-soompi.viki.io^
 ||collector.api.video^
 ||collector.appconsent.io^
 ||collector.automote.co.nz^
