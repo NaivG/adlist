@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-07-31 20:07:50（北京时间）
+! Update Time: 2023-08-01 22:33:13（北京时间）
 ! Total Count: 3645
 ! by: 酷安@大萌主
 ! Host
@@ -2866,6 +2866,7 @@ yhdm*.com/js/wap2-jm-ms.js?ver=
 ||jialingmm.net/dm/tj.js
 ||58jingxuan.top/115
 xmh/200/200-*.gif
+/scripts/snstyle.js?v=2$~third-party
 .com/qq.js$third-party
 .xyz/st?gp=*$third-party
 ||zhhbqg.com/xxgg/*.js
@@ -3133,7 +3134,6 @@ baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
 baidu.com##.barea-ad
 baidu.com##DIV[data-module='rec:undefined-undefined']
 baidu.com##[class*='index_godCard'][class*='index_noGuaranteeTag'][class*='index_adTextPosition'],[class^='index_brandEntry__'],[data-show*='swan-ad-fc-swiper-banner']
-www.baidu.com###content_left > *:not([id]) *,[class="result c-container new-pmd"][id="1"][tpl="se_com_default"][data-click]
 baidu.com###page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
 hanyu.baidu.com###fengchao_els.c-container.card.fengchao-els
 hanyu.baidu.com##.fengchao-el
