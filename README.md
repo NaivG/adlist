@@ -43,4 +43,4 @@
 | Notracking blocklist | [原始链接](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/Notracking_blocklist.txt) | 2023/06/27 |
 | 1024 hosts | [原始链接](https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/1024_hosts.txt) | 2023/05/25 |
 | ad-wars hosts | [原始链接](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/ad-wars_hosts.txt) | 2023/05/25 |
-| StevenBlack hosts | [原始链接](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/StevenBlack_hosts.txt) | 2023/07/28 |
+| StevenBlack hosts | [原始链接](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/StevenBlack_hosts.txt) | 2023/08/02 |
