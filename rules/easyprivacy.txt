@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: bPxIGKXeZbazgVnIq1Hzog
-! Version: 202308020740
+! Checksum: 3evZW04TGWHN0VySNLlHLg
+! Version: 202308021540
 ! Title: EasyPrivacy
-! Last modified: 02 Aug 2023 07:40 UTC
+! Last modified: 02 Aug 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -614,7 +614,6 @@
 /bunsen/events/*
 /byside_webcare.
 /bytro/logs/*
-/bz?*__comet_req=
 /c.gif?
 /c.wrating.com/*
 /c2_count.js
@@ -3758,6 +3757,9 @@ _trackWebtrekkEvents.
 _view_pixel&$image
 _webanalytics.
 _WebVitalsReporter_
+! Facebook pixels
+/ajax/bnzai?_
+/ajax/bz?_
 ! parked domains
 /ls.php?t=
 /track.php?domain=
