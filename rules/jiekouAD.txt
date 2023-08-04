@@ -1,10 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-08-03 21:32:02（北京时间）
-! Total Count: 3647
+! Update Time: 2023-08-04 16:51:19（北京时间）
+! Total Count: 3650
 ! by: 酷安@大萌主
 ! Host
+||xyizgh.cn^
 ||zfowbr.buzz^
 ||ads.pubmatic.com^
 ||hcvegu.com^
@@ -2904,6 +2905,7 @@ chen-xing/figure_bed*
 /stats.php?adsid=$third-party
 .xyz/*_*_1_*.js?$third-party
 *tplv-noop.gif*
+.cn:*/vh5$third-party
 ||nex.163.com/q?
 ||g.163.com/*&affiliate=
 ||163.com/wap/special/article_cooper_piapia/
@@ -3079,7 +3081,6 @@ _/bigREDdog.css?
 .xyz/xefeliffng_$third-party
 91porny.com/api/getPos?jspath=/
 /api/getPos?jspath=/videos/view//*
-/s/page_runtime_*.js
 /v0/amp-addthis-*.js
 .com:8010/cc/
 .buzz/*0*0*0*==$third-party
@@ -3644,6 +3645,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[src^='https://immmg.owowqrf.cn']
 ##DIV[allowtransparency='true'][scrolling='no']
 ##DIV.advertisingConfiguration
+##div#main.main.read_page [id^="set_adds"]
+##div.container.ff-bg > div.row.ff-row.slide
 ##P[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important;']
 ##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
 ##DIV[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 288; top: 0px; left: 0px;']
