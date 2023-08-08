@@ -1025,6 +1025,8 @@ nfmovies.com#$#a[onclick*="openurl"][target="_blank"] img[src^="/static/"] { pos
 ! Good: example.org#?#main > div.row:has(> div.ad)
 ! Bad: example.org##main > div.ad (should be in specific.txt)
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/158575
+forum.hkgolden.com#?#body > div[class^="jss"]:has(> div[class][style^="transform"]:only-child > div[class] > div[data-role="ad"])
 ! https://github.com/AdguardTeam/AdguardFilters/issues/155467
 lihkg.com#?#div[id][class][data-post-id] + div[class]:not([id]):not([data-post-id]):has( > div[class]:only-child > div > div[id^="gam-"]:only-child)
 ! https://github.com/AdguardTeam/AdguardFilters/issues/155154
@@ -5212,6 +5214,7 @@ newduba.cn###jq_youxi
 ||uwgnpkd.cn^
 ||mkjnbg.com^
 ||laljjn.xyz^
+||yjnhkd.com^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ##a[href$="/1c626.com"]
