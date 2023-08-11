@@ -1,10 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-08-10 09:58:33（北京时间）
-! Total Count: 3656
+! Update Time: 2023-08-11 21:49:47（北京时间）
+! Total Count: 3658
 ! by: 酷安@大萌主
 ! Host
+||zggrxf.life^
 ||mkjnbg.com^
 ||pbaiyho.cn^
 ||fengyukun03.cn^
@@ -1017,7 +1018,6 @@
 ||img.starpc.cn^
 ||img.vue-js.cyou^
 ||img2.qqwangming6.com^
-||imgstat.baidu.com^
 ||imgwdyey.com^
 ||imp.zol.com.cn^
 ||in-page-push.com^
@@ -3147,6 +3147,8 @@ fanyi.baidu.com##H1,H3,.intro-nav.clearfix,.intro-copyrigh,A.app-bar,.intro-copy
 cpu.baidu.com##A[href*='cpro.baidu.com']
 wk.baidu.com##.fc-ad-wrap
 wk.baidu.com##.middle-box-root
+tieba.baidu.com##.tbui_slideshow_slide
+tieba.baidu.com##.activity_head
 tieba.baidu.com##DIV[id^='aside-ad']
 tieba.baidu.com##div[class*='-ad-pb-']
 tieba.baidu.com##DIV[id^='mediago-tb-frs-list']
