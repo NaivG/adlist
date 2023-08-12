@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ZFEaMZsrs6Mxu95tptO+Cg
-! Version: 202308120010
+! Checksum: UC+HPi4sNE9BDnTyDIIgDA
+! Version: 202308120740
 ! Title: EasyPrivacy
-! Last modified: 12 Aug 2023 00:10 UTC
+! Last modified: 12 Aug 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4161,7 +4161,6 @@ _mongo_stats/
 ||ffe390afd658c19dcbf707e0597b846d.de^
 ||firstblackphase.com^
 ||fleraprt.com^
-||fmhy.net^
 ||fn-pz.com^
 ||fourtimessmelly.com^
 ||fpapi.io^
@@ -5210,6 +5209,7 @@ _mongo_stats/
 ||flxpxl.com^$third-party
 ||flyingpt.com^$third-party
 ||flyspy.co^$third-party
+||fmhy.net^$third-party
 ||fndrsp.net^$third-party
 ||followercounter.com^$third-party
 ||footprintdns.com^$third-party
@@ -13285,6 +13285,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.kkb.com.tr^
 ||collector.wawlabs.com^
 ||hulyagedikci.com/vhit.php?
+||iyzipay.com/buyer-protection/assets/js/analytics.js
 ||statistics.daktilo.com^
 ||stats.vidyome.com^
 ||tracking.venturify.at^
@@ -14052,6 +14053,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ohm-dot-hackster-io.appspot.com^
 ||okx.com/jsstat/sb?
 ||online-umwandeln.de/analytics.js
+||ontraport.com/opt_assets/static/js/logging.js
 ||opendesktop.org/l/fp
 ||ophan.theguardian.com^
 ||optimizely.com/js/geo.js
@@ -31989,6 +31991,7 @@ arketing.indianadunes.com^
 ||compteur.developpez.com^
 ||courrierinternational.com/*&vtag=
 ||developpez.com/public/js/log.js
+||donnons.org/log.js
 ||e.legalstart.fr^
 ||e.m6web.fr/events
 ||easeus.com/default/js/aff_buy_tracking.js
