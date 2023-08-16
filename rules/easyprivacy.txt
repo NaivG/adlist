@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: v2qXMXkcvEbvvb7zt4M2UQ
-! Version: 202308160740
+! Checksum: SoYTDDfawllHseIrtOi3+g
+! Version: 202308161540
 ! Title: EasyPrivacy
-! Last modified: 16 Aug 2023 07:40 UTC
+! Last modified: 16 Aug 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3695,6 +3695,7 @@ _social_tracking.js
 _stat.php?referer=
 _stat_counter.php?
 _trackWebtrekkEvents.
+_vercel/insights/
 _view_pixel&$image
 _webanalytics.
 _WebVitalsReporter_
@@ -6351,6 +6352,7 @@ _mongo_stats/
 ||simpleanalytics.io^$third-party
 ||simpleanalyticsbadge.com^$third-party
 ||simpleanalyticscdn.com^$third-party
+||simpleanalyticsexternal.com^$third-party
 ||simplehitcounter.com^$third-party
 ||simplereach.com^$third-party
 ||simpli.fi^$third-party
@@ -8525,6 +8527,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stiffstem.com^
 ||stingsquirrel.com^
 ||stockingsneeze.com^
+||stomachscience.com^
 ||storescissors.com^
 ||storeslope.com^
 ||storesurprise.com^
