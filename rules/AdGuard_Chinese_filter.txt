@@ -1061,7 +1061,8 @@ hdmoli.com#?#.row > div.myui-panel:has(div[style^="text-align:"] > a[href][targe
 ! https://github.com/AdguardTeam/AdguardFilters/issues/134240
 ! Do not hide .bili-video-card container to not mess up content, related - https://github.com/AdguardTeam/AdguardFilters/issues/147194#issuecomment-1500803042
 ! bilibili.com#?#.bili-video-card.is-rcmd > div > a[href*="cm.bilibili.com"][data-target-url]:not([data-target-url*=".bili"]) + .bili-video-card__info:upward(2)
-bilibili.com#?#.container > div[class*="-card"]:has(div[style="display: none !important;"])
+bilibili.com#$?#.container > div.floor-single-card:has(> div.skeleton) { remove: true; }
+bilibili.com#$?#.container > div[class*="-card"]:has(div[style="display: none !important;"]) { remove: true; }
 bilibili.com#?#.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__wrap
 bilibili.com#?#.bili-video-card:has(.bili-video-card__info--creative-ad) > .bili-video-card__wrap
 bilibili.com#$?#.bili-video-card:has(.bili-video-card__info--ad) > .bili-video-card__skeleton { visibility: visible !important; }
@@ -5336,6 +5337,18 @@ newduba.cn###jq_youxi
 ||ndqcz0e.xyz^
 ||chozarpeases.com^
 ||hh6820123.com^
+||bnds7.site^
+||gdjme27.com^
+||pypwxvo.cn^
+||lfjtiuy.cn^
+||lslbahl.top^
+||vhsutpgui.xyz^
+||jixmlx.xyz^
+||kmnhgna.com^
+||tcuqqhj.icu^
+||bmptbyb.com^
+||vhutitpu.icu^
+||zcbfjd.xyz^
 ||zonyff.xyz^
 ||zvasuzb.icu^
 ||zxrcfw.com^
@@ -14915,7 +14928,10 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||17173cdn.com/a/oms/oms-data.
 szxx.com.cn###A0
+17173.com###finalTuijian
+17173.com##a[href^="https://gtv."]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
