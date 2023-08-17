@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-08-14 18:28:01（北京时间）
-! Total Count: 4000
+! Update Time: 2023-08-16 20:02:05（北京时间）
+! Total Count: 4002
 ! by: 酷安@大萌主
 ! Host
 ||autchoog.net^
@@ -3135,7 +3135,8 @@
 ||mobads.baidu.com^
 ||stat.meitudata.com^
 ! URL
-@@css.yhdmtu.xyz$domain=yinghuavideo.com
+@@||/template/conch/asset/js/hlhtml.js$domain=www.gqdm.net|1anime.me
+@@||css.yhdmtu.xyz^$domain=yinghuavideo.com
 @@||jstatic.3.cn^$domain=m.jd.com
 @@||manwa.me^
 @@||cdn-msp*.18comic.*^
@@ -3993,6 +3994,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##IMG.lazyload[src='/statics/img/load.gif']
 ##[src^='https://immmg.owowqrf.cn']
 ##A[href^='https://v.frthv.com']
+##[src^='data:image/png;base64,iVBORw0KGgoAAAANSU'][style*='position: fixed; z-index: 2000000000; width: 30px; bottom:']
 ##DIV[allowtransparency='true'][scrolling='no']
 ##DIV.advertisingConfiguration
 ##div#main.main.read_page [id^="set_adds"]
