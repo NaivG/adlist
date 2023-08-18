@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: teFT26Z4BRKOIay8u03H6g
-! Version: 202308180010
+! Checksum: A0KKKfINbOoH6qN/TlRzuQ
+! Version: 202308180740
 ! Title: EasyPrivacy
-! Last modified: 18 Aug 2023 00:10 UTC
+! Last modified: 18 Aug 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13754,6 +13754,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||geolocation.forbes.com^
 ||getadblock.com/js/log.js
 ||getpocket.com/t/
+||getpocket.com/web-client-api/braze
 ||getpocket.com/web-utilities/public/static/te.js
 ||gettyimages.*/pulse$ping
 ||ghacks.net/statics/px.gif
@@ -33366,7 +33367,7 @@ arketing.indianadunes.com^
 !! omtrdc.net
 @@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=absa.co.za|att.com|pnc.com|vodafone.it
 !! tags.tiqcdn.com
-@@||tags.tiqcdn.com/utag/*/utag.sync.js$domain=bankofamerica.com|hsbc.co.uk|sony.jp|vmware.com
+@@||tags.tiqcdn.com/utag/*/utag.sync.js$domain=bankofamerica.com|hsbc.co.uk|samsung.com|sony.jp|vmware.com
 ! statcounter.com charts https://github.com/uBlockOrigin/uAssets/issues/11321
 @@||gs.statcounter.com/chart.php$script,third-party
 @@||statcounter.com/js//fusioncharts.charts.js
