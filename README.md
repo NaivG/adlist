@@ -24,9 +24,9 @@
 |:-|:-|:-|:-|
 | xwhyc-rules | [原始链接](https://raw.githubusercontent.com/NaivG/adlist/main/xwhyc-rules/lazy.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/xwhyc-rules.txt) | 2023/05/25 |
 | xwhyc-rules video | [原始链接](https://raw.githubusercontent.com/NaivG/adlist/main/xwhyc-rules/video.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/xwhyc-rules_video.txt) | 2023/05/25 |
-| jiekouAD | [原始链接](https://cdn.jsdelivr.net/gh/damengzhu/banad/jiekouAD.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/jiekouAD.txt) | 2023/08/23 |
+| jiekouAD | [原始链接](https://cdn.jsdelivr.net/gh/damengzhu/banad/jiekouAD.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/jiekouAD.txt) | 2023/08/25 |
 | easyprivacy | [原始链接](https://easylist-downloads.adblockplus.org/easyprivacy.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/easyprivacy.txt) | 2023/08/25 |
-| cjx-annoyance | [原始链接](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/cjx-annoyance.txt) | 2023/08/21 |
+| cjx-annoyance | [原始链接](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/cjx-annoyance.txt) | 2023/08/25 |
 | cjxlist | [原始链接](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/cjxlist.txt) | 2023/05/25 |
 | Chinalist2.0 | [原始链接](https://raw.githubusercontent.com/z44499783/ChinaList2.0/master/ChinaList2.0.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/Chinalist2.0.txt) | 2023/05/25 |
 | easylist+chinalist | [原始链接](http://sub.adtchrome.com/adt-chinalist-easylist.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/easylist+chinalist.txt) | 2023/05/25 |
@@ -39,7 +39,7 @@
 | AdRules DNS List | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdRules_DNS_List.txt) | 2023/08/25 |
 | Hblock | [原始链接](https://hblock.molinero.dev/hosts_adblock.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/Hblock.txt) | 2023/08/24 |
 | NEO DEV HOST | [原始链接](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/NEO_DEV_HOST.txt) | 2023/08/24 |
-| OISD Basic | [原始链接](https://abp.oisd.nl/basic/) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/OISD_Basic.txt) | 2023/08/24 |
+| OISD Basic | [原始链接](https://abp.oisd.nl/basic/) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/OISD_Basic.txt) | 2023/08/25 |
 | Notracking blocklist | [原始链接](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/Notracking_blocklist.txt) | 2023/06/27 |
 | 1024 hosts | [原始链接](https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/1024_hosts.txt) | 2023/05/25 |
 | ad-wars hosts | [原始链接](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/ad-wars_hosts.txt) | 2023/05/25 |
