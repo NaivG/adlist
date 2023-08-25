@@ -3236,6 +3236,7 @@ nfmovies.com#@?#div[id]:-abp-has(>img[onclick="openurl()"])
 .bid/ads/
 .blog/ads/
 .bt*.com/imgs.js?t=
+://*.z*.xyz/$object,third-party
 .buzz/*=$object,third-party
 .cam/ads/
 .cc/ad/
@@ -5468,6 +5469,9 @@ newduba.cn###jq_youxi
 ||zxrcfw.com^
 ||zdwykjd.icu^
 ||xhpghv.xyz^
+||lhgwcvw.cn^
+||neghes.fun^
+||zgwsnw.xyz^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
