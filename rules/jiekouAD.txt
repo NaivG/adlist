@@ -1,10 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-09-01 12:51:14（北京时间）
-! Total Count: 4038
+! Update Time: 2023-09-03 14:40:33（北京时间）
+! Total Count: 4035
 ! by: 酷安@大萌主
 ! Host
+||986qka.cn^
 ||shuyu2001.cn^
 ||lestv1.icu^
 ||zgwsnw.xyz^
@@ -3124,7 +3125,6 @@
 ||vstat.v.blog.sohu.com^
 ||count.vrs.sohu.com^
 ||qchannel03.cn^
-||zz.bdstatic.com^
 ||tsearch.snssdk.com^
 ||fclick.baidu.com^
 ||ssp.qq.com^
@@ -3441,11 +3441,7 @@ _/bigREDcat.css?
 .top/gluinfo.php?s=$third-party
 /baidu/tg.js
 /baidu/189/999.php
-/new/2*.html
-/new/4*.html
-/new/5*.html
-/new/8*.html
-_/bigREDdog.css?
+/bigREDdog.css?
 .icu/?token=$third-party
 .xyz/*0*0*==$third-party
 .xyz/foundation?$third-party
@@ -4021,6 +4017,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##div#page-back DIV.container.clearfix div > A > IMG[src]
 ##section.global_video_bottom_dbtc
 ##A[href^='https://www.ids20.co']
+##IMG[style='height:120px;width:100%;'][src*='/sucai/']
 ##DIV[style^='box-sizing: border-box; position: relative; left: 0px; z-index: 214748']
 ##A > IMG[alt][src*='resources/images/']
 ##A[rel='nofollow noopener'][href*='/game/xr/?attributionId=']
