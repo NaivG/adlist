@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-09-08 19:52:56（北京时间）
-! Total Count: 4045
+! Update Time: 2023-09-10 10:58:46（北京时间）
+! Total Count: 4051
 ! by: 酷安@大萌主
 ! Host
 ||vhhvldyuhm.xyz^
@@ -3167,7 +3167,7 @@
 ||mobads.baidu.com^
 ||stat.meitudata.com^
 ! URL
-@@||/template/conch/asset/js/hlhtml.js$domain=www.gqdm.net|1anime.me
+@@||/template/conch/asset/js/hlhtml.js$domain=www.lldm.net|1anime.me
 @@||css.yhdmtu.xyz^$domain=yinghuavideo.com|yinghua8.tv
 @@||jstatic.3.cn^$domain=m.jd.com
 @@||manwa.me^
@@ -3584,6 +3584,11 @@ guancha.cn##.g_swiper_container
 guancha.cn##.g_header44
 so.toutiao.com##section.commonbox.hasfooter
 so.toutiao.com##DIV[id^='ad_']
+www.xhfz2.com##A[href^='https://www.xhfz2.com/ad.php']
+www.xhfz2.com##span.lileft > A[style^='float:left;color:']
+www.xhfz2.com##DIV.pctext
+www.xhfz2.com##DIV.HomeTuList
+www.xhfz2.com##DIV#topcont
 v11av.xyz##.row.q-ma-none A[rel='noopener nofollow'][href][style='display: block;']
 v11av.xyz##.content__body [rel='nofollow'][href][target='_blank']
 www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.top_link_hidden,[src$='.gif']
@@ -4026,6 +4031,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##div#page-back DIV.container.clearfix div > A > IMG[src]
 ##section.global_video_bottom_dbtc
 ##A[href^='https://www.ids20.co']
+##A[href^='https://www.pcjx365.com']
 ##IMG[style='height:120px;width:100%;'][src*='/sucai/']
 ##DIV[style^='box-sizing: border-box; position: relative; left: 0px; z-index: 214748']
 ##A > IMG[alt][src*='resources/images/']
