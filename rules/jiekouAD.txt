@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-09-16 09:25:17（北京时间）
-! Total Count: 4908
+! Update Time: 2023-09-17 16:08:19（北京时间）
+! Total Count: 4916
 ! by: 酷安@大萌主
 ! Host
 ||tgyxpfjws.com^
@@ -4344,10 +4344,13 @@ template/m1938pc/ads/*.js
 @@||developer.apple.com$generichide
 manwa.me#@#.ad-area
 myqqjd.com##.adsbygoogle
+m.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
 baidu.com#@#div[class*="ads"]
 baidu.com#@##header > div:last-child
 baidu.com#@##page-pre
 dongmanhuayuan.myheartsite.com##.card-body
+baidu.com##[data-tpl='adv_wenku_fc']
+baidu.com##DIV.c-container.ec-container
 baidu.com##div[class$="-ecom-ads"]
 baidu.com##.ec-ad
 baidu.com##.ad-wrapper
@@ -4502,6 +4505,8 @@ zol.com.cn##A.dingtong.xianshiyouhui
 dm530p.net##DIV[style$='; display: block;']
 m.iqiyi.com##.iqyGuide-content,.cover
 webtor.io##DIV.ad
+webtor.io##[data-element='empty']
+webtor.io##IFRAME[scrolling='no']
 acglala.me##.topm,.donghua_info > DIV[style='width:100%;'],.donghua_info > a
 ali213.net##.placeholderforpromotion
 happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
@@ -4902,6 +4907,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[src^='data:image/png;base64,iVBORw0KGgoAAAANSU'][style*='position: fixed; z-index: 2000000000; width: 30px; bottom:']
 ##DIV[allowtransparency='true'][scrolling='no']
 ##DIV.advertisingConfiguration
+##[style$=' 0% 0% / 100% no-repeat; height: 130px; width: 100%; position: relative;']
+##IMG[src*='qimanwu_wap/static/adimages/']
 ##div#main.main.read_page [id^="set_adds"]
 ##div.container.ff-bg > div.row.ff-row.slide
 ##P[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important;']
@@ -4916,3 +4923,4 @@ ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 ##a[href*='html?channelCode'] > IMG[src*='.gif'][width='100%']
 ##A[href*='com:'] > IMG[src],A[href*='cc:'] > IMG[src]
 ##div#h2_player_prevideo > A[href][target='_blank']
+##body#reader-m-fix IMG[src*='.gif'][style='width:100%;height:100%']
