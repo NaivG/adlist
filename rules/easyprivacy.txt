@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: j5dJaMIxwdV783eSuHN71w
-! Version: 202309191540
+! Checksum: FMpoAbQ+LuXUYhGT33IZHg
+! Version: 202309200010
 ! Title: EasyPrivacy
-! Last modified: 19 Sep 2023 15:40 UTC
+! Last modified: 20 Sep 2023 00:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19,6 +19,7 @@
 &callback=hitStats_
 &ev=PageView&
 &event=view&
+&EventType=DataDealImpression&
 &EventType=Impression&
 &hitType=pageview&
 &http_referer=$script,xmlhttprequest,domain=~facebook.com|~jobscore.com
@@ -1769,6 +1770,7 @@
 /mpixel.js
 /mpulse.js
 /mpulse.min.js
+/ms-widgets/tracking-cookies/*
 /ms.analytics-
 /mstat/*
 /mstats.
@@ -2860,6 +2862,7 @@
 /tracking.jsp?sid=
 /tracking/airdog
 /tracking/common.
+/tracking/cookies?
 /tracking/digitaldata.js
 /tracking/events/*
 /tracking/events?
@@ -32490,6 +32493,7 @@ arketing.indianadunes.com^
 ||goo.ne.jp^*/vltracedmd.js
 ||hatarako.net/api/recommend/analyze_logger
 ||i2i.jp/bin/
+||img.syosetu.org/js/c_
 ||j1.ax.xrea.com^
 ||k-crm.jp/tracking.js
 ||link.tv-asahi.co.jp/tver/cookiesync?
