@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-09-24 09:41:44（北京时间）
-! Total Count: 4933
+! Update Time: 2023-09-26 11:48:57（北京时间）
+! Total Count: 4937
 ! by: 酷安@大萌主
 ! Host
 ||sinawap.com^
@@ -4354,7 +4354,9 @@ template/m1938pc/ads/*.js
 ! CSS
 @@||developer.apple.com$generichide
 manwa.me#@#.ad-area
-myqqjd.com##.adsbygoogle
+myqqjd.com##.adsbygoogl
+@#div[class$="_0"]@www.jianshu.com
+www.jianshu.com#@#div[class$="_0"]
 m.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
 baidu.com#@#div[class*="ads"]
 baidu.com#@##header > div:last-child
@@ -4402,6 +4404,8 @@ baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-conten
 zhidao.baidu.com###knowledge-answer-list
 zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
 baidu.com###bdrainrwDragButton
+pan.baidu.com##A.active-msg
+pan.baidu.com##div.content DIV.photo-banner
 mobile.baidu.com##SECTION.detail-banner.banner-ck
 bing.com###bnp_container
 bing.com##.b_ad
