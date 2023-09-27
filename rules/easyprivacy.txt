@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ovyD5z+PrNXIumPBis8mcg
-! Version: 202309270010
+! Checksum: dTj4MntyvRCt+xgxsQVpIA
+! Version: 202309270740
 ! Title: EasyPrivacy
-! Last modified: 27 Sep 2023 00:10 UTC
+! Last modified: 27 Sep 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32787,6 +32787,7 @@ arketing.indianadunes.com^
 ||iys.org.tr/mti-popts.js
 ||sahibinden.com/sbbi/
 ||stats.birgun.net^
+||tracker.blutv.com^
 ! Ukrainian
 |http://r.i.ua^
 |https://r.i.ua^
