@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: oA4ZnNKRp/+gjFKnwNOtxg
-! Version: 202309261541
+! Checksum: ovyD5z+PrNXIumPBis8mcg
+! Version: 202309270010
 ! Title: EasyPrivacy
-! Last modified: 26 Sep 2023 15:41 UTC
+! Last modified: 27 Sep 2023 00:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13340,6 +13340,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cnt.iceporn.com^
 ||cnt.viptube.com^
 ||cnt.vivatube.com^
+||cnt.xhamster.com^
 ||codecademy.com/analytics/
 ||coincheckup.com/report_events/
 ||cointelegraph.com/pixel?
@@ -13350,7 +13351,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect.reagroupdata.com.au^
 ||collect.stepstone.co.uk^
 ||collect.thunder-io.com^
-||collections-api.realestate.com.au^
 ||collector-px0py5pczn.octopart.com^
 ||collector.cint.com^
 ||collector.fiverr.com^
