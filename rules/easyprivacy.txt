@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: pNuzXdlbINRhYCN13RXBCg
-! Version: 202309280010
+! Checksum: JKJnK7yyuZh1MyunSAmp9A
+! Version: 202309280740
 ! Title: EasyPrivacy
-! Last modified: 28 Sep 2023 00:10 UTC
+! Last modified: 28 Sep 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2028,6 +2028,7 @@
 /plugins/stat-dfp/*
 /plugins/status.gif?
 /plugins/userinfo.gif?
+/plugins/vdz-google-analytics/*
 /plugins/visitors-traffic-
 /plugins/wordfence/visitor.php?
 /pm/pixel.
@@ -3536,6 +3537,7 @@ _WebVitalsReporter_
 /trcksp.
 /wf/open?upn=$image
 /wizrocketmail.net/r?$image
+/znsrc.com/c/*$image
 ://2ip.*/member_photo/$third-party
 ://email.*/e/o/
 ://parcel-api.delivery-status.*/open/$image
