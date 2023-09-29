@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: fTb71UqzfjsVeTqQDYHq2g
-! Version: 202309290740
+! Checksum: 7+9E9HzGVDOhhM1sa2Vlkg
+! Version: 202309291540
 ! Title: EasyPrivacy
-! Last modified: 29 Sep 2023 07:40 UTC
+! Last modified: 29 Sep 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -33614,6 +33614,7 @@ arketing.indianadunes.com^
 !---------- Ukrainian ----------
 !
 @@||gemius.pl/gplayer.js$domain=tsn.ua
+@@||privatbank.ua/content/*/fp2.min.js$~third-party
 @@||uaprom.net/image/blank.gif?$image
 !
 !---------- Vietnamese ----------
