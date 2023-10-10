@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: TgjCXf05vXgq81rOYves5A
-! Version: 202310091540
+! Checksum: vjV/FQyj3KdUzWaad1E/MA
+! Version: 202310100010
 ! Title: EasyPrivacy
-! Last modified: 09 Oct 2023 15:40 UTC
+! Last modified: 10 Oct 2023 00:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8291,6 +8291,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||superficialspring.com^
 ||superficialsquare.com^
 ||supervisegoldfish.com^
+||suspectmark.com^
 ||suspendseed.com^
 ||swankysquare.com^
 ||sweepsheep.com^
@@ -33330,6 +33331,7 @@ arketing.indianadunes.com^
 ! Allowlists to fix broken pages of tracking companies
 ! Heatmap
 @@||heatmap.it^$domain=heatmap.com|heatmap.it|heatmap.me|heatmap.org
+@@||komas19.xyz/cdn-cgi/apps/$script,~third-party
 !----------------Allowlists to fix broken international sites-----------------!
 ! *** easylist:easyprivacy/easyprivacy_allowlist_international.txt ***
 !
