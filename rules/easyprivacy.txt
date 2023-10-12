@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Pg1Mf6HHXG19Awq2P+FDPg
-! Version: 202310111540
+! Checksum: +kfdguuFAluhpFygr0i5Xw
+! Version: 202310120010
 ! Title: EasyPrivacy
-! Last modified: 11 Oct 2023 15:40 UTC
+! Last modified: 12 Oct 2023 00:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11946,6 +11946,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d2nxi61n77zqpl.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
+||d2r1yp2w7bby2u.cloudfront.net^
 ||d2rnkf2kqy5m6h.cloudfront.net^
 ||d2t77mnxyo7adj.cloudfront.net^
 ||d2tgfbvjf3q6hn.cloudfront.net^
@@ -33178,6 +33179,7 @@ arketing.indianadunes.com^
 @@||s-microsoft.com/mscc/statics/$script,domain=microsoft.com
 @@||s.btstatic.com/tag.js$domain=sephora.com
 @@||s.thebrighttag.com/tag?site=$domain=sephora.com
+@@||sc.youmaker.com/site/article/count?
 @@||scorecardresearch.com^*/streamingtag_plugin_jwplayer.js
 @@||sealserver.trustwave.com/seal.js$domain=zoom.us
 @@||secure.logmein.com/scripts/Tracking/$script,domain=logme.in|logmein.com
@@ -33340,6 +33342,7 @@ arketing.indianadunes.com^
 !
 !---------- German ----------
 !
+## + js(set-cookie, consentAll, 1)
 @@||adconsole.ch/api/ws-businessclick/*/data.json$domain=finanzen.ch
 @@||adnz.co/dmp/publisher.js$domain=finanzen.ch
 @@||adnz.co/header.js?adTagId=$domain=finanzen.ch
@@ -33352,6 +33355,7 @@ arketing.indianadunes.com^
 @@||businessclick.ch/index.js$domain=finanzen.ch
 @@||classic.comunio.de/clubImg.phtml/$image,~third-party
 @@||digitale-sammlungen.gwlb.de^*/pageview.js$script,domain=digitale-sammlungen.gwlb.de
+@@||dynamicyield.com/scripts/*/dy-coll-nojq-min.js$domain=gigasport.at|gigasport.ch|gigasport.de
 @@||energy.de^*/ivw.js?$domain=energy.de
 @@||ens.nzz.ch^$~third-party
 @@||geo.kaloo.ga/json/$script,domain=tagesspiegel.de
