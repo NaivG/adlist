@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: l3aJnSMeFY8GNFdCPeHvyw
-! Version: 202310130740
+! Checksum: rX1MFWCmM1A5xMz9DbojRQ
+! Version: 202310131540
 ! Title: EasyPrivacy
-! Last modified: 13 Oct 2023 07:40 UTC
+! Last modified: 13 Oct 2023 15:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -33096,6 +33096,7 @@ arketing.indianadunes.com^
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=change.org|frigidaire.com
 @@||mxpnl.com^$domain=mixpanel.com
 @@||myaccount.chicagotribune.com/assets/scripts/tag-manager/googleTag.js$~third-party
+@@||nationwide.com/myaccount/includes/images/x.gif$~third-party
 @@||natureetdecouvertes.com^*/pixel.png$~third-party
 @@||netcoresmartech.com/smartechclient.js$domain=hdfcfund.com
 @@||new.abb.com/ruxitagentjs_$~third-party
