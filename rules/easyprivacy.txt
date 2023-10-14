@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: AwtYvk2LS1tU+DquyYS0oA
-! Version: 202310140010
+! Checksum: w1vtI9Jk8cOMBg2d3/x64Q
+! Version: 202310140740
 ! Title: EasyPrivacy
-! Last modified: 14 Oct 2023 00:10 UTC
+! Last modified: 14 Oct 2023 07:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2711,31 +2711,15 @@
 /tracker/emos2_
 /tracker/event?
 /tracker/imp?
-/tracker/log?
-/tracker/track?
-/tracker/trackView?
-/tracker/visitor/*
-/tracker_article
-/tracker_async.
-/tracker_pageview.
-/tracker_pixel.
-/trackerGif?
+/tracker_async.js
 /trackerPageAnalytics.js
-/trackerpixel.js
-/trackEvent.js?
-/trackEvent.min.js?
-/trackga.
-/trackGAEvents.
-/trackImpression/*
-/trackimps?
-/tracking-analytics-
-/tracking-cookie.
+/trackEvent.js
+/trackga.js
+/trackga.min.js
+/tracking-analytics-events.js
+/tracking-cookie.js
 /tracking-events.js
-/tracking-info.gif?
 /tracking-links.js
-/tracking-pixel.
-/tracking-pixel/*
-/tracking.*/impression?
 /tracking.jsp?sid=
 /tracking/airdog
 /tracking/common.
@@ -8125,6 +8109,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||soaprange.com^
 ||soapsmoke.com^
 ||soggysponge.com^
+||solarislabyrinth.com^
 ||somberattack.com^
 ||somberscarecrow.com^
 ||sombersea.com^
@@ -12848,6 +12833,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.media.onet.pl^
 ||stats.ulixes.pl^
 ||statystyki.panelek.com^
+||tp.convertiser.com^
 ||tracking.novem.pl^
 ||trc.gpcdn.pl^
 ||wymiana.org/stat/
@@ -14290,6 +14276,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.nbcuas.com^
 ||tracker.ranker.com^
 ||tracker.shopclues.com^
+||tracking.bloomberg.com^
 ||tracking.carsales.com.au^
 ||tracking.christianpost.com^
 ||tracking.digitalocean.com^
