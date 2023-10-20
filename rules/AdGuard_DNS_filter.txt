@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-10-19T12:01:30.120Z
+! Last modified: 2023-10-20T00:02:23.990Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,7 @@
 !
 !
 !
+||flashb.id^
 ||provingavidity.com^
 ||gold-line.click^
 ||adtago.s3.amazonaws.com^
@@ -4066,6 +4067,7 @@ vkcdnservice.appspot.com^
 ||amuseglide.com^
 ||amusingsnow.pro^
 ||amuyonpastour.top^
+||amvmzbmzaryya.top^
 ||amwoukrks.autos^
 ||amwswkqh.com^
 ||amyeubhbnugjum.xyz^
@@ -7349,6 +7351,7 @@ vkcdnservice.appspot.com^
 ||chancellorharrowbelieving.com^
 ||chandoowitumki.guru^
 ||changarreviver.com^
+||changerwauking.com^
 ||changesshortly.com^
 ||channelvids.online^
 ||channelvids.space^
@@ -15821,6 +15824,7 @@ vkcdnservice.appspot.com^
 ||jujaufur.net^
 ||jujwhjmtidgp.com^
 ||julia-liz.com^
+||julidanroebuck.com^
 ||julkkoazfkh.com^
 ||jullyambery.net^
 ||julolecalve.website^
@@ -16261,6 +16265,7 @@ vkcdnservice.appspot.com^
 ||knucklecivichereafter.com^
 ||knurryaikuchi.guru^
 ||knutenegros.pro^
+||knvjwrwvaqvll.top^
 ||knziesxepvaina.com^
 ||koabouch.net^
 ||koabukedosi.com^
@@ -18338,6 +18343,7 @@ vkcdnservice.appspot.com^
 ||modulohanafi.com^
 ||modulusoctodon.uno^
 ||moedgapers.com^
+||moggedexterne.com^
 ||mogointeractive.com^
 ||mohaqu.xyz^
 ||mohyafckgatre.com^
@@ -19755,6 +19761,7 @@ vkcdnservice.appspot.com^
 ||ocuwyfarlvbq.com^
 ||ocwagmlizb.com^
 ||odbjmugzoq.com^
+||odbxgdxgvo.com^
 ||oddauthorscreative.com^
 ||oddlyogeed.com^
 ||oddsserve.com^
@@ -28180,6 +28187,7 @@ vkcdnservice.appspot.com^
 ||txcmjo.com^
 ||txouliypi.com^
 ||txrhpjddhbal.com^
+||txtcompert.com^
 ||txwhfmxlmu.com^
 ||txzaazmdhtw.com^
 ||tyatedgrogs.xyz^
@@ -42292,7 +42300,6 @@ inapps.appsflyersdk.com^
 ||fdxstats.xyz^
 ||figpii.com^
 ||flaghit.com^
-||flashb.id^
 ||flexlinkspro.com^
 ||flyspy.co^
 ||fndrsp.net^
@@ -44793,6 +44800,7 @@ inapps.appsflyersdk.com^
 ||algopine.com^
 ! Spanish
 ||24log.es^
+||agency360.io^
 ||botize.com^
 ||ccrtvi.com^
 ||contadordevisitas.es^
@@ -52403,12 +52411,16 @@ inapps.appsflyersdk.com^
 ||dpj0uvy.icu^
 ||dqzehgha.xyz^
 ||dumeia.cn^
+||dvnqhdmze.xyz^
+||dwerzv.xyz^
 ||ebmlsvw.cn^
 ||eht116.com^
 ||ekzzed.icu^
+||ewioud.com^
 ||exemptambientcream.com^
 ||fastjs.org^
 ||fkjsjwbs.xyz^
+||fmvbyji.cn^
 ||fzgetdy.cn^
 ||gixgav.icu^
 ||gizlnr.com^
@@ -52431,7 +52443,11 @@ inapps.appsflyersdk.com^
 ||gmx28.top^
 ||gmx29.top^
 ||gmx30.top^
+||gmx45.top^
 ||gmx46.top^
+||gmx47.top^
+||gmx48.top^
+||gth112.com^
 ||haise3.top^
 ||haise5.top^
 ||hcqumrjbx.xyz^
@@ -52439,6 +52455,7 @@ inapps.appsflyersdk.com^
 ||huhwllvk.xyz^
 ||hwuogmusthxfpk.xyz^
 ||ibsea.cn^
+||icvsleec.xyz^
 ||igkgag.xyz^
 ||imrvyop.cn^
 ||insfengdata.com^
@@ -52456,6 +52473,7 @@ inapps.appsflyersdk.com^
 ||kyikdee.cn^
 ||kzprugp.xyz^
 ||ldvnehc.xyz^
+||lianglili2.cn^
 ||liuyi22.cn^
 ||lkoqtvvajktpjsk.xyz^
 ||llblwzg.xyz^
@@ -52475,6 +52493,7 @@ inapps.appsflyersdk.com^
 ||mqrupjsm.xyz^
 ||mryqtym.cn^
 ||mwfyab.icu^
+||myyxox.icu^
 ||nangongmall.com^
 ||neeujqf.cn^
 ||negnixa.cn^
@@ -52493,12 +52512,14 @@ inapps.appsflyersdk.com^
 ||qauksl.icu^
 ||qmoxxhc.cn^
 ||qmwx4.xyz^
+||qtq632.com^
 ||quzmtpxw.xyz^
 ||qwesaz.com^
 ||qwjtdcl.cn^
 ||rcnldz.xyz^
 ||rkds1.icu^
 ||rkds10.icu^
+||rkds2.icu^
 ||rkds5.icu^
 ||roxewwq.cn^
 ||rslkhj.xyz^
@@ -52508,10 +52529,13 @@ inapps.appsflyersdk.com^
 ||sgeth9.icu^
 ||smlpcz.icu^
 ||tcgaqh.icu^
+||tdhlmto.cn^
 ||thboxp.xyz^
 ||tmlwvxae.xyz^
 ||trdmtx.xyz^
+||tyuetxt.com^
 ||uahozcfq.xyz^
+||ugvbsrbht.xyz^
 ||ukjwyv.icu^
 ||ulrvkee.xyz^
 ||uqeuxpl.cn^
@@ -52539,6 +52563,7 @@ inapps.appsflyersdk.com^
 ||wqvbuj.icu^
 ||wrtjojn.xyz^
 ||wuyaw.cn^
+||wvtem.com^
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
 ||xg6hb.xyz^
@@ -52555,24 +52580,14 @@ inapps.appsflyersdk.com^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
 ||yutiqf.icu^
+||yxrxsov.xyz^
 ||z1wfe.top^
 ||z91f4.top^
-||rkds2.icu^
-||gmx47.top^
-||myyxox.icu^
-||icvsleec.xyz^
-||lianglili2.cn^
-||yxrxsov.xyz^
-||wvtem.com^
-||ugvbsrbht.xyz^
-||dvnqhdmze.xyz^
-||fmvbyji.cn^
-||gmx45.top^
-||gth112.com^
-||dwerzv.xyz^
-||tyuetxt.com^
-||qtq632.com^
-||tdhlmto.cn^
+||rcnithgm.xyz^
+||qinjgh.icu^
+||ppvpmrt.xyz^
+||haise4.top^
+||hcgbhq.com^
 ||zbxtcwi.xyz^
 ||zchvyet.cn^
 ||zcpsc.top^
