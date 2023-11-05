@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: JJJE2gxA/VvcPijtiwWafw
-! Version: 202311041601
+! Checksum: 7kulE3UctHHUp3Em1J9KIA
+! Version: 202311050031
 ! Title: EasyPrivacy
-! Last modified: 04 Nov 2023 16:01 UTC
+! Last modified: 05 Nov 2023 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -235,7 +235,7 @@
 /analytics-events-
 /analytics-facade.
 /analytics-gjc-min.js
-/analytics-helper.
+/analytics-helper.js
 /analytics-hit?
 /analytics-ingestion/*
 /analytics-ingress-
@@ -5000,6 +5000,7 @@ _mongo_stats/
 ||nstracking.com^$third-party
 ||nuconomy.com^$third-party
 ||nuggad.net^$third-party
+||nullitics.com^$third-party
 ||nuloox.com^$third-party
 ||numerino.cz^$third-party
 ||nyltx.com^$third-party
