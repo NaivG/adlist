@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: AwGiK4ak0h156LWkjMkTPQ
-! Version: 202311080031
+! Checksum: NXGepZM/oiXWk8OorShunQ
+! Version: 202311080802
 ! Title: EasyPrivacy
-! Last modified: 08 Nov 2023 00:31 UTC
+! Last modified: 08 Nov 2023 08:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1875,6 +1875,7 @@
 /rtracker/ofs.rtt.js
 /rudder-analytics.js
 /rudder-analytics.min.js
+/rum-collector/*
 /rum-telemetry/*
 /rum-track?
 /rum.gif?
@@ -3562,6 +3563,7 @@ _mongo_stats/
 ||admaster.com.cn^$third-party
 ||admetric.io^$third-party
 ||adobedtm.com^$third-party,domain=~adobe.com|~costco.com
+||adoberesources.net^$third-party,domain=~adobe.com
 ||adobetag.com^$third-party
 ||adobetarget.com^$third-party
 ||adoftheyear.com^$third-party
@@ -6918,6 +6920,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||finalizeforce.com^
 ||financefear.com^
 ||firstfrogs.com^
+||firsttexture.com^
 ||flakyfeast.com^
 ||flimsycircle.com^
 ||flimsythought.com^
@@ -7313,6 +7316,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||placidperson.com^
 ||plainplayground.com^
 ||plainrequest.com^
+||planebasin.com^
 ||planesorder.com^
 ||plantdigestion.com^
 ||plantpotato.com^
@@ -7665,6 +7669,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||squealingturn.com^
 ||squeamishspot.com^
 ||squirrelhands.com^
+||stakingbasket.com^
 ||stakingscrew.com^
 ||stakingslope.com^
 ||stakingsmile.com^
@@ -7768,6 +7773,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tastesnake.com^
 ||tawdryson.com^
 ||tdzvm.pw^
+||tearfulglass.com^
 ||tediousticket.com^
 ||tedioustooth.com^
 ||teenytinycellar.com^
@@ -9616,6 +9622,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d2fuc4clr7gvcn.cloudfront.net/track.js
 ||d2r1yp2w7bby2u.cloudfront.net/js/clevertap.min.js
 ||d2wa5sea6guof0.cloudfront.net^
+||d3vebqdofhigrn.cloudfront.net^
 ||dadi.technology^$third-party
 ||dash.getsitecontrol.com^
 ||dashboard.nowdialogue.com/api/events/
@@ -9671,6 +9678,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dmcdn.net/behavior/
 ||dmdentertainment.com^*/video_debug.gif?
 ||dmdt.io/collect
+||dnnapi.com/analytics/
 ||domodomain.com^*/ddsense.aspx?
 ||doppiocdn.com/healthcheck
 ||doppiocdn.org/healthcheck
@@ -13242,6 +13250,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ingest.make.rvohealth.com^
 ||ingress.linktr.ee^
 ||inq.com/tagserver/logging/logline
+||insideevs.com/analytics.js
 ||instagram.com/ajax/bz
 ||instructables.com/counter
 ||intent.cmo.com.au^
