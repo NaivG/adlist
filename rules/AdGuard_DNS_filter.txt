@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2023-11-07T12:01:27.687Z
+! Last modified: 2023-11-08T00:02:17.872Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -22,6 +22,8 @@
 !
 !
 !
+||thompoot.com^
+||altcoin.care^
 ||recholta.net^
 ||rydpsqdsaja.com^
 ||jjwmlaynwwbll.top^
@@ -8332,6 +8334,7 @@ vkcdnservice.appspot.com^
 ||cpahmeokparn.com^
 ||cpalabtracking.com^
 ||cpaoffers.network^
+||cpaokhfmaccu.com^
 ||cpaspeed.online^
 ||cpaway.com^
 ||cpays.com^
@@ -12534,6 +12537,7 @@ vkcdnservice.appspot.com^
 ||gbfgvzfcjfs.com^
 ||gbfwqsakvaysygn.xyz^
 ||gblcdn.com^
+||gbpkmltxpcsj.xyz
 ||gckkxvpbhhlx.com^
 ||gcqaxqowifrf.com^
 ||gcruperparverew.xyz^
@@ -15337,6 +15341,7 @@ vkcdnservice.appspot.com^
 ||jaggiertridii.com^
 ||jagice.uno^
 ||jagqrhvcvoqjw.com^
+||jaigaivi.xyz^
 ||jailabridge.com^
 ||jainbagong.com^
 ||jaireehu.net^
@@ -27155,6 +27160,7 @@ vkcdnservice.appspot.com^
 ||thewowfeed.com^
 ||thewscozier.uno^
 ||theyenglory.guru^
+||theyunm.com^
 ||thgebtibfyry.com^
 ||thick-ruin.pro^
 ||thickbabysittinghandled.com^
@@ -31047,6 +31053,7 @@ vkcdnservice.appspot.com^
 ||yummy-gap.pro^
 ||yumomis.com^
 ||yunded.com^
+||yunmaue.com^
 ||yunshipei.com^
 ||yupfiles.net^
 ||yuppads.com^
@@ -34487,6 +34494,7 @@ vkcdnservice.appspot.com^
 !||i.snssdk.com/log/*
 !||i.snssdk.com/slardar/sdk.js
 !
+||emlsend.com^
 ||lr-intake.com^
 ||collector-api.frspecifics.com^
 ||smelel.icu^
@@ -34587,8 +34595,6 @@ vkcdnservice.appspot.com^
 ||log.collectaction.com^
 ||cometlytrack.com^
 ||trueroas.io^
-||31830fbc-adbf-11ed-afa1-0242ac120002.site^
-||15823f12-289e-4189-9e51-e2de1bf1a105.online^
 ||livetrafficfeed.com^
 ||cnnx.link^
 ||f11-ads.com^
@@ -39084,6 +39090,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||track.wattpad.com^
 ||analytics.keepstreams.com^
 ||analytics.gamesdrive.net^
 ||cnt.promodj.com^
@@ -40877,7 +40884,6 @@ vkcdnservice.appspot.com^
 ||track.tproger.ru^
 ||track.ugamezone.com^
 ||track.ultimate-guitar.com^
-||track.wattpad.com^
 ||track.wildblue.com^
 ||track.workablemetro.com^
 ||track.zappos.com^
@@ -51176,6 +51182,7 @@ inapps.appsflyersdk.com^
 ||delosnetwork.it^
 ||eadv.it^
 ||epeex.io^
+||hbagency.it^
 ||rtbuzz.net^
 ||shoppydoo.com^
 ||tjekscores.dk^
@@ -51230,7 +51237,6 @@ inapps.appsflyersdk.com^
 ||evolutionadv.it^
 ||firebanner.com^
 ||guarda4k.online^
-||hbagency.it^
 ||hubaffiliations.net^
 ||inaffiliago.it^
 ||ioladv.it^
@@ -52363,6 +52369,7 @@ inapps.appsflyersdk.com^
 ||20szp.com^
 ||24w0p.com^
 ||273knt.xyz^
+||2c0a5.xyz^
 ||3562wsgkbcm.xyz^
 ||3dh9y.com^
 ||44jui.top^
@@ -52372,6 +52379,7 @@ inapps.appsflyersdk.com^
 ||888bb666cc.com^
 ||88lajs3.com^
 ||88lajs4.com^
+||88lajs6.com^
 ||999aa666bb.com^
 ||a4bj6.xyz^
 ||aaknmt.icu^
@@ -52383,11 +52391,13 @@ inapps.appsflyersdk.com^
 ||anhlnnm.cn^
 ||aniede.xyz^
 ||anjneia.xyz^
+||aqburrae.xyz^
 ||asfybkiy.xyz^
 ||athecsz.cn^
 ||aueajkn.cn^
 ||avplwte.xyz^
 ||awaw.asia^
+||azdiqsb.cn^
 ||bbfnrn.xyz^
 ||bdlexn.xyz^
 ||beezwol.com^
@@ -52455,6 +52465,7 @@ inapps.appsflyersdk.com^
 ||estixfl.cn^
 ||ewioud.com^
 ||exemptambientcream.com^
+||eyjvq.xyz^
 ||fastjs.org^
 ||faxffjo.com^
 ||fcgmoas.cn^
@@ -52468,6 +52479,7 @@ inapps.appsflyersdk.com^
 ||foizico.cn^
 ||fotaxf.xyz^
 ||fptdxkm.com^
+||ftzzbx.xyz^
 ||fzgetdy.cn^
 ||g2ak5.com^
 ||gejhhh.cn^
@@ -52561,6 +52573,7 @@ inapps.appsflyersdk.com^
 ||kaaqgf.icu^
 ||kjdbcjkmc.com^
 ||klfbnklddfbkn.com^
+||klwhuci.cn^
 ||knhmgn.com^
 ||knuaxfv.cn^
 ||kshrsf.icu^
@@ -52737,6 +52750,7 @@ inapps.appsflyersdk.com^
 ||wutsldsk.xyz^
 ||wuyaw.cn^
 ||wvtem.com^
+||wyiegt.icu^
 ||wyoaij.icu^
 ||xcqbbcqpl.xyz^
 ||xdfdqce.xyz^
@@ -52774,18 +52788,16 @@ inapps.appsflyersdk.com^
 ||zents2.top^
 ||zjdruhn.xyz^
 ||zlncvn.xyz^
+||zndvfrl.xyz^
+||znwzcmd.cn^
 ||zuugfj.cn^
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
-||aqburrae.xyz^
-||zndvfrl.xyz^
-||ftzzbx.xyz^
-||znwzcmd.cn^
-||2c0a5.xyz^
-||azdiqsb.cn^
-||wyiegt.icu^
-||eyjvq.xyz^
+||jqtkzuco.xyz^
+||lfhnzbj.xyz^
+||bzbopfh.cn^
+||ndbaxn.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
