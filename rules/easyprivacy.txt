@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ya9g4dU2sHDpsPV3mXqp4Q
-! Version: 202311100802
+! Checksum: 5Quo9ebUrfdJKSCb/NSXjg
+! Version: 202311101602
 ! Title: EasyPrivacy
-! Last modified: 10 Nov 2023 08:02 UTC
+! Last modified: 10 Nov 2023 16:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -41,7 +41,9 @@
 .com/dc.gif?
 .com/g.gif?
 .com/log/?
+.com/stats.aspx?
 .com/track?$~object
+.com/vtrack|
 .content_tracking.js
 .de/h.gif?
 .de/l.gif?
@@ -441,6 +443,7 @@
 /blank.gif?*&
 /blogcounter.js
 /bluekai.js
+/bluekai.min.js
 /bom/analytics/*
 /boomerang-latest.js
 /boomerang-latest.min.js
@@ -557,6 +560,7 @@
 /ClickTail.js
 /clicktale.js
 /ClickTrack.js
+/clicktrack.min.js
 /clicktrack?
 /clicktracker.js
 /clicktracker.php
