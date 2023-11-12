@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 0TIQrC+oSeVba7QfcWahcg
-! Version: 202311111602
+! Checksum: UWYlaGPi+wFz4baSuST7Tg
+! Version: 202311120031
 ! Title: EasyPrivacy
-! Last modified: 11 Nov 2023 16:02 UTC
+! Last modified: 12 Nov 2023 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -32842,6 +32842,7 @@ arketing.indianadunes.com^
 @@||static.amazon.jobs/assets/analytics-$script,domain=amazon.jobs
 @@||static.cloud.coveo.com/coveo.analytics.js/$domain=cabelas.com
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
+@@||static.knowledgehub.com/global/images/ping.gif?$~third-party
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com
 @@||stats.sports.bellmedia.ca^$domain=tsn.ca
 @@||stats.statbroadcast.com/interface/webservice/event/$~third-party
