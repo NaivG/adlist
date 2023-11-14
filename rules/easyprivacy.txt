@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: EfdJ4O9qtCR1l2XGMS+/Rw
-! Version: 202311131601
+! Checksum: frFUos3bRvufA0Gdr5CUlQ
+! Version: 202311140031
 ! Title: EasyPrivacy
-! Last modified: 13 Nov 2023 16:01 UTC
+! Last modified: 14 Nov 2023 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7405,6 +7405,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||quizzicalzephyr.com^
 ||rabbitbreath.com^
 ||rabbitrifle.com^
+||radiateprose.com^
 ||railwayrainstorm.com^
 ||railwayreason.com^
 ||raintwig.com^
