@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: b531Jiihu4UV2K5NvWmonw
-! Version: 202311220801
+! Checksum: fdfIk2Wos/6E+VTzxithBA
+! Version: 202311221602
 ! Title: EasyPrivacy
-! Last modified: 22 Nov 2023 08:01 UTC
+! Last modified: 22 Nov 2023 16:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31516,6 +31516,7 @@ arketing.indianadunes.com^
 ||aliasdmc.fr/js/general_sts.js
 ||allocine.fr/_/geolocalize
 ||analytics.allovoisins.com^
+||analytics.clubic.com^
 ||api.odysee.com/locale/get
 ||api.tacotax.fr/v2/amplitude_trackers
 ||batiactu.com/cap_
@@ -31523,6 +31524,7 @@ arketing.indianadunes.com^
 ||boingtv.fr/track_view
 ||cdtm.cdiscount.com^
 ||cesu.urssaf.fr/clm10
+||clubic.com/tview
 ||compteur.developpez.com^
 ||courrierinternational.com/*&vtag=
 ||dd.leboncoin.fr^
@@ -31838,6 +31840,7 @@ arketing.indianadunes.com^
 ||wanmei.com/public/js/stat.js
 ||weather.com.cn/a1.js
 ||webstat.kuwo.cn^
+||weibo.cn/h5logs/
 ||weibo.com/aj/log/
 ||weiyun.com/cgi-bin/tianshu_report
 ||weiyun.com/proxy/domain/boss.qzone.qq.com/fcg-bin/fcg_rep_strategy?
@@ -33109,6 +33112,7 @@ arketing.indianadunes.com^
 !---------- Danish ----------
 !
 @@||nemlog-in.dk/resources/js/adrum.js$~third-party
+@@||spoc.sydtrafik.dk/CherwellPortal/dist/app/common/analytics/Analytics.js$~third-party
 !
 !---------- Dutch ----------
 !

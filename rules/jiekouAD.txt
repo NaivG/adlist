@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 轻量广告拦截规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-11-21 16:51:30（北京时间）
-! Total Count: 5047
+! Update Time: 2023-11-22 14:29:04（北京时间）
+! Total Count: 5052
 ! by: 酷安@大萌主
 ! Host
 ||pirubcfy.xyz^
@@ -4377,6 +4377,7 @@ dingbu.*.*.com/dingbu.$third-party
 .top/*q=*form=*&*url=http*$third-party
 _/bigREDdog.js
 /redbaiduct.com?s=
+/exads-adblock-3.10
 .net/vh1/1*$third-party
 .net/v2/stats/1*$third-party
 .com/c.php?s=*=*=$third-party
@@ -4577,6 +4578,9 @@ ifeng.com##[class^='index_pageBottomBrand']
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
 www.ghxi.com##DIV[style^='padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: ']
 www.ghxi.com##.wpcom_ad_wrap
+qq.com##.VideoArticleBottomAdContainer,.ssp.nospl[data-boss-once='true'],DIV[data-boss-expo*='ad&s_or'],DIV[id^='App_WAP_share_page_']
+qq.com##A[dt-eid^='em_item_ad']
+qq.com##[id^='App_WAP_share_page']
 webtor.io##DIV.ad
 webtor.io##[data-element='empty']
 webtor.io##IFRAME[scrolling='no']
@@ -4627,7 +4631,6 @@ m.douban.com##div.center [style*='padding: 4px;']
 m.sm.cn##DIV[ad_seid],.dl-banner-lg.card
 www.dbbqb.com##.MuiPaper-root
 www.haijiao.com##.addbox,.bannerliststyle,.van-swipe-item,.crossbutton
-inews.qq.com,xw.qq.com##.VideoArticleBottomAdContainer,.ssp.nospl[data-boss-once='true'],DIV[data-boss-expo*='ad&s_or'],DIV[id^='App_WAP_share_page_']
 boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 bimibimi.cc##[src^='https://dd-static.jd.com']
 hao123.com##.popup
@@ -5039,6 +5042,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[src^='data:image/png;base64,iVBORw0KGgoAAAANSU'][style*='position: fixed; z-index: 2000000000; width: 30px; bottom:']
 ##DIV[allowtransparency='true'][scrolling='no']
 ##DIV.advertisingConfiguration
+##[src^='/static/resources/lp.php'][style^='max-width: 100%; transform-origin: left top;']
+##DIV[style^='display: block; aspect-ratio: 728 / 90; background-image: url("/static/resources/lp.php']
 ##[style$=' 0% 0% / 100% no-repeat; height: 130px; width: 100%; position: relative;']
 ##IMG[src*='qimanwu_wap/static/adimages/']
 ##div#main.main.read_page [id^="set_adds"]
