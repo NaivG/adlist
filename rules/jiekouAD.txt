@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 轻量广告拦截规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-11-27 21:06:42（北京时间）
-! Total Count: 5078
+! Update Time: 2023-11-30 16:12:26（北京时间）
+! Total Count: 5073
 ! by: 酷安@大萌主
 ! Host
 ||m2k3j7x8.com^
@@ -4161,7 +4161,6 @@
 .com/sh/to/$third-party
 .xyz/svelte?$third-party
 .xyz/alpine?$third-party
-.live/o.js
 ||boshishuwu.com/js/middlestyle.js
 ||boshishuwu.com/js/zhuanhua.js
 ||www.288txt.com/da/*.js
@@ -4238,7 +4237,6 @@ chen-xing/figure_bed*
 /js/mts.js
 /bugsnag.min.js$third-party
 .icu/biyys*.js$third-party
-.xyz/o.js$third-party
 /bigREDcat.js?$third-party
 .cn/redbaiduct.com?s=$third-party
 /stats.php?adsid=$third-party
@@ -4263,7 +4261,6 @@ hanman/static/dist/ppm/js/main.js
 /*/*.add.*.add
 /_xa/ads?
 com:8891/c.php?s=*$third-party
-.cc/o.js$third-party
 /gameapk/*/hongbao.apk
 /dibu.adadadad
 ||imanhuapi.com/style/js/mpmh.js
@@ -4328,7 +4325,6 @@ com:8891/c.php?s=*$third-party
 /static/*/Lqho7OKcg.js?v=
 /static/*/KdLmbuThM.js?v=
 .cn/bid?url=*$third-party
-.cn/o.js$third-party
 xyz/kallss?
 xyz/stimulus?
 ||wcanj.com/2345/
@@ -4365,7 +4361,6 @@ js/yys/Pfhl365.js
 /vh2/*$third-party
 /v2/stats/1*/1*$third-party
 ||axutongxue.com/js/uuiiio.js
-.live:*/o.js
 .com:8003/sc/*?n=$third-party
 ||tz659.com/js/chapte*.js
 ||tz659.com/js/html*.js
