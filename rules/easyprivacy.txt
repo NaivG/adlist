@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: n43CAuvgU1TJMCQ6Pyjbrg
-! Version: 202312140031
+! Checksum: gVNE9wLU/gosYMaqxNBRlw
+! Version: 202312140802
 ! Title: EasyPrivacy
-! Last modified: 14 Dec 2023 00:31 UTC
+! Last modified: 14 Dec 2023 08:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -66,7 +66,6 @@
 .php?tracking=
 .sharecounter.$third-party
 .skimlinks.js
-.snowplowanalytics.$domain=~snowplowanalytics.com
 .stats?action=
 .svc/?tracking_id=
 .v4.analytics.
@@ -309,6 +308,7 @@
 /api-insights/log?
 /api/0/stats
 /api/adplogger/*
+/api/async.php?t=user&m=pagehits&
 /api/cmp_tracker|
 /api/drpStats
 /api/event-rfkj/*
@@ -619,6 +619,7 @@
 /collector/v1/event
 /collector?report=
 /collectsysteminfo?
+/com.snowplowanalytics.snowplow/*
 /com_joomlawatch/img.php
 /common/analytics.js
 /common/ga.js
@@ -828,6 +829,7 @@
 /events/page-viewed
 /events/pixelEvent
 /events/track/*
+/events/tracking
 /events/view-form-open
 /events/view?
 /events?data=
@@ -5091,6 +5093,8 @@ omni.soundestlink.com$image
 ||pixelinteractivemedia.com^$third-party
 ||pixelpop.co^$third-party
 ||pixelrevenue.com^$third-party
+||pixeltracker.co^$third-party
+||pixeltracker.im^$third-party
 ||pixfuture.com^$third-party
 ||pjatr.com^$third-party
 ||pjtra.com^$third-party
@@ -5225,6 +5229,7 @@ omni.soundestlink.com$image
 ||realcounter.eu^$third-party
 ||realcounters.com^$third-party
 ||reallyfreegeoip.org^$third-party
+||realtimewebstats.com^$third-party
 ||realtimewebstats.net^$third-party
 ||realtracker.com^$third-party
 ||realytics.io^$third-party
@@ -6421,6 +6426,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||aloofvest.com^
 ||alpineactor.com^
 ||amazingairplane.com^
+||ambiguousafternoon.com^
 ||ambiguousalarm.com^
 ||ambiguousanger.com^
 ||ambiguousdinosaurs.com^
@@ -6428,6 +6434,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ambiguousquilt.com^
 ||ambitiousagreement.com^
 ||ambitiousanimal.com^
+||amethystzenith.com^
 ||amusedbucket.com^
 ||amusementmorning.com^
 ||amusinggirls.com^
@@ -6452,6 +6459,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||aromamirror.com^
 ||aspiringapples.com^
 ||aspiringattempt.com^
+||astonishingair.com^
 ||astonishingfood.com^
 ||attractionapples.com^
 ||attractionbanana.com^
@@ -6537,6 +6545,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||boringcoat.com^
 ||bouncyfront.com^
 ||bouncyproperty.com^
+||boundarybusiness.com^
 ||boundlessargument.com^
 ||boundlessbrake.com^
 ||boundlessveil.com^
@@ -6565,6 +6574,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bumpydevelopment.com^
 ||bunchance.com^
 ||burgerbrush.com^
+||burlywhistle.com^
 ||burnbubble.com^
 ||burntwist.com^
 ||burstblade.com^
@@ -6621,6 +6631,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||chairscrack.com^
 ||chairsdonkey.com^
 ||chalkoil.com^
+||changeablecats.com^
 ||channelcamp.com^
 ||chargecracker.com^
 ||charmingcough.com^
@@ -6666,6 +6677,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||colossalchance.com^
 ||colossalclouds.com^
 ||colossalcoat.com^
+||colossalcry.com^
 ||combativecar.com^
 ||combativedetail.com^
 ||combbit.com^
@@ -6702,6 +6714,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||copycarpenter.com^
 ||copyrightaccesscontrols.com^
 ||copytitle.com^
+||coralreverie.com^
 ||cordcopper.com^
 ||correctchaos.com^
 ||cosmosjackson.com^
@@ -6863,15 +6876,18 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||elephantqueue.com^
 ||embellishedmeadow.com^
 ||embermosaic.com^
+||eminentbubble.com^
 ||eminentend.com^
 ||emptyescort.com^
 ||enchantedjudge.com^
 ||enchantedskyline.com^
 ||enchantedtop.com^
 ||enchantingbear.com^
+||enchantingvalley.com^
 ||encourageidea.com^
 ||encourageshock.com^
 ||encouragingleaf.com^
+||encouragingthread.com^
 ||encouragingvase.com^
 ||encouragingwilderness.com^
 ||endurablebulb.com^
@@ -6879,6 +6895,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||endurableshop.com^
 ||energeticexample.com^
 ||energeticladybug.com^
+||engineergrape.com^
 ||engineertrick.com^
 ||enormousearth.com^
 ||enormousfoot.com^
@@ -6940,8 +6957,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fearfulfish.com^
 ||fearfulmint.com^
 ||fearlessfaucet.com^
+||featherstage.com^
 ||feebleshock.com^
 ||fewjuice.com^
+||fewkittens.com^
 ||fifthborder.com^
 ||finalizeforce.com^
 ||financefear.com^
@@ -6963,6 +6982,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||flutteringfireman.com^
 ||foamyfood.com^
 ||foamypain.com^
+||followborder.com^
 ||forecasttiger.com^
 ||foregoingfowl.com^
 ||foretellfifth.com^
@@ -6979,6 +6999,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||franticroof.com^
 ||frantictrail.com^
 ||freezingbuilding.com^
+||frequentflesh.com^
 ||fretfulfurniture.com^
 ||friendlycrayon.com^
 ||friendlyfold.com^
@@ -7008,6 +7029,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gaudybeginner.com^
 ||generalprose.com^
 ||gentlemoonlight.com^
+||giantsvessel.com^
 ||giddycoat.com^
 ||giftedglue.com^
 ||giftedthumb.com^
@@ -7323,6 +7345,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nothingunit.com^
 ||nulldiscussion.com^
 ||nullnorth.com^
+||numberlessring.com^
 ||numerousnest.com^
 ||nutritiousbean.com^
 ||nuttyorganization.com^
@@ -7348,6 +7371,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||owlsr.us^
 ||paddleangle.com^
 ||pailcrime.com^
+||pailpatch.com^
 ||painstakingpickle.com^
 ||paintpear.com^
 ||paintplantation.com^
@@ -7466,8 +7490,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||puffypull.com^
 ||puffypurpose.com^
 ||pumpedpancake.com^
+||pumpedpurpose.com^
 ||punyplant.com^
 ||purchasesuggestion.com^
+||purposepipe.com^
 ||pushypipe.com^
 ||puzzlingproperty.com^
 ||q20jqurls0y7gk8.info^
@@ -7503,6 +7529,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rangeplayground.com^
 ||rapidkittens.com^
 ||raresummer.com^
+||raspyteam.com^
 ||readgoldfish.com^
 ||readingguilt.com^
 ||readingopera.com^
@@ -7541,6 +7568,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||resonantrock.com^
 ||respectrain.com^
 ||restrainstorm.com^
+||rhetoricalactivity.com^
 ||rhetoricalloss.com^
 ||rhetoricaltoes.com^
 ||rhetoricalveil.com^
@@ -7577,6 +7605,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sablesmile.com^
 ||sablesong.com^
 ||sadloaf.com^
+||saffronrefuge.com^
 ||sailsuit.com^
 ||samesticks.com^
 ||samestretch.com^
@@ -7587,6 +7616,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||savoryorange.com^
 ||savorystructure.com^
 ||saysidewalk.com^
+||scarcecard.com^
 ||scarcesign.com^
 ||scarcesurprise.com^
 ||scarecrowslip.com^
@@ -7719,6 +7749,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||snakeslang.com^
 ||snakesshop.com^
 ||snakesstone.com^
+||sneakwind.com^
 ||sneakystew.com^
 ||snoresmile.com^
 ||soaprange.com^
@@ -7735,6 +7766,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||songssmoke.com^
 ||songsterritory.com^
 ||sootheside.com^
+||soothingglade.com^
 ||sophisticatedstory.com^
 ||sophisticatedstove.com^
 ||sordidsmile.com^
@@ -7779,11 +7811,13 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||springaftermath.com^
 ||springsister.com^
 ||springsnails.com^
+||spuriousair.com^
 ||spuriousbase.com^
 ||spurioussquirrel.com^
 ||spurioussteam.com^
 ||spuriousstranger.com^
 ||spysubstance.com^
+||squalidscrew.com^
 ||squashfriction.com^
 ||squeakzinc.com^
 ||squealingturn.com^
@@ -7816,6 +7850,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stereoproxy.com^
 ||stereotypedclub.com^
 ||stereotypedsugar.com^
+||stewedge.com^
 ||stickssheep.com^
 ||stickysheet.com^
 ||stiffgame.com^
@@ -7925,6 +7960,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||terriblethumb.com^
 ||terrificgoose.com^
 ||terrifictooth.com^
+||testadmiral.com^
 ||testedtouch.com^
 ||teststocking.com^
 ||texturetrick.com^
@@ -8094,6 +8130,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wtaccesscontrol.com^
 ||xovq5nemr.com^
 ||yamstamp.com^
+||yieldingwoman.com^
 ||youngmarble.com^
 ||youthfulnoise.com^
 ||zbwp6ghm.com^
@@ -10933,6 +10970,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||snapkit.com/v1/sdk/metrics/
 ||snaps.vidiemi.com^$third-party
 ||snowplow.swm.digital^
+||snowplowjs.darwin.cx^
 ||soccer.ru/counter/
 ||socialannex.com/c-sale-track/$script
 ||solutions.invocacdn.com^
@@ -11037,6 +11075,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stileproject.com/vhtk/
 ||storage.googleapis.com/afs-prod/tags
 ||storage.googleapis.com/nchq-dj-nid/prod/sp_v1.js
+||storage.googleapis.com/snowplow-cto-office-tracker-bucket/
 ||storage.googleapis.com/tm-frend-graffiti/
 ||storage.syncmedia.io/libs/sm_capture_
 ||streamads.com/view?
@@ -12458,6 +12497,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pia.jp/akam/$script
 ||pia.jp/images/pt.gif$image
 ||popin.cc/iframe/piuid.html
+||popin.cc/js/pixel.js
 ||popin.cc/PopinService/Logs/
 ||popin.cc/retarget/
 ||popin.cc/test/popin_img_m.js
@@ -13700,6 +13740,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pcmag.com/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
 ||pendo.scopus.com/data/ptm.gif
 ||perf.mouser.com^
+||performance-logger.minted.com^
 ||perr.hola.org^
 ||petametrics.com^$domain=meidastouch.com
 ||pf.newegg.com^
