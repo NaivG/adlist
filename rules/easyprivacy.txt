@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: EjG6ehO1bUUKLgFIKGlSIQ
-! Version: 202312151602
+! Checksum: nBgVLIHcJ7xpshuE0pPdtw
+! Version: 202312160031
 ! Title: EasyPrivacy
-! Last modified: 15 Dec 2023 16:02 UTC
+! Last modified: 16 Dec 2023 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4409,6 +4409,7 @@ omni.soundestlink.com$image
 ||hiconversion.com^$third-party
 ||hif.to^$third-party
 ||higherengine.com^$third-party
+||highlight.run^$third-party
 ||highmetrics.com^$third-party
 ||hira-meki.jp^$third-party
 ||histats.com^$third-party
@@ -9342,9 +9343,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.carnow.com/dealers/track_visitor
 ||app.link/_r?$script,third-party
 ||app.opmnstr.com/v2/geolocate/
-||app.posthog.com/e/?compression=
-||app.posthog.com/e/?ip=
-||app.posthog.com/static/array.js
+||app.posthog.com^$script,xmlhttprequest
 ||app.yesware.com/t/$third-party
 ||appinthestore.com/click/
 ||apple.com/hvr/mw/v1/spile
@@ -11394,6 +11393,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||userway.org/api/seo-widget/
 ||userway.org/api/v1/stats
 ||utils.global-e.com/set?
+||utt.pm/utm/
 ||v-h.tv/pixel/
 ||v.shopify.com^
 ||va.tawk.to/log
