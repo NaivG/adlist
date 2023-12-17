@@ -1,10 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: 轻量广告拦截规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-12-13 09:17:57（北京时间）
-! Total Count: 5104
+! Update Time: 2023-12-17 19:12:36（北京时间）
+! Total Count: 5109
 ! by: 酷安@大萌主
 ! Host
+||2qpqwkx.cn^
+||2xmzazd.cn^
+||b5v0m3q8.com^
 ||nefrpt.top^
 ||valerieavisnba.com^
 ||winniephc.com^
@@ -4158,6 +4161,7 @@
 @@||www.google-analytics.com^$domain=myqqjd.com
 @@||www.googletagmanager.com^$domain=myqqjd.com
 @@||myqqjd.com^
+@@||stripe.com$domain=pay.openai.com
 @@||aliyuncs.com/*.png
 @@||f*.baidu.com/it/u=*,*&fm=$domain=baidu.com
 @@||guokr.com/apis/flowingboard/item/m_article
@@ -5089,6 +5093,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[src^='data:image/png;base64,iVBORw0KGgoAAAANSU'][style*='position: fixed; z-index: 2000000000; width: 30px; bottom:']
 ##DIV[allowtransparency='true'][scrolling='no']
 ##DIV.advertisingConfiguration
+##[src='/static/ads.png']
 ##[src^='/static/resources/lp.php'][style^='max-width: 100%; transform-origin: left top;']
 ##DIV[style^='display: block; aspect-ratio: 728 / 90; background-image: url("/static/resources/lp.php']
 ##[style$=' 0% 0% / 100% no-repeat; height: 130px; width: 100%; position: relative;']
