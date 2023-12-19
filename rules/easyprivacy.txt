@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: uKB2iAXqheuvKEHrJfoNBg
-! Version: 202312181602
+! Checksum: bWaxJfFh1Q+yaSrh4k89IQ
+! Version: 202312190031
 ! Title: EasyPrivacy
-! Last modified: 18 Dec 2023 16:02 UTC
+! Last modified: 19 Dec 2023 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4958,21 +4958,15 @@ omni.soundestlink.com$image
 ||ojrq.net^$third-party
 ||okt.to^$third-party
 ||oktopost.com^$third-party
-||omarsys.com^$third-party
 ||ometria.com^$third-party
 ||omguk.com^$third-party
 ||omkt.co^$third-party
 ||omniconvert.com^$third-party
-||omtvxcle.com^$third-party
 ||onaudience.com^$third-party
 ||ondu.ru^$third-party
 ||onefeed.co.uk^$third-party
-||oneimpress.io^$third-party
 ||onelink.me^$image,script,third-party
 ||onestat.com^$third-party
-||onetag-sys.com^$third-party
-||onetag.io^$third-party
-||ongsono.com^$third-party
 ||oniad.com^$third-party
 ||online-metrix.net^$third-party
 ||onlinepbx.ru^$third-party
