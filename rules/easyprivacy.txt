@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: L8Pa3OiXgA/HihO0OQasRA
-! Version: 202312220031
+! Checksum: NUMQHRbOCbW16k1QCzfB5w
+! Version: 202312220802
 ! Title: EasyPrivacy
-! Last modified: 22 Dec 2023 00:31 UTC
+! Last modified: 22 Dec 2023 08:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -99,6 +99,7 @@
 /__imp_apg__/*
 /__rmn.gif?
 /__ssobj/core.js
+/__ssobj/rum?
 /__ssobj/sync?$image
 /__sttm.gif?
 /__ub.gif?
@@ -336,6 +337,7 @@
 /api/video/stats/*$xmlhttprequest
 /api_ip_info.php
 /apilog?
+/apmrum.min.js
 /app-measurement?
 /appdynamics/adrum-
 /appGoogleTagManager-
@@ -10834,6 +10836,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||richrelevance.com/rrserver/tracking?
 ||rltd.io/tags/
 ||rodale.com/ga/
+||route.com/collect
 ||routeapp.io/route-analytics/
 ||rs.sinajs.cn^
 ||rt.flix360.com^
@@ -11402,6 +11405,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||usersonline.org/ping.php?
 ||userway.org/api/seo-widget/
 ||userway.org/api/v1/stats
+||usizy.com/external/pageview
 ||utils.global-e.com/set?
 ||utt.pm/utm/
 ||v-h.tv/pixel/
@@ -12543,7 +12547,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||naver.com/mcollector/
 ||ngc1.nsm-corp.com^
 ||performanceplay.co.kr^
-||pxl.retaku.net^
 ||recobell.io/rest/logs?
 ||saluton.cizion.com^
 ||sas.nsm-corp.com^
