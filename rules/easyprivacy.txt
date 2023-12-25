@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: lJSaPw460VhZb6RAZsuk1g
-! Version: 202312250802
+! Checksum: vENhOBPCwdkmUzn+e1zgBw
+! Version: 202312251602
 ! Title: EasyPrivacy
-! Last modified: 25 Dec 2023 08:02 UTC
+! Last modified: 25 Dec 2023 16:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -754,7 +754,6 @@
 /duel-analytics.js
 /dwanalytics-
 /dwanalytics.js
-/dy-coll-nojq-min.js
 /dynamic.ziftsolutions.com/*
 /DynamicAnalytics.js
 /dynamicyield/*
@@ -1136,6 +1135,7 @@
 /ibeat.min.js
 /icf-analytics.js
 /id?d_visid_
+/IIQUniversalID.min.js
 /image.ng/*
 /iMAWebCookie.js
 /img?eid=
