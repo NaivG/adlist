@@ -3411,6 +3411,7 @@ nfmovies.com#@?#div[id]:-abp-has(>img[onclick="openurl()"])
 -*-*-*-*.as^$script,third-party
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
+/media/fitad/*
 -1316899192.cos.
 -1688-wp-media/ads/
 -90mh-gg.
@@ -6332,6 +6333,11 @@ newduba.cn###jq_youxi
 ||avvfjhg.xyz^
 ||szmkr.cn^
 ||sd2ua.icu^
+##A[href*="/dsf88.cc"]
+||upyerxzn.xyz^
+||bpyerxzn.xyz^
+||szbpf.cn^
+||xpyerxzn.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -14409,6 +14415,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 ||mddcloud.*/oweApi/ad/
 szxx.com.cn###A0
+acgfta.com##A[href^="https://ifift.com/"]
+hqyman.cn##a[href="https://hqyman.cn/taobao/"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -20158,6 +20166,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||95504.net/Advertisement_
 @@||95599.cn^*ad
 @@||99wbwc.com^$generichide
+@@||pkstep.com^$generichide
 @@||99ybcc.com^$generichide
 @@||9zvip.net/wp-content/plugins/detect-adblock/js/ads.js
 @@||9zvip.net^$elemhide
