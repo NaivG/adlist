@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: xVrqtGU/sBXJ8s/Edp5f+Q
-! Version: 202401240030
+! Checksum: E2/MA6xJPiB2p3+qbG5PPw
+! Version: 202401240801
 ! Title: EasyPrivacy
-! Last modified: 24 Jan 2024 00:30 UTC
+! Last modified: 24 Jan 2024 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6883,6 +6883,7 @@ omni.soundestlink.com$image
 ||greyinstrument.com^
 ||gripcorn.com^
 ||groovyornament.com^
+||grouchybrothers.com^
 ||grouchypush.com^
 ||grumpydime.com^
 ||grumpydrawer.com^
