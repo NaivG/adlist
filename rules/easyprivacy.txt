@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 0INU4iuNNyHeRsfPRXCFqQ
-! Version: 202401310031
+! Checksum: j4lzPc8RRPvyShCGZ9DKVA
+! Version: 202401310801
 ! Title: EasyPrivacy
-! Last modified: 31 Jan 2024 00:31 UTC
+! Last modified: 31 Jan 2024 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6972,6 +6972,7 @@ omni.soundestlink.com$image
 ||hothydrant.com^
 ||humdrumhat.com^
 ||humdrumhobbies.com^
+||humdrumtouch.com^
 ||hurtgrape.com^
 ||hurtteeth.com^
 ||hypnoticwound.com^
