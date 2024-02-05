@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 轻量广告拦截规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2024-02-04 17:42:25（北京时间）
-! Total Count: 5191
+! Update Time: 2024-02-05 19:19:52（北京时间）
+! Total Count: 5193
 ! by: 酷安@大萌主
 ! Host
 ||kkjshsj.com^
@@ -4716,6 +4716,7 @@ www.3ppp.net##DIV.bottom_fixed
 dongmanhuayuan.myheartsite.com##.card-body
 baike.so.com##section#business-flow.business-flow
 chinaso.com##.wrap-toolbar
+sm.cn##.ad-wolong-container
 www.jianshu.com##[aria-label='lwa-ad-one']
 imgur.com##.Ad.sas.Smart
 soshu888.net##[style$='width: 100vw; position: relative;']
@@ -4732,6 +4733,7 @@ oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/t
 www.jmhongyan.com##ins[class],.container p
 www.jjtyss.com##ins[class],.myui-player.clearfix p,.container p
 www.olevod.com##.B1Lss,.B1Rss
+www.ksksy.com##[style$='vw;background:#000;opacity:0.01;']
 5dm.app##[src*="sinaimg.cn"]
 ddzzxs.com###inglestore.inglestore
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
