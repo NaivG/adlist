@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2024-02-09T14:00:38.815Z
+! Last modified: 2024-02-10T00:02:21.583Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -10242,6 +10242,7 @@ vkcdnservice.appspot.com^
 ||dissipatedifficulty.com^
 ||dissipateetiquetteheavenly.com^
 ||dissolveretinue.com^
+||dissolvetimesuspicions.com^
 ||distancemedicalchristian.com^
 ||distant-session.pro^
 ||distantsoil.com^
@@ -12067,6 +12068,7 @@ vkcdnservice.appspot.com^
 ||evgywgur.com^
 ||eviclick.pro^
 ||evidenceguidance.com^
+||evidencestunundermine.com^
 ||evidentlysoup.com^
 ||evidhjksdtgyxrh.xyz^
 ||evifokcrmhdmai.com^
@@ -12315,6 +12317,7 @@ vkcdnservice.appspot.com^
 ||ezdgmtsaeu.com^
 ||ezexfzek.com^
 ||ezhefg9gbhgh10.com^
+||ezidygd.com^
 ||ezijyfiq.xyz^
 ||ezjhhapcoe.com^
 ||ezmob.com^
@@ -12650,6 +12653,7 @@ vkcdnservice.appspot.com^
 ||feegozoa.com^
 ||feegreep.xyz^
 ||feelfereetoc.top^
+||feelingsmixed.com^
 ||feelingstoriesplumb.com^
 ||feeloshu.com^
 ||feelresolve.com^
@@ -13676,6 +13680,7 @@ vkcdnservice.appspot.com^
 ||fzdpvjatkwpg.com^
 ||fzfcrqlwph.com^
 ||fzfxqjilrzvdw.com^
+||fzszuvb.com^
 ||fztmn.top^
 ||g-statistic.com^
 ||g0awayu.com^
@@ -15633,6 +15638,7 @@ vkcdnservice.appspot.com^
 ||hitcpm.com^
 ||hitlnk.com^
 ||hiug862dj0.com^
+||hiyaxgkemtiad.com^
 ||hizanpwhexw.com^
 ||hizlireklam.com^
 ||hjalma.com^
@@ -16621,6 +16627,7 @@ vkcdnservice.appspot.com^
 ||inclineflaming.com^
 ||inclk.com^
 ||incloak.com^
+||incloseoverprotective.com^
 ||includemodal.com^
 ||includeoutgoingangry.com^
 ||inclusacharmed.com^
@@ -21868,6 +21875,7 @@ vkcdnservice.appspot.com^
 ||niftiesrotonde.com^
 ||nifty-drive.pro^
 ||nifty-transportation.com^
+||nifvikfakt.com^
 ||nigerm.com^
 ||niggedpacaya.com^
 ||niggeusakebvkb.xyz^
@@ -36874,6 +36882,7 @@ vkcdnservice.appspot.com^
 ||10945-5.s.cdn15.com^
 ||1173384488.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
+||1433024343.rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1445112467.rsc.cdn77.org^
 ||1556048427.rsc.cdn77.org^
@@ -36974,6 +36983,7 @@ vkcdnservice.appspot.com^
 ||hotwire-widget.dailywire.com^
 ||inrdeals.com^
 ||join.megaphonetv.com^
+||js.manga1001.win^
 ||js.mangakl.su^
 ||js.mangalove.top^
 ||js.phoenixmanga.com^
@@ -56787,6 +56797,7 @@ inapps.appsflyersdk.com^
 ||88lajs6.com^
 ||88lm02.com^
 ||88lm03.com^
+||88lm04.com^
 ||89hdn.cn^
 ||8d07a.xyz^
 ||8ovgk.online^
@@ -56805,6 +56816,7 @@ inapps.appsflyersdk.com^
 ||9t51o.icu^
 ||a4bj6.xyz^
 ||a99hz.space^
+||aa3e4.cyou^
 ||aa889988aa.com^
 ||aadmei.xyz^
 ||aaiwuq.xyz^
@@ -56874,6 +56886,7 @@ inapps.appsflyersdk.com^
 ||awhsaso.cn^
 ||awzddev.cn^
 ||ax7fv.space^
+||axhfeum.xyz^
 ||aymwiq.xyz^
 ||azdiqsb.cn^
 ||bachou.cn^
@@ -56924,6 +56937,7 @@ inapps.appsflyersdk.com^
 ||bjtgds.xyz^
 ||bkbbjtfp.xyz^
 ||bkxuprh.cn^
+||blntzf.xyz^
 ||blthwbe.xyz^
 ||bltmjevd.xyz^
 ||bmatgg18.xyz^
@@ -57006,6 +57020,7 @@ inapps.appsflyersdk.com^
 ||cklithuw.xyz^
 ||ckmbig.xyz^
 ||clcmdie.com^
+||cldxphtg.xyz^
 ||clgvlvbc.xyz^
 ||clkdbbvy.xyz^
 ||clrjnhxi.xyz^
@@ -57132,6 +57147,7 @@ inapps.appsflyersdk.com^
 ||epxfjcb.xyz^
 ||eqcwpeo.cn^
 ||eraygc.xyz^
+||erluankuan.com^
 ||erutxdk.cn^
 ||eshbqn.icu^
 ||esnysd.icu^
@@ -57176,6 +57192,7 @@ inapps.appsflyersdk.com^
 ||fm44f.space^
 ||fmvbyji.cn^
 ||fmzifaqi.xyz^
+||fnbhxv.xyz^
 ||foizico.cn^
 ||fol9v.xyz^
 ||fopksr.icu^
@@ -57871,6 +57888,7 @@ inapps.appsflyersdk.com^
 ||qwjtdcl.cn^
 ||qwmamh.icu^
 ||qwnmfiti.xyz^
+||qxvp6.site^
 ||qxzlmzt.xyz^
 ||qydoex.icu^
 ||qyoqeq.xyz^
@@ -57958,6 +57976,7 @@ inapps.appsflyersdk.com^
 ||slkdfg.com^
 ||slkdnlkfnskl.com^
 ||sllo.top^
+||sltbjrf.cn^
 ||sltle.icu^
 ||smbx8.net^
 ||smgsue.xyz^
@@ -58195,6 +58214,7 @@ inapps.appsflyersdk.com^
 ||vrwdsvr.icu^
 ||vtnmxx.xyz^
 ||vttqld.xyz^
+||vu43lh.cn^
 ||vvlhrz.xyz^
 ||vwmjkl.icu^
 ||vwsgmf.icu^
@@ -58206,6 +58226,7 @@ inapps.appsflyersdk.com^
 ||wbkaqly.cn^
 ||wbnbocz.xyz^
 ||wcbghap63.shop^
+||wcd2l.icu^
 ||wclsylk.cn^
 ||wdadad.cn^
 ||wdakda.cn^
@@ -58239,6 +58260,7 @@ inapps.appsflyersdk.com^
 ||wuruigroup.com^
 ||wutsldsk.xyz^
 ||wuyaw.cn^
+||wvceki.xyz^
 ||wvtem.com^
 ||wvyqks.xyz^
 ||wwhsxwow.xyz^
@@ -58290,6 +58312,7 @@ inapps.appsflyersdk.com^
 ||xkjmjj.com^
 ||xlam.cn^
 ||xlca666.site^
+||xldxphtg.xyz^
 ||xlgvlvbc.xyz^
 ||xlkdbbvy.xyz^
 ||xlnvvbk.xyz^
@@ -58376,6 +58399,7 @@ inapps.appsflyersdk.com^
 ||ykujch.icu^
 ||ykxafzdu.xyz^
 ||yldfkfb.cn^
+||yldxphtg.xyz^
 ||ylgvlvbc.xyz^
 ||ylkdbbvy.xyz^
 ||ylrjnhxi.xyz^
@@ -58429,6 +58453,7 @@ inapps.appsflyersdk.com^
 ||zfvtswv.xyz^
 ||zghrxn.xyz^
 ||zghsep.icu^
+||zgwvcv.icu^
 ||zhangyuting04.cn^
 ||zhongfumzzew.com^
 ||zigyspv.icu^
@@ -58463,21 +58488,11 @@ inapps.appsflyersdk.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
-||vu43lh.cn^
-||fnbhxv.xyz^
-||aa3e4.cyou^
-||wcd2l.icu^
-||axhfeum.xyz^
-||qxvp6.site^
-||yldxphtg.xyz^
-||blntzf.xyz^
-||wvceki.xyz^
-||zgwvcv.icu^
-||erluankuan.com^
-||88lm04.com^
-||sltbjrf.cn^
-||cldxphtg.xyz^
-||xldxphtg.xyz^
+||nxditl.xyz^
+||ydazjxso.xyz^
+||qhapoq.xyz^
+||mphxyxk.xyz^
+||vhgunzr.cn^
 ||zzyy20.top^
 ||01v62.xyz^
 ||027dir.com^
