@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Hgfaq8pZA18vQA4RcaGV3w
-! Version: 202402190801
+! Checksum: i444LDYtyD3nML1/BgSS+Q
+! Version: 202402191601
 ! Title: EasyPrivacy
-! Last modified: 19 Feb 2024 08:01 UTC
+! Last modified: 19 Feb 2024 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10287,6 +10287,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tvid.in/log/
 ! Indonesian
 ||mediaquark.com/tracker.js
+||tracker.oval.id^
 ! Italian
 ||alice.it/cnt/
 ||analytics.competitoor.com^
@@ -47619,6 +47620,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||data.nrk.no^
 ||nrk.no^*/stats/
 ||stats.proff.no^
+||stm.komplett.no^
 ||tdep.hema.nl/main.js
 ||vg.no/stats/
 ! Persian
@@ -48564,6 +48566,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 !
 @@||cat.telia.no/gtm.js$script,domain=telia.no
 @@||hvemder.no/js/hitcount.min.js$~third-party
+@@||komplett.no/gtm.js$script,~third-party
 !
 !---------- Polish ----------
 !
