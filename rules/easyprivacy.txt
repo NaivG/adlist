@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: bOXk2jd3fIEuc764SdiYGQ
-! Version: 202402240031
+! Checksum: /5qNxTqmFQdpiJ0w2ln/XA
+! Version: 202402240801
 ! Title: EasyPrivacy
-! Last modified: 24 Feb 2024 00:31 UTC
+! Last modified: 24 Feb 2024 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1132,6 +1132,7 @@
 /ibeat.min.js
 /icf-analytics.js
 /id?d_visid_
+/if/services/tdg?hs=
 /IIQUniversalID.min.js
 /image.ng/*
 /iMAWebCookie.js
@@ -2726,6 +2727,7 @@ _WebVitalsReporter_
 ! parked domains
 /ls.php?t=
 /track.php?domain=
+/track.php?toggle=
 ! pinterest.*
 /ContextLogResource/*
 /statslogresource/*
@@ -5001,6 +5003,7 @@ omni.soundestlink.com$image
 ||pointillist.com^$third-party
 ||pointmediatracker.com^$third-party
 ||pointomatic.com^$third-party
+||polaranalytics.com^$third-party
 ||polarbyte.com^$third-party
 ||polarcdn-pentos.com^$third-party
 ||pop6serve.com^$third-party
@@ -5759,6 +5762,7 @@ omni.soundestlink.com$image
 ||webtuna.com^$third-party
 ||wecantrack.com^$third-party
 ||wgsas.com^$third-party
+||whale.camera^$third-party
 ||wheredoyoucomefrom.ovh^$third-party
 ||whitepixel.com^$third-party
 ||whoaremyfriends.com^$third-party
@@ -46772,6 +46776,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||rt.bunte.de^
 ||schnaeppchenfuchs.com/js/default-
 ||shoop.de/mgtrx/
+||sparkasse.de/frontend/setTrackingCookie.htm
 ||sportnews.bz/pcookie?
 ||spreewaldkarte.de/t.gif
 ||sqs.quoka.de^
