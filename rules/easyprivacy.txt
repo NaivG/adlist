@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 39hhUYBFV+bHmtHhzrxL2A
-! Version: 202402251601
+! Checksum: +gGvU7QXRmH4sPoOF3YgoQ
+! Version: 202402260031
 ! Title: EasyPrivacy
-! Last modified: 25 Feb 2024 16:01 UTC
+! Last modified: 26 Feb 2024 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3344,6 +3344,7 @@ omni.soundestlink.com$image
 ||transmapp.com^
 ||triplestat.online^
 ||trk-maiorum.com^
+||trkapi.impact.com^
 ||trkbc.com^
 ||trkn.us^
 ||tru.am^
@@ -8946,6 +8947,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||soccer.ru/counter/
 ||socialannex.com/c-sale-track/$script
 ||solutions.invocacdn.com^
+||soundestlink.com/rest/forms/v2/track/
 ||soundestlink.com/REST/forms/v2/track/view?
 ||sourceforge.net/tracker/$~xmlhttprequest
 ||sp-wukong-tracker.b-cdn.net^
