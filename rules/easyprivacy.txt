@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: qYVZzZUCwlqJwSVb0EidKQ
-! Version: 202402270031
+! Checksum: lVOr8CKBIt56190FXyTlTA
+! Version: 202402270801
 ! Title: EasyPrivacy
-! Last modified: 27 Feb 2024 00:31 UTC
+! Last modified: 27 Feb 2024 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1984,6 +1984,7 @@
 /smmch-mine.js
 /smmch-own.js
 /snowman.gif?p=
+/snowplow-tracker.tatest.js
 /snowplow.js
 /snowplow/*$script
 /snowplow_$script
@@ -4472,6 +4473,7 @@ omni.soundestlink.com$image
 ||intervigil.com^$third-party
 ||investingchannel.com^$third-party
 ||invitemedia.com^$third-party
+||invitereferrals.com^$third-party
 ||invoc.us^$third-party
 ||invoca.net^$third-party
 ||invoca.solutions^$third-party
