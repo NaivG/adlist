@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: QAH+27u/5hHG01sWkIL0+Q
-! Version: 202403100801
+! Checksum: dO3wp59rpDYgEPVN1fbo+w
+! Version: 202403101601
 ! Title: EasyPrivacy
-! Last modified: 10 Mar 2024 08:01 UTC
+! Last modified: 10 Mar 2024 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2918,6 +2918,7 @@ _WebVitalsReporter_
 .substackcdn.com/open?$image
 .theatlantic.com/email.gif?
 .titus.de/oo/$image
+.tradewhy.cn//openemail/$image
 .travis-ci.com/r/$image
 .tripadvisor.com/MptUrl?$image
 .tripadvisor.com/q/$image
