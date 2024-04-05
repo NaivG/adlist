@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: d7SVkXOjz0Xgmij1/G+BnQ
-! Version: 202404041601
+! Checksum: 0hgZJUIfPer8mkkM9Tm+ag
+! Version: 202404050031
 ! Title: EasyPrivacy
-! Last modified: 04 Apr 2024 16:01 UTC
+! Last modified: 05 Apr 2024 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2987,6 +2987,7 @@ _WebVitalsReporter_
 /mail-tracking/*$image
 /mail.sparksport.co.nz/forms/read/*
 /mail.sparksport.co.nz/mail/read/*
+/mailings/opened/*$image
 /MailIsRead?$image
 /maillist.*/t/*$image
 /media.sailthru.com/5ik/1k4/9/*.gif
