@@ -24,7 +24,7 @@
 |:-|:-|:-|:-|
 | xwhyc-rules | [原始链接](https://raw.githubusercontent.com/NaivG/adlist/main/xwhyc-rules/lazy.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/xwhyc-rules.txt) | 2023/05/25 |
 | xwhyc-rules video | [原始链接](https://raw.githubusercontent.com/NaivG/adlist/main/xwhyc-rules/video.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/xwhyc-rules_video.txt) | 2023/05/25 |
-| jiekouAD | [原始链接](https://cdn.jsdelivr.net/gh/damengzhu/banad/jiekouAD.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/jiekouAD.txt) | 2024/04/16 |
+| jiekouAD | [原始链接](https://cdn.jsdelivr.net/gh/damengzhu/banad/jiekouAD.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/jiekouAD.txt) | 2024/04/18 |
 | easyprivacy | [原始链接](https://easylist-downloads.adblockplus.org/easyprivacy.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/easyprivacy.txt) | 2024/04/18 |
 | cjx-annoyance | [原始链接](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/cjx-annoyance.txt) | 2024/03/31 |
 | cjxlist | [原始链接](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/cjxlist.txt) | 2023/05/25 |
@@ -33,7 +33,7 @@
 | easylist adservers | [原始链接](https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/easylist_adservers.txt) | 2024/04/18 |
 | 1Hosts (Lite) | [原始链接](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/1Hosts_(Lite).txt) | 2024/04/10 |
 | ADgk | [原始链接](https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/ADgk.txt) | 2023/05/25 |
-| AdGuard Chinese filter | [原始链接](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdGuard_Chinese_filter.txt) | 2024/04/17 |
+| AdGuard Chinese filter | [原始链接](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdGuard_Chinese_filter.txt) | 2024/04/18 |
 | AdGuard Base filter | [原始链接](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdGuard_Base_filter.txt) | 2024/04/18 |
 | AdGuard DNS filter | [原始链接](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdGuard_DNS_filter.txt) | 2024/04/18 |
 | AdRules DNS List | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdRules_DNS_List.txt) | 2024/04/18 |
