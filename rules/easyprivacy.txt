@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 73RUkeIxoyFxPASBm7d1mQ
-! Version: 202404220031
+! Checksum: PV4yfxct9beb8RmicH359A
+! Version: 202404220801
 ! Title: EasyPrivacy
-! Last modified: 22 Apr 2024 00:31 UTC
+! Last modified: 22 Apr 2024 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51,7 +51,6 @@
 .jp/pv?
 .jp/static/js/track.js
 .js?id=GTM-
-.lms-analytics/
 .net/l.gif?
 .no/app/aas/a
 .php?action=browse&
@@ -1260,6 +1259,7 @@
 /leadtag.js
 /leage.google.tracker.js
 /lhnhelpouttab-current.min.js
+/li.lms-analytics/insight.min.js
 /lib/analytics.js
 /library/svy/broker.js
 /libs/tracker.js
