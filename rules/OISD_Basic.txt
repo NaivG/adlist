@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202404301506
+! Version: 202405010006
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 48101
-! Last modified: 2024-04-30T15:06:10+0000
+! Entries: 48106
+! Last modified: 2024-05-01T00:06:14+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -1812,6 +1812,7 @@
 ||ad.52av.one^
 ||ad.52av.tv^
 ||ad.71i.de^
+||ad.886112.xyz^
 ||ad.a8.net^
 ||ad.abcnews.com^
 ||ad.abctv.com^
@@ -4805,6 +4806,7 @@
 ||analytics.us.archive.org^
 ||analytics.valiuz.com^
 ||analytics.vedantu.com^
+||analytics.verfacto.com^
 ||analytics.viblo.asia^
 ||analytics.videocloud.top^
 ||analytics.vietnamfinance.vn^
@@ -16660,6 +16662,7 @@
 ||eupornstar.info^
 ||eurekster.com^
 ||euro-referer.click^
+||europe-west1-sonorous-dragon-276210.cloudfunctions.net^
 ||europeanbubblyclosed.com^
 ||europeanurinebanana.com^
 ||europefreeze.com^
@@ -26472,6 +26475,7 @@
 ||mainroll.com^
 ||mainsmrtnews.pro^
 ||maintenancewinning.com^
+||mainting-minues.xyz^
 ||maio.jp^
 ||maioux.xyz^
 ||maipofok.net^
@@ -43824,6 +43828,7 @@
 ||uojoqx.icu^
 ||uoqsxdpx.xyz^
 ||uorhlwm.com^
+||uosxdmk.cn^
 ||uotbzz.xyz^
 ||uoutube.com^
 ||up-banner.wavecdn.net^
