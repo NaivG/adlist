@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Vob3boWw0YVrI3aLeE3bnA
-! Version: 202405131601
+! Checksum: TwwBXOdMmJQS0gyhZa51IA
+! Version: 202405140031
 ! Title: EasyPrivacy
-! Last modified: 13 May 2024 16:01 UTC
+! Last modified: 14 May 2024 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6820,7 +6820,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mobadme.jp^$third-party
 ||mobylog.jp^$third-party
 ||moshimo.com^$third-party
-||msgs.jp^$third-party
 ||omiki.com^$third-party
 ||owldata.com^$third-party
 ||pagoda56.com^$third-party
@@ -10597,6 +10596,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.seesaa.net^
 ||tag.cribnotes.jp^
 ||targeting.focas.jp^
+||tm.msgs.jp^
 ||tr.c-tag.net^
 ||tr.slvrbullet.com^
 ||track.list-finder.jp^
