@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ICKXqr2q+GN8OOo18krbDw
-! Version: 202405150031
+! Checksum: o0ul7WOzc1RcnOiuj6NHyQ
+! Version: 202405150801
 ! Title: EasyPrivacy
-! Last modified: 15 May 2024 00:31 UTC
+! Last modified: 15 May 2024 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5278,6 +5278,7 @@ omni.soundestlink.com$image
 ||sematext.com^$third-party
 ||sendtraffic.com^$third-party
 ||sensorsdata.cn^$third-party
+||sentinelbi.com^$third-party
 ||sentry-cdn.com^$third-party,domain=~sentry.dev|~sentry.io
 ||sentry-cdn.top^$third-party
 ||sentry.io^$third-party
