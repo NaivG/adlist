@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: DiKxfztngtYomhlq24k+Ig
-! Version: 202407090031
+! Checksum: Tk5RVrT26W2hRT+EdD4ZkQ
+! Version: 202407090800
 ! Title: EasyPrivacy
-! Last modified: 09 Jul 2024 00:31 UTC
+! Last modified: 09 Jul 2024 08:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1997,7 +1997,6 @@
 /smart-pixel.min.js
 /smartpixel-1.js
 /smartpixel.$domain=~smartpixel.com|~smartpixel.tv
-/smartserve-
 /smartTag.bundle.js
 /smarttag/smarttag-
 /smetrics.*/b/ss/*
