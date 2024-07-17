@@ -47,16 +47,16 @@ def CreatReadme(ruleList, fileName):
     f.write("## 订阅链接\n")
     f.write("主过滤器\n")
     f.write("* [原始链接](https://raw.githubusercontent.com/NaivG/adlist/main/mainlist.txt)\n")
-    f.write("* [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/mainlist.txt)\n\n")
+    f.write("* [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/mainlist.txt)\n\n")
     f.write("附加过滤器\n")
     f.write("* [原始链接](https://raw.githubusercontent.com/NaivG/adlist/main/extralist.txt)\n")
-    f.write("* [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/extralist.txt)\n\n")
+    f.write("* [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/extralist.txt)\n\n")
     f.write("## 规则源\n")
     f.write("\n")
     f.write("| 规则 | 原始链接 | 加速链接 | 更新日期 |\n")
     f.write("|:-|:-|:-|:-|\n")
     for rule in ruleList:
-        f.write("| %s | [原始链接](%s) | [加速链接](https://ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/%s.txt) | %s |\n" % (rule[0],rule[1],rule[0].replace(' ', '_'),rule[2]))
+        f.write("| %s | [原始链接](%s) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/%s.txt) | %s |\n" % (rule[0],rule[1],rule[0].replace(' ', '_'),rule[2]))
     f.close()
 
 def CreatFiters(blockList, unblockList, fileName):
