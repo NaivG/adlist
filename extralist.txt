@@ -1,10 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 2023052502
+! Version: 2024071701
 ! Title: ADLIST extra BY Akina絵
-! Last modified: 25 May 2023 08:50 UTC
+! Last modified: 17 July 2024 8:38 UTC
 ! Homepage: https://naivg.uovou.cn/
 ! -------------------------------------
-! ----list1 20200814UPDATE----
 ||adg369.com^
 ||t.vdhpxf.cn^
 ||11.yuanyuan94.com^
@@ -15,21 +14,16 @@
 ||59.82.14.161^
 ||qule2.vip^
 ||123.183.235.127:443^
-||download-apk-packet.oss-cn-hongkong.aliyuncs.com/qule.apk
 ||mc.usrabrl.cn^
-||mc.usrabrl.cn/cc/5709?is_not=0&se=YWR2ZXJ0aXNlcl9hZF9pZD0yNTgzJmFkdmVydGlzZXJfaWQ9MTYyMiZjb21wZWxfc2tpcD0tMSZmaXJzdF9jb21wZWxfc2tpcD0wJmhpZF9jaGFuY2U9MTAwJmlzX3JlZmVycmVyPTEmaXNfd2VjaGF0X2NvdmVyPTAmaXNfd2VjaGF0X291dF9za2lwPTEmbGluaz1odHRwcyUzQSUyRiUyRnF1bGUyLnZpcCUyRiUzRmNoYW5uZWxDb2RlJTNEMDAwMDImcG9zaXRpb25faWQ9MTEmcmV0dXJuX2NoYW5jZT0wJnRpbWU9MTY0Mzk5MDg5NSZ0eXBlPTEmd2VibWFzdGVyX2FkX2lkPTU3MDkmd2VibWFzdGVyX2lkPTQ2NDEma2V5PTM0OGUzODA3NDkxMjFjMWFhNmI0OTA0ZGExZjA2Zjdk&interval=5&refso=0_Linux%20aarch64_0_0_0&url=hLLgq%2F%2F.*d%3FS3Bn*(4.%2F)(%3A%2Fi%3Di%5En%2F&source=hLLgq%2F%2F.*d%3FS3Bn*(4.%2F&jiami=1&screen=360*780&ifrom=0&history=6&ipnumber=1&clickp=100*649&ctype=good&jstime=1643990901&t=0.16332611221698268&target=1
 ||91wgcmau.com^
 ||pnib9.cc:8080^
 ||pnib9.cc^
 ||2817.helexueice.com^
 ||web.ae-86.xyz^
-||v3-be-pack.pglstatp-toutiao.com^$app=com.shuqi.controller
-||v3-be-pack.pglstatp-toutiao.com/d8e7368d2bd3d63cb9c855445364b7af/60290dfd/video/tos/cn/tos-cn-ve-2061/0317501affd04207906ae71237aa9204/toutiao.mp4
+||v3-be-pack.pglstatp-toutiao.com^
 ||down.ntzqbs.com^
 ||hj2nm.com^
 ||m.56fba.cn^
-! --------------------------
-! ----list2 20230525UPDATE----
 ||mail.kguapp.com/ah^
 ||gs99dx.cjjmff.com^
 ||game.eroge.xyz/*.gif^
@@ -60,4 +54,9 @@
 ||kele.nnqlisd.cn^
 ||*.xquqbfg.cn^
 ||*.wkwcxak.cn^
-! -------------------------
+||sdkoptedge.chinanetcenter.com^
+||comp.360os.com^
+||sdk.1rtb.net^
+||gdr09.net^
+||fvbas.aefdcxoi.com^
+! -------------------------------------
