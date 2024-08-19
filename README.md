@@ -24,7 +24,7 @@
 |:-|:-|:-|:-|
 | xwhyc-rules | [原始链接](https://raw.githubusercontent.com/NaivG/adlist/main/xwhyc-rules/lazy.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/xwhyc-rules.txt) | 2023/05/25 |
 | xwhyc-rules video | [原始链接](https://raw.githubusercontent.com/NaivG/adlist/main/xwhyc-rules/video.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/xwhyc-rules_video.txt) | 2023/05/25 |
-| jiekouAD | [原始链接](https://cdn.jsdelivr.net/gh/damengzhu/banad/jiekouAD.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/jiekouAD.txt) | 2024/08/15 |
+| jiekouAD | [原始链接](https://cdn.jsdelivr.net/gh/damengzhu/banad/jiekouAD.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/jiekouAD.txt) | 2024/08/19 |
 | easyprivacy | [原始链接](https://easylist-downloads.adblockplus.org/easyprivacy.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/easyprivacy.txt) | 2024/08/19 |
 | cjx-annoyance | [原始链接](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/cjx-annoyance.txt) | 2024/08/06 |
 | cjxlist | [原始链接](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/cjxlist.txt) | 2023/05/25 |
@@ -36,7 +36,7 @@
 | AdGuard Chinese filter | [原始链接](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdGuard_Chinese_filter.txt) | 2024/08/19 |
 | AdGuard Base filter | [原始链接](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdGuard_Base_filter.txt) | 2024/08/19 |
 | AdGuard DNS filter | [原始链接](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdGuard_DNS_filter.txt) | 2024/08/19 |
-| AdRules DNS List | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdRules_DNS_List.txt) | 2024/08/18 |
+| AdRules DNS List | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdRules_DNS_List.txt) | 2024/08/19 |
 | Hblock | [原始链接](https://hblock.molinero.dev/hosts_adblock.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/Hblock.txt) | 2024/08/18 |
 | NEO DEV HOST | [原始链接](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/NEO_DEV_HOST.txt) | 2024/08/18 |
 | OISD Basic | [原始链接](https://abp.oisd.nl/basic/) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/OISD_Basic.txt) | 2024/08/19 |
