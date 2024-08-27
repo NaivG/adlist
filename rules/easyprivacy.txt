@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: hOgROcgDRFNIQJ4+ymfikw
-! Version: 202408261601
+! Checksum: f5Pj/2Gczucw5qI+gyTP4g
+! Version: 202408270031
 ! Title: EasyPrivacy
-! Last modified: 26 Aug 2024 16:01 UTC
+! Last modified: 27 Aug 2024 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7113,6 +7113,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||site-submit.com.ua^$third-party
 ||stat.media^$third-party
 ||stat24.ru^$third-party
+||targetads.io^$third-party
 ||targetix.net^$third-party
 ||tbex.ru^$third-party
 ||tds.io^$third-party
