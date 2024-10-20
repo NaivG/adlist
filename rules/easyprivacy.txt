@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: HKXQmoPYSCsCnN2HGY6nyw
-! Version: 202410200041
+! Checksum: gqhSkADtM9Tx2kK5Q4ZZDw
+! Version: 202410200801
 ! Title: EasyPrivacy
-! Last modified: 20 Oct 2024 00:41 UTC
+! Last modified: 20 Oct 2024 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12119,7 +12119,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nid.thetimes.com/prod/sp/nid_sp.js
 ||nike.com/assets/measure/data-capture/
 ||nimbusweb.me/gtlytics.js
-||no88kks.infinityscans.net^
+||yes88kks.infinityscans.net^
 ||no9pldds1lmn3.soundcloud.com^
 ||noblocktape.com/stat/
 ||noodle.backmarket.io^
