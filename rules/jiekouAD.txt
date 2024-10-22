@@ -1,10 +1,22 @@
 [Adblock Plus 2.0]
 ! Title: 轻量广告拦截规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2024-10-20 15:00:43（北京时间）
-! Total Count: 5463
+! Update Time: 2024-10-22 11:28:02（北京时间）
+! Total Count: 5479
 ! by: 酷安@大萌主
 ! domain name
+||sjyhead.icu^
+||lalabaos1022.top^
+||dpw202504.com^
+||couvxlif.top^
+||taxismaned.top^
+||limbecculvers.com^
+||zpeqosn.icu^
+||0er7pc8.xyz^
+||2axpwa4.xyz^
+||bootstron.com^
+||xn--bqro42frpg5up.cn^
+||bj1.118pan.com^
 ||ouplc.icu^
 ||cnzz.trafficmanager.net^
 ||hauqou.top^
@@ -4626,6 +4638,8 @@ chusixs.com/5ygsh/
 ||pufei.cc/skin/footer.js
 ||pufei.cc/skin/middle.js
 js/yys/Pfhl365.js
+||zokjds.com/js/xiao.js
+/static/jietiandixs/jtd.js$~third-party
 ||xsbiquge.la/js/detail.js
 /vj1/*$third-party
 /vj2/*$third-party
@@ -4938,6 +4952,7 @@ www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
 cupfox.app##IMG[class^='jsx-'][width='100%'],.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
 youtube.com##AD-SLOT-RENDERER
 163.com##.js-open-app
+118pan.com##.card.mt-2:nth-child(2)
 m.autohome.com.cn##section > ol
 www.3ppp.net##DIV.bottom_fixed
 apkpure.net,apkpure.com##DIV.js-ad-slot
@@ -4945,6 +4960,7 @@ dongmanhuayuan.myheartsite.com##.card-body
 baike.so.com##section#business-flow.business-flow
 chinaso.com##.wrap-toolbar
 sm.cn##.ad-wolong-container
+momxs.com###inglestore.inglestore
 moegirl.org.cn##[class^='stevrhgmNo']
 www.jianshu.com##[aria-label='lwa-ad-one']
 imgur.com##.Ad.sas.Smart
