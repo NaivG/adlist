@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: PhoP85f3gDy3I3L2IADfPQ
-! Version: 202410230801
+! Checksum: Thos5GSHbls6lT++5Rz3ow
+! Version: 202410231601
 ! Title: EasyPrivacy
-! Last modified: 23 Oct 2024 08:01 UTC
+! Last modified: 23 Oct 2024 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51148,6 +51148,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||bdash-cloud.com/recommend-script/$script,domain=junonline.jp
 @@||bdash-cloud.com/tracking-script/*/tracking.js$domain=junonline.jp
 @@||carsensor.net/usedcar/modules/clicklog_top_lp_revo.php$xmlhttprequest
+@@||cdn.kaizenplatform.net^$script,domain=navi.onamae.com
 @@||cdn.treasuredata.com/sdk/$script,domain=retty.me
 @@||clarity.ms/tag/$script,domain=phileweb.com
 @@||cmn.gyro-n.com/js/gyr.min.js$domain=benesse-style-care.co.jp
