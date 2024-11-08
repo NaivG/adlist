@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: N2n7b1tkfVODK4zB9a9a8A
-! Version: 202411071601
+! Checksum: rH9e1XZqGtzO7Q3xBoNhMg
+! Version: 202411080041
 ! Title: EasyPrivacy
-! Last modified: 07 Nov 2024 16:01 UTC
+! Last modified: 08 Nov 2024 00:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -49186,7 +49186,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||cnt.wetteronline.de^
 ||comparis.ch/comparis/Tracking/
 ||computerbase.de/api2/$ping,xmlhttprequest
-||computerbase.de/bl_|
+||computerbase.de/blvlevblvlev
 ||cp.finanzfrage.net/stats
 ||cpx.golem.de^
 ||cpxl.golem.de^
