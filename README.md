@@ -37,7 +37,7 @@
 | AdGuard Base filter | [原始链接](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdGuard_Base_filter.txt) | 2025/03/04 |
 | AdGuard DNS filter | [原始链接](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdGuard_DNS_filter.txt) | 2025/03/04 |
 | AdRules DNS List | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdRules_DNS_List.txt) | 2025/03/03 |
-| Hblock | [原始链接](https://hblock.molinero.dev/hosts_adblock.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/Hblock.txt) | 2025/03/03 |
+| Hblock | [原始链接](https://hblock.molinero.dev/hosts_adblock.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/Hblock.txt) | 2025/03/04 |
 | NEO DEV HOST | [原始链接](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/NEO_DEV_HOST.txt) | 2025/02/18 |
 | OISD Basic | [原始链接](https://abp.oisd.nl/basic/) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/OISD_Basic.txt) | 2025/03/04 |
 | Notracking blocklist | [原始链接](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/Notracking_blocklist.txt) | 2023/06/27 |
