@@ -3,7 +3,7 @@
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-! Last modified: 2025-03-14T00:03:32.570Z
+! Last modified: 2025-03-14T08:11:40.658Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.38
 !
@@ -11354,6 +11354,7 @@ vkcdnservice.appspot.com^
 ||clankexpelledidentification.com^
 ||claresovinae.com^
 ||clarifyeloquentblackness.com^
+||clarity.ms^
 ||claspdressmakerburka.com^
 ||claspeddeceiveposter.com^
 ||claspedtwelve.com^
@@ -18347,6 +18348,7 @@ vkcdnservice.appspot.com^
 ||jaineshy.com^
 ||jaiphoaptom.net^
 ||jalapicundelve.top^
+||jaletcatena.com^
 ||jaletemetia.com^
 ||jalewaads.com^
 ||jambosmodesty.com^
@@ -36737,6 +36739,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||umeng.com^
 ||weborama-tech.ru^
 ||qualaroo.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
@@ -37731,7 +37734,6 @@ vkcdnservice.appspot.com^
 ||channel-analysis-js.gmw.cn^
 ||kaiseki-website.com^
 ||site-kaiseki-tool.com^
-||clarity.ms^
 ||plugins.soclminer.com.br^
 ||adrizer.com^
 ||contentsfeed.com^
@@ -87969,6 +87971,12 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+!
+! NOTE: Regular rules
+!
+||nr.bidderstack.com^
+||stbid.ru^
+||stat.nsc-lab.io^
 ||cnlogs.umengcloud.com^
 ||grs.dbankcloud.
 ||logservice.dbankcloud.cn
@@ -88045,7 +88053,6 @@ inapps.appsflyersdk.com^
 ||tracking.ws.eurosport.com^
 ||analysis.polarisoffice.com
 ||fraudmetrix.cn^
-||plbslog.umeng.com^
 ||analysys.cn^
 ||logs.supersonic.com^
 ||mssdk-va.byteoversea.com^
@@ -88309,14 +88316,12 @@ inapps.appsflyersdk.com^
 ||f-log-*.grammarly.io^
 ||log*-misc-lf.amemv.com^
 ||msg.umengcloud.com^
-||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
 ||analytics.liveact-vault.com^
 ||analytics.300624.com^
 ||toblog.ctobsnssdk.com^
 ||tobapplog.ctobsnssdk.com^
 ||t.castle.io^
-||alogsus.umeng.com^
 ||log1.happymod.com^
 ||log.pvpgang.com^
 ||crs-event.line.me^
@@ -88385,8 +88390,6 @@ inapps.appsflyersdk.com^
 ||tracking-config-service.glority.com^
 ||tracking-service.glority.com^
 ||pingtas.qq.com^
-||alogus.umeng.com^
-||errlogos.umeng.com^
 ||tenant-content.apm.appfolio-analytics.com^
 ||log.avlyun.com^
 ||api-analytics.prod.birdapp.com^
@@ -88535,7 +88538,6 @@ inapps.appsflyersdk.com^
 ||api.uca.cloud.unity3d.com^
 ||resolver.gslb.mi-idc.com^
 ||geoip.ifunny.co^
-||alogs.umeng.com^
 ||alogs.umengcloud.com^
 ||device-metrics-*.amazon.com^
 ||flurry.agentportal.*.yahoodns.net^
@@ -88545,7 +88547,6 @@ inapps.appsflyersdk.com^
 ||adserver.snapads.com^
 ||adsunflower.com^
 ||advmob.cn^
-||alog.umeng.com^
 ||alog.umengcloud.com^
 ||amp-error-reporting.appspot.com^
 ||analytics.mobile.yandex.net^
@@ -88560,7 +88561,6 @@ inapps.appsflyersdk.com^
 ||api.gimbal.com^
 ||appmetrica.yandex.net^
 ||appmetrica.yandex.com^
-||ar.umeng.com^
 ||beacon.carfax.com^
 ||beacon.shazam.com^
 ||beha.ksmobile.com^
@@ -88590,7 +88590,6 @@ inapps.appsflyersdk.com^
 ||nativesdks.mparticle.com^
 ||nlog.droid4x.cn^
 ||nrc.tapas.net^
-||oc.umeng.com^
 ||pingma.qq.com^
 ||prugskh.com^
 ||prugskh.net^
@@ -95212,8 +95211,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 Mar 2025 23:02 UTC+7
-! Version: 2503122302
+! Last modified: 14 Mar 2025 11:08 UTC+7
+! Version: 2503141108
 ! Blocked: 874 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
@@ -96028,9 +96027,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 12 Mar 2025 23:01 UTC+7
-! Version: 2503122301
-! Blocked: 4.710 rules
+! Last modified: 14 Mar 2025 11:08 UTC+7
+! Version: 2503141108
+! Blocked: 4.719 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -96039,6 +96038,7 @@ inapps.appsflyersdk.com^
 ||010172.com^
 ||08ro35delw.ru^
 ||0fb.co^
+||0fb.info^
 ||0fb.ltd^
 ||113-bca.online^
 ||11tiki.com^
@@ -96785,6 +96785,8 @@ inapps.appsflyersdk.com^
 ||expressmoney.cc^
 ||facabook.id.vn^
 ||face-book.co^
+||faceb.me^
+||faceb.pro^
 ||faceb00k.com.vn^
 ||facebook.c0m.ltd^
 ||facebook10002158.blogspot.com^
@@ -96820,6 +96822,7 @@ inapps.appsflyersdk.com^
 ||fe-shop.cc^
 ||fe.lwcvn.com^
 ||feacbookk.com^
+||fecabooke.com^
 ||fecabookk.com^
 ||fefqkn.org^
 ||ff-garena-membership-2021.com^
@@ -98316,6 +98319,7 @@ inapps.appsflyersdk.com^
 ||proapkcrack.com^
 ||procfullcracked.com^
 ||procrackfree.com^
+||profile-id.co^
 ||profileid.info^
 ||profileid.site^
 ||prolicensekeys.com^
@@ -99466,6 +99470,7 @@ inapps.appsflyersdk.com^
 ||tinlequa365.com^
 ||tinlocvang123.com^
 ||tinnhanh24gio.com^
+||tinnong.info^
 ||tinnong.xyz^
 ||tinsukien2021vn.com^
 ||tinthuongtrian.com^
@@ -99477,6 +99482,7 @@ inapps.appsflyersdk.com^
 ||tintrian2022.com^
 ||tintuc-24h.com^
 ||tintucnganhang.fun^
+||tintucnhanh.online^
 ||tinvay.vn^
 ||tinvietttt.com^
 ||titki55.cc^
@@ -100125,6 +100131,7 @@ inapps.appsflyersdk.com^
 ||vinpearl1.vingroupsny.com^
 ||vip-dien-mayxanh.com^
 ||vip-dienmayxanh.com^
+||vip1-droppii.com^
 ||vip8591.net^
 ||vipcard-vib.com^
 ||vipgooshop.com^
@@ -100171,6 +100178,7 @@ inapps.appsflyersdk.com^
 ||vn-eid.com^
 ||vn-email.shop^
 ||vn-express.net^
+||vn-exprress.site^
 ||vn-findmy.com^
 ||vn-hc.info^
 ||vn-i.cloud^
@@ -100625,6 +100633,8 @@ inapps.appsflyersdk.com^
 ||xielloltv.com^
 ||lqfctb.icu^
 ||fpxhdx.icu^
+||xbfk.cn^
+||pdochgl.top^
 ||straldrier.com^
 ||fajkhr.icu^
 ||hmbprf.icu^
@@ -105675,6 +105685,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/199304
+@@||ap01.records.in.treasuredata.com^|
 ! https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/1840
 ! Blocked by EasyList's `||23.109.82.`
 @@||click.avs.io^|
