@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: WlvBPpAME2qzDToJq+geUA
-! Version: 202503250801
+! Checksum: ao+gxP2lfeo3tH+dw7TSUw
+! Version: 202503251601
 ! Title: EasyPrivacy
-! Last modified: 25 Mar 2025 08:01 UTC
+! Last modified: 25 Mar 2025 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10856,6 +10856,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||shinobi.jp/zen?
 ||site24x7rum.jp/beacon/
 ||sitest.jp/tracking/
+||skygate.co.jp/baselog/
 ||smaero.jp/js/access.js
 ||smart-bdash.com/receptions/action/impression
 ||smart-bdash.com/tracking-script/
