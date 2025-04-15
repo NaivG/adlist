@@ -1,10 +1,10 @@
 [Adblock Plus]
-! Version: 202504141508
+! Version: 202504150036
 ! Title: oisd small
 ! Description: Block. Don't break.
 ! Syntax: Adblock Plus Filter List
-! Entries: 43911
-! Last modified: 2025-04-14T15:08:16+0000
+! Entries: 43939
+! Last modified: 2025-04-15T00:36:26+0000
 ! Expires: 1 hours
 ! License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 ! Maintainer: Stephan van Ruth
@@ -293,7 +293,6 @@
 ||1704598c25.com^
 ||17180d187e.com^
 ||17199874.xyz^
-||171c856581.com^
 ||1736253261.rsc.cdn77.org^
 ||173726e958.com^
 ||177o.com^
@@ -863,7 +862,6 @@
 ||43ors1osh.com^
 ||43sjmq3hg.com^
 ||43t53c9e.de^
-||44216f3fdf.com^
 ||444.bussyclub.com^
 ||444.bussyhunter.com^
 ||444.thebussybandit.com^
@@ -937,6 +935,7 @@
 ||4ffecd1ee4.com^
 ||4fs3r.icu^
 ||4g0b1inr.de^
+||4gforkh4.icu^
 ||4hfchest5kdnfnut.com^
 ||4iazoa.xyz^
 ||4ir17.icu^
@@ -4445,6 +4444,7 @@
 ||ai.bioon.com^
 ||ai.thanhnien.vn^
 ||aiactiv.io^
+||aiauqmtsvqoxho.com^
 ||aibseensoo.net^
 ||aibsgc.com^
 ||aibvlvplqwkq.com^
@@ -4527,6 +4527,7 @@
 ||aiwlxmy.com^
 ||aiwutgxp.love^
 ||aixcdn.com^
+||aixukiwaikra.com^
 ||aixuntupian.oss-cn-hongkong.aliyuncs.com^
 ||aj1047.online^
 ||aj1070.online^
@@ -4654,6 +4655,7 @@
 ||alclick.com^
 ||alcoholcheckoccur.com^
 ||alcroconawa.com^
+||alcyonchocard.com^
 ||aldik.com^
 ||aldo061.free.fr^
 ||aldo063.free.fr^
@@ -7041,6 +7043,7 @@
 ||b.cinvetica.com^
 ||b.clc2l.com^
 ||b.clictoload.com^
+||b.clipkit.co^
 ||b.ddestiny.ru^
 ||b.filexan.com^
 ||b.frida.vse42.ru^
@@ -7089,7 +7092,6 @@
 ||b21379380e.com^
 ||b233765bb4.a480c95b8f.com^
 ||b235be2c38.a38fb9d969.com^
-||b29b70e3ca.com^
 ||b347.pottsmerc.com^
 ||b395bfcd.xyz^
 ||b3c733588e.36dc612c23.com^
@@ -8429,7 +8431,6 @@
 ||boagleetsurvey.space^
 ||boahnoy.com^
 ||boannre.com^
-||boannred.com^
 ||boar.hopehollow.com^
 ||boar.indieweb.org^
 ||boar.kostholdsveilederen.no^
@@ -10810,6 +10811,7 @@
 ||clog.go.com^
 ||clog.lghv.net^
 ||clog.mirrativ.com^
+||clog.weverse.io^
 ||clogcheapen.com^
 ||clogstepfatherresource.com^
 ||clonesmesopic.com^
@@ -11070,6 +11072,7 @@
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
 ||collection.e-satisfaction.com^
+||collection.weverse.io^
 ||collectiveablygathering.com^
 ||collector-1.ex.co^
 ||collector-analytics.efigence.com^
@@ -15218,6 +15221,7 @@
 ||dsh7ky7308k4b.cloudfront.net^
 ||dshjbn.xyz^
 ||dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws^
+||dsldtohkgc.com^
 ||dsnextgen.com^
 ||dsnymrk0k4p3v.cloudfront.net^
 ||dsoftzfile.click^
@@ -19269,6 +19273,7 @@
 ||gophykopta.com^
 ||goplayhere.com^
 ||gopusher1.com^
+||gopypteti.com^
 ||goraccohoaming.shop^
 ||goraps.com^
 ||gorclck.com^
@@ -19776,6 +19781,7 @@
 ||gxdzfyg.com^
 ||gxfh59u4.xyz^
 ||gxfiledownload.com^
+||gxiacapeptyos.club^
 ||gxjajt.com^
 ||gxnfz.com^
 ||gxordgtvjr.com^
@@ -20380,6 +20386,7 @@
 ||hindervoting.com^
 ||hindsight.significanceapps.com^
 ||hindsightchampagne.com^
+||hindsightloyalmeter.com^
 ||hingfruitiesma.info^
 ||hingleroofsge.org^
 ||hinkhimunpract.org^
@@ -20845,7 +20852,6 @@
 ||huntershoemaker.com^
 ||huntmad.com^
 ||huohuo.huamuwo.com^
-||hupot.site^
 ||huppontic.com^
 ||huqbeiy.com^
 ||hurdlesomehowpause.com^
@@ -21447,6 +21453,7 @@
 ||incloak.com^
 ||incloseinterest.com^
 ||incomebreatherpartner.com^
+||incoming.telemetry.mozilla.org^
 ||incomparable-pair.com^
 ||incompatibleconfederatepsychological.com^
 ||incompetencesorting.com^
@@ -22004,6 +22011,7 @@
 ||itweedler.com^
 ||itweepinbelltor.com^
 ||ityonatallco.info^
+||ityvsrlrfrlfdm.com^
 ||itzekromom.com^
 ||iudleaky.shop^
 ||iuou.myadobe.cn^
@@ -22383,6 +22391,7 @@
 ||jobeyeball.com^
 ||jobfilletfortitude.com^
 ||jobfukectivetr.com^
+||jobmkewkzwrkb.top^
 ||jobs.educationweekjobs.co.uk^
 ||jobsyndicate.com^
 ||jocauzee.net^
@@ -23123,6 +23132,7 @@
 ||kotwalpoet.top^
 ||kotzzdwl.com^
 ||kougredafooca.net^
+||kouhoadousuni.net^
 ||koukoku.red^
 ||kousjcignye.com^
 ||koutobey.net^
@@ -23182,6 +23192,7 @@
 ||ku42hjr2e.com^
 ||kubachigugal.com^
 ||kueezrtb.com^
+||kufturtewaist.com^
 ||kugmisawqo.com^
 ||kuhxhoanlf.com^
 ||kujbxpbphyca.com^
@@ -25607,6 +25618,7 @@
 ||messenger-notify.xyz^
 ||messengeridentifiers.com^
 ||messengerreinsomething.com^
+||messrsmaiidae.top^
 ||messsomehow.com^
 ||messyadvance.com^
 ||messyfuck.com^
@@ -25646,6 +25658,7 @@
 ||metrics-fe-na1.hubspot.com^
 ||metrics-logger.spot.im^
 ||metrics-prod.suno.com^
+||metrics-us.cometchat.io^
 ||metrics.ainews.kz^
 ||metrics.apartments.com^
 ||metrics.api.drift.com^
@@ -26543,6 +26556,7 @@
 ||mustang-browser.com^
 ||mustdealingfrustration.com^
 ||mustersvyrnwy.top^
+||mutatesuet.com^
 ||mutcheng.net^
 ||mutedsquare.com^
 ||mutenessdollyheadlong.com^
@@ -26722,6 +26736,7 @@
 ||n475.pilotonline.com^
 ||n49seircas7r.com^
 ||n4m5x60.com^
+||n4sredirect.com^
 ||n55cpw.vip^
 ||n55ylc001.vip^
 ||n69.com^
@@ -27485,6 +27500,7 @@
 ||nrbwzh.icu^
 ||nrc.tapas.net^
 ||nrcykmnukb.com^
+||nrdpfnpqunyle.rocks^
 ||nreg.world^
 ||nretholas.com^
 ||nrged.com^
@@ -28232,6 +28248,7 @@
 ||onfluencer.net^
 ||ongastlya.com^
 ||ongoingverdictparalyzed.com^
+||oniflhctfubuql.com^
 ||onkafxtiqcu.com^
 ||onkavst.com^
 ||onkhwanhuo.com^
@@ -29613,6 +29630,7 @@
 ||phoaphoxsurvey.space^
 ||phoasougrair.com^
 ||phoawhoax.com^
+||phobicaraban.com^
 ||phoceansteaks.top^
 ||phockukoagu.net^
 ||phoenix-adrunner.mycomputer.com^
@@ -31140,6 +31158,7 @@
 ||publicus.com^
 ||publipagos.com^
 ||publisherads.click^
+||publize.net^
 ||publpush.com^
 ||publyads.jstag.space^
 ||pubmatic.com^
@@ -31418,6 +31437,7 @@
 ||python.jukejuke.app^
 ||pywhepteto.pro^
 ||pywymyplyg.com^
+||pyxiscablese.com^
 ||pyxytj.icu^
 ||pzd.rakuten.co.jp^
 ||pzfqzv.xyz^
@@ -32960,6 +32980,7 @@
 ||rofxiufqch.com^
 ||roger.aomg5bzv7.com^
 ||roguehideevening.com^
+||roharoagloh.net^
 ||roia.biz^
 ||roikingdom.com^
 ||roinduk.com^
@@ -32968,6 +32989,7 @@
 ||rokymedia.com^
 ||roledale.com^
 ||rollbackpop.com^
+||rolleychacker.top^
 ||rollingwolvesforthcoming.com^
 ||rollserver.xyz^
 ||rolzqwm.com^
@@ -37777,7 +37799,6 @@
 ||telemetry.goodlifefitness.com^
 ||telemetry.jivosite.com^
 ||telemetry.malwarebytes.com^
-||telemetry.mozilla.org^
 ||telemetry.navigatorapp.net^
 ||telemetry.phenixrts.com^
 ||telemetry.reembed.com^
@@ -37849,7 +37870,6 @@
 ||terribledeliberate.com^
 ||terrificdark.com^
 ||terrifyingcovert.com^
-||tertiidamsite.com^
 ||tertracks.site^
 ||teslaamg.obs.cn-east-3.myhuaweicloud.com^
 ||teslcorp.xyz^
@@ -37979,6 +37999,7 @@
 ||theloungenet.com^
 ||themeillogical.com^
 ||themeulterior.com^
+||thempoorduts.com^
 ||themselphenyls.com^
 ||themselvessuit.com^
 ||thenceafeard.com^
@@ -38028,6 +38049,7 @@
 ||thickshortwage.com^
 ||thickspaghetti.com^
 ||thickstatements.com^
+||thidraimistah.com^
 ||thiefperpetrate.com^
 ||thighleopard.com^
 ||thikraik.net^
@@ -38664,6 +38686,7 @@
 ||tq.uclpointer.online^
 ||tqaiowbyilodx.com^
 ||tqbrnd.xyz^
+||tqjojh.icu^
 ||tqlqfhmvainmn.one^
 ||tqnupxrwvo.com^
 ||tqrgivpfygemxft.com^
@@ -41657,6 +41680,7 @@
 ||webpush.vn^
 ||webpushcloud.info^
 ||webpushdirect.biz^
+||webpushstat.api.engagelab.cc^
 ||webreseau.com^
 ||webscouldlearnof.info^
 ||websdk.appsflyer.com^
@@ -42523,6 +42547,7 @@
 ||xaea12play.xyz^
 ||xahttwmfmyji.com^
 ||xajibur.ru^
+||xalawpqfa.com^
 ||xalienstreamx.com^
 ||xameleonads.com^
 ||xamssp.icu^
@@ -43521,6 +43546,7 @@
 ||ywpdobsvqlchvrl.com^
 ||ywronwasthetron.com^
 ||ywusfyjhnpflr.top^
+||ywzgjfgx.com^
 ||yx-ads6.com^
 ||yxhouwezb.site^
 ||yxkbgg.xyz^
@@ -43810,6 +43836,7 @@
 ||zoowunagraglu.net^
 ||zoozishooh.com^
 ||zorango.com^
+||zordaustewhoh.com^
 ||zosemien.sk^
 ||zougreek.com^
 ||zouloafi.net^
@@ -43850,6 +43877,7 @@
 ||zszhfffyd.ru^
 ||zt.me.zing.vn^
 ||zt1.me.zing.vn^
+||ztdbfz.top^
 ||ztdog.com^
 ||ztevents.zaloapp.com^
 ||ztlcrzmjshgfc.one^
