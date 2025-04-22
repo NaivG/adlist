@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: EgkfFbdI+m0aN9Xr2ESPFA
-! Version: 202504211601
+! Checksum: 6/pbpK2UZFpc1LmnbO+n9A
+! Version: 202504220051
 ! Title: EasyPrivacy
-! Last modified: 21 Apr 2025 16:01 UTC
+! Last modified: 22 Apr 2025 00:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2930,6 +2930,7 @@ _WebVitalsReporter_
 .flipboard.com/usage?
 .getblueshift.com/q/
 .getsendmail.com/p/$image
+.gif?mpe=*&mpn=
 .gif?stat=open
 .goodwell18.com/track/
 .google-analytics.com/
@@ -8139,6 +8140,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||egmontpublishing.dk/tracking/
 ||elpais.com/t.gif
 ||emarketeer.com/tracker/
+||enc-90128738.b-cdn.net^
 ||endorsal.io/check/
 ||ensighten.com/error/e.php?
 ||epimg.net/js/gdt/
@@ -12043,6 +12045,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hn-ping*.hashnode.com^
 ||homedepot.ca/mr/thd-ca-prod.js
 ||hoo.be/api/hoobe/analytics
+||hostinger.com/api-proxy/api/sentry/
 ||hotels.com/api/bucketing/v1/evaluateExperimentsAndLog
 ||hotels.com/cl/data/omgpixel.json?
 ||hotpads.com/node/api/comscore
