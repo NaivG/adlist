@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: jrTv/owqsrBK/x/9XH7yKw
-! Version: 202504260041
+! Checksum: thwGp2LzHXSMMqMPJ85s5w
+! Version: 202504260801
 ! Title: EasyPrivacy
-! Last modified: 26 Apr 2025 00:41 UTC
+! Last modified: 26 Apr 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -723,6 +723,7 @@
 /csi?v=3&s=
 /csp_204?
 /csp_log?
+/cst-tag-monitor-2nd-gen?
 /cta-loaded.js
 /ctr_tracking.php?
 /custom-analytics.js
@@ -3899,6 +3900,7 @@ omni.soundestlink.com$image
 ||bignutty.xyz^$third-party
 ||bigreal.org^$third-party
 ||bigtracker.com^$third-party
+||billygrace.com^$third-party
 ||bionicclick.com^$third-party
 ||bizible.com^$third-party
 ||bizo.com^$third-party
@@ -10401,6 +10403,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trck.spoteffects.net^
 ||trecker.aklamio.com^
 ||tw.reppublika.com^
+||umami.askrella.de^
 ||uni-duesseldorf.de/cgi-bin/nph-count?
 ||united-infos.net/event?
 ||veeseo.com^*/url.gif?
@@ -11100,6 +11103,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||statig.com.br/pub/setCookie.js?
 ||statistic.audima.co^
 ||stats.gridmidia.com.br^
+||sycamore.com.br/pixel/
 ||tags.cmp.tail.digital^
 ||terra.com.br/metrics/
 ||tiktok.tray.com.br^
@@ -11379,7 +11383,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||aax-eu-dub.amazon.com^$script
 ||aax-us-iad.amazon.com^$script
 ||ab-machine.forbes.com^
-||ab.chatgpt.com/v1/rgstr
 ||ab.fanatical.com^
 ||about.me/track?
 ||abysscdn.com/cdn-cgi/trace
@@ -11645,7 +11648,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||change.org/api-proxy/-/event_tracker
 ||channel.io/front/v*/channels/*/events
 ||chatfuel.com/cf-analytics/
-||chatgpt.com/ces/v1/t
 ||chatroll.com/t.gif
 ||chewy.com/api/event/
 ||chickadvisor.com/js/detect.min.js
@@ -49508,6 +49510,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||mat.ukraine-nachrichten.de^
 ||metrics.n-tv.de^
 ||moviepilot.de/assets/autotrack-
+||msboul.gruenwelt.de^
 ||mtb-news.de/metric/
 ||muenchener-stadtplan.com/t.gif
 ||mydirtyhobby.de/tracker
@@ -50476,6 +50479,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||sat.sanoma.fi^
 ||sliponline.nl/tracker/
 ||sst.babypark.nl^
+||sst.vrijopnaam.nl^
 ||statistiek.rijksoverheid.nl^
 ||stats.fd.nl^
 ||t.ad.nl^$image
