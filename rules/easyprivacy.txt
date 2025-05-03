@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: OYu+81TqfPW5L5POfcB1uw
-! Version: 202505030041
+! Checksum: WxLWEEqVMoWyhP0rWTG5PA
+! Version: 202505030801
 ! Title: EasyPrivacy
-! Last modified: 03 May 2025 00:41 UTC
+! Last modified: 03 May 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12342,6 +12342,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||logs.hotstar.com^
 ||logs.naukri.com^
 ||logs.netflix.com^
+||logx-experimentation.iherb.com^
 ||logx.optimizely.com^
 ||lolwot.com/B5xaqzSGvMTM.js
 ||lookawoman.com/t/
