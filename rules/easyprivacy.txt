@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 7IITP5jBV84AorSX5HLoUA
-! Version: 202506190151
+! Checksum: 4OVptaJEg4JtDitB5obiog
+! Version: 202506191241
 ! Title: EasyPrivacy
-! Last modified: 19 Jun 2025 01:51 UTC
+! Last modified: 19 Jun 2025 12:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3645,6 +3645,7 @@ omni.soundestlink.com$image
 ||uidapi.com^
 ||uimarketpro.com^
 ||uqd.io^
+||usrpubtrk.com^
 ||ustat.info^
 ||venture-365-inspired.com^
 ||venusrevival.com^
