@@ -1240,6 +1240,9 @@ $script,xmlhttprequest,third-party,domain=00ksw.com|01zww.com|0biquge.com|114zw.
 !
 ! NOTE: Specific rules
 !
+taotu.org###ad
+taotu.org##a[href="/jbb"]
+||res.taotu.org/adimages/
 xx.knit.bid##.clickadu-container
 360doc.com##iframe[src*="360doc.com/ad/"]
 uaa.com#%#//scriptlet('prevent-element-src-loading', 'script', 'aliyuncs.com')
@@ -5272,6 +5275,9 @@ newduba.cn###jq_youxi
 ||4fzfc1irq.com^
 ||jphyjv.icu^
 ||iwqx.cn^
+||bbrav96ax.com^
+||12ybs41sa.com^
+||nio09031lt.com^
 ||progress12.com^
 ||p2h08fn94d.com^
 ||ewrrpuquc1.com^
