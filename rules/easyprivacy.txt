@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: /Dd9rH6f2OsdhFpHYOoiMA
-! Version: 202510121231
+! Checksum: 0KAn6qKM14GEkWP4Ys28zw
+! Version: 202510130151
 ! Title: EasyPrivacy
-! Last modified: 12 Oct 2025 12:31 UTC
+! Last modified: 13 Oct 2025 01:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -50273,6 +50273,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||geoip.finanzen.net^
 ||glomex.com^$ping
 ||gmx.net/monitoring/
+||golem.de/staticrl/scripts/external/snow-390-min.js
 ||golem.de/staticrl/scripts/golem_cpxl_
 ||hamburger-stadtplan.com/t.gif
 ||hannover-stadtplan.com/t.gif
