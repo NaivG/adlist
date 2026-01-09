@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 7lxKiqtcW/nhwna7dJf6dg
-! Version: 202601081251
+! Checksum: mWUFe4u4vXBbnUDxqYp7Jw
+! Version: 202601090201
 ! Title: EasyPrivacy
-! Last modified: 08 Jan 2026 12:51 UTC
+! Last modified: 09 Jan 2026 02:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13106,6 +13106,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mat6tube.com/api/stats?
 ||maximise.nyc3.cdn.digitaloceanspaces.com/mxmse.min.js$domain=essentiallysports.com
 ||mcc-tags.cisco.com^
+||mcdonalds.com/tags/js/*/mparticle.js
+||mcdonalds.com/webevents/
 ||mcs-ie.tiktokw.eu^
 ||mcs-va-useast2a.tiktokv.com^
 ||mcs-va.tiktokv.com^
