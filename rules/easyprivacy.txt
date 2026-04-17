@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: bWj2RTl1ZHlHc07WdvFIdQ
-! Version: 202604170312
+! Checksum: KeUpAKxeGph45Z5ZhowZiQ
+! Version: 202604171332
 ! Title: EasyPrivacy
-! Last modified: 17 Apr 2026 03:12 UTC
+! Last modified: 17 Apr 2026 13:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9051,6 +9051,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hdnux.com/HNP/stats/page_view?
 ||hearstmags.com^*/hdm-lib_hearstuser_proxy.html$third-party
 ||hearstnp.com/log?
+||heartbeat-pearl.vercel.app^
 ||heg-cp.com/upm/$third-party
 ||helix.bitformations.ca^
 ||hello.myfonts.net/count/
@@ -13798,6 +13799,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rta2.newzit.com^
 ||rtds.progressive.com^
 ||rum.api.intuit.com^
+||rum.battle.net^
 ||rum.cdnpure.com^
 ||rum.condenastdigital.com^
 ||rumble.com/l/
@@ -53170,6 +53172,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||src.fedoraproject.org/static/issues_stats.js?$~third-party
 @@||src.litix.io/shakaplayer/*/shakaplayer-mux.js
 @@||src.litix.io/videojs/*/videojs-mux.js
+@@||srv024.service.canada.ca/assets/adobe-analytics-route-helpers-$script,~third-party
 @@||ssl-images-amazon.com^*/satelliteLib-$script,domain=audible.com
 @@||starlink.com/sst/gtag/js$script,~third-party
 @@||startribune.com/analytics-assets/sitecatalyst/appmeasurement.js$~third-party
