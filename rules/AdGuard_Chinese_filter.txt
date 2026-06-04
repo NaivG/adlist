@@ -1324,6 +1324,7 @@ $script,xmlhttprequest,third-party,domain=00ksw.com|01zww.com|0biquge.com|114zw.
 !
 ! NOTE: Specific rules
 !
+x6g.com##.news-article_container > ul > li[class]:has(> a[href^="/ad.php?aHR0c"])
 ||zudns.cn/uploads/*.gif$image,domain=tcptest.cn
 tcptest.cn##div.min-w-0 > .relative
 tcptest.cn##div.fixed.hidden
@@ -5689,6 +5690,12 @@ newduba.cn###jq_youxi
 ||pxlizduukhnpps.com^
 ||va3yq7si6w.com^
 ||xgsspao.com^
+||5eyal1g5a9.com^
+||efh2rahxxq.com^
+||fx455rrt4b.com^
+||jtzyk9iypb.com^
+||wc6y3nrv7g.com^
+||0otmh22aj2.com^
 ||nbwsj9gnd.com^
 ||t19olm6fd.com^
 ||dukwznn0x.com^
@@ -15186,7 +15193,7 @@ meijutt.*/js/pcjs/
 ||pc-util.gamersky.com^
 ||kssms.com/click/play.
 ||exmoo.com/js/ad-position/
-||ltd.ua/zz
+||nbpicture.xyz^$domain=ltd.ua
 huaren.live##.pause-love
 staticfile.link###player_pause
 jin10.com##.desktop-tip
