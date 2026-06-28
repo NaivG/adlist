@@ -2,6 +2,7 @@
 import os
 import re
 import time
+import glob
 
 from downloader import Downloader
 from resolver import Resolver
@@ -21,7 +22,7 @@ class Rule(object):
 
 def GetRuleList(fileName):
     ruleList = []
-    with open(fileName, "r") as f:
+    with open(fileName, "r", encoding="utf-8") as f:
         for line in f:
             line = line.replace('\r', '').replace('\n', '')
             if line.find('|')==0 and line.rfind('|')==len(line)-1:
@@ -37,7 +38,7 @@ def CreatReadme(ruleList, fileName):
     if os.path.exists(fileName):
         os.remove(fileName)
     
-    f = open(fileName, 'a')
+    f = open(fileName, 'a', encoding="utf-8")
     f.write("# Adlist\n")
     f.write("更适合国内互联网体质的超级过滤器\n\n")
     f.write("这是一个整合了easylist、chinalist、cjx list、adgk、adbyby、neo list、adguard dns filter等的超级过滤器，经过实际测试能过滤90%以上的广 告。代价是需要一定配置，低配机（安卓安兔兔20w以下或pc娱乐大师5w以下）慎用。\n\n")
@@ -71,7 +72,7 @@ def CreatFiters(blockList, unblockList, fileName):
     if os.path.exists(fileName):
         os.remove(fileName)
     
-    f = open(fileName, 'a')
+    f = open(fileName, 'a', encoding="utf-8")
     f.write("!\n")
     f.write("! Title: ADLIST BY Akina絵\n")
     f.write("! Homepage: https://naivg.uovou.cn\n")
@@ -94,13 +95,16 @@ def Entry():
     ruleList = GetRuleList(ruleFile)
     isUpdate = False
     lastUpdate = time.strftime("%Y/%m/%d", time.localtime())
+    print('开始更新规则')
     for i in range(0, len(ruleList)):
         relue = Rule(ruleList[i][0], ruleList[i][1])
+        print('更新规则：%s'%(ruleList[i][0]))
         if relue.Update():
             isUpdate = True
             ruleList[i][2] = lastUpdate
     #isUpdate = True
     if isUpdate:
+        print('存在更新，开始生成规则')
         blockList = []
         unblockList = []
         for i in range(0, len(ruleList)):
@@ -114,6 +118,10 @@ def Entry():
 
         # 更新README.md
         CreatReadme(ruleList, pwd + '/README.md')
+    print('规则生成完毕')
+    print('开始删除临时下载文件')
+    for f in glob.glob(pwd + '/rules/*.download'):
+        os.remove(f)
 
 if __name__ == '__main__':
     Entry()

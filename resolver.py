@@ -17,7 +17,7 @@ class Resolver(object):
         unblockList = []
         if not os.path.exists(self.__fileName):
             return blockList,unblockList
-        with open(self.__fileName, "r") as f:
+        with open(self.__fileName, "r", encoding="utf-8") as f:
             for line in f:
                 # 去掉换行符
                 line = line.replace('\r', '').replace('\n', '').strip()
