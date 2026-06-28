@@ -26,7 +26,6 @@
 | jiekouAD | [原始链接](https://cdn.jsdelivr.net/gh/damengzhu/banad/jiekouAD.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/jiekouAD.txt) | 2026/06/27 |
 | easyprivacy | [原始链接](https://easylist-downloads.adblockplus.org/easyprivacy.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/easyprivacy.txt) | 2026/06/28 |
 | cjx-annoyance | [原始链接](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/cjx-annoyance.txt) | 2026/03/11 |
-| cjxlist | [原始链接](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/cjxlist.txt) | 2023/05/25 |
 | easylist adservers | [原始链接](https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/easylist_adservers.txt) | 2026/06/28 |
 | 1Hosts (Lite) | [原始链接](https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/1Hosts_(Lite).txt) | 2026/06/27 |
 | AdGuard Chinese filter | [原始链接](https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdGuard_Chinese_filter.txt) | 2026/06/28 |
@@ -35,5 +34,4 @@
 | AdRules DNS List | [原始链接](https://raw.githubusercontent.com/Cats-Team/AdRules/main/dns.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AdRules_DNS_List.txt) | 2026/06/28 |
 | Hblock | [原始链接](https://hblock.molinero.dev/hosts_adblock.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/Hblock.txt) | 2026/06/22 |
 | OISD Basic | [原始链接](https://abp.oisd.nl/basic/) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/OISD_Basic.txt) | 2026/06/28 |
-| Notracking blocklist | [原始链接](https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/Notracking_blocklist.txt) | 2023/06/27 |
 | StevenBlack hosts | [原始链接](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/StevenBlack_hosts.txt) | 2026/06/26 |
