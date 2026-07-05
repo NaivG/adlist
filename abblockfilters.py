@@ -20,6 +20,82 @@ class Rule(object):
             return True
         return False
 
+
+# 白名单域名列表缓存
+__whitelist = None
+
+def GetWhitelist():
+    """读取白名单文件，返回域名集合"""
+    global __whitelist
+    if __whitelist is not None:
+        return __whitelist
+    whitelist = set()
+    whitelistFile = os.getcwd() + '/rules/whitelist.txt'
+    if not os.path.exists(whitelistFile):
+        __whitelist = whitelist
+        return whitelist
+    with open(whitelistFile, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.replace('\r', '').replace('\n', '').strip()
+            if len(line) < 1 or line.startswith('#'):
+                continue
+            domain = line
+            if domain.startswith('http://'):
+                domain = domain[7:]
+            elif domain.startswith('https://'):
+                domain = domain[8:]
+            idx = domain.find('/')
+            if idx > 0:
+                domain = domain[:idx]
+            whitelist.add(domain.lower())
+    __whitelist = whitelist
+    return whitelist
+
+def ExtractDomain(rule):
+    """从规则中提取域名，返回域名或None"""
+    if rule.startswith('||'):
+        domain = rule[2:]
+        for sep in ['^', '/', ':']:
+            idx = domain.find(sep)
+            if idx > 0:
+                domain = domain[:idx]
+        if len(domain) > 0:
+            return domain.lower()
+    if '.' in rule and not rule.startswith('!') and not rule.startswith('@@') and not rule.startswith('/') and not rule.startswith('$') and not rule.startswith('*') and not rule.startswith('&'):
+        special_chars = ['@', '#', '=', '$', '[', '{', '(', '|']
+        if not any(c in rule for c in special_chars):
+            parts = rule.split('^')
+            candidate = parts[0].strip()
+            if '.' in candidate and not candidate.startswith('0.0.0.0') and not candidate.startswith('127.0.0.1') and not candidate.startswith('::'):
+                return candidate.lower()
+    return None
+
+def FilterByWhitelist(blockList, unblockList):
+    """根据白名单过滤屏蔽列表"""
+    whitelist = GetWhitelist()
+    if not whitelist:
+        return blockList, unblockList
+    
+    newBlockList = []
+    newUnblockList = list(unblockList)
+    
+    for rule in blockList:
+        domain = ExtractDomain(rule)
+        if domain is not None:
+            isWhitelisted = False
+            for wlDomain in whitelist:
+                if domain == wlDomain or domain.endswith('.' + wlDomain):
+                    isWhitelisted = True
+                    break
+            if isWhitelisted:
+                unblockRule = '@@' + rule
+                if unblockRule not in newUnblockList:
+                    newUnblockList.append(unblockRule)
+                continue
+        newBlockList.append(rule)
+    
+    return newBlockList, newUnblockList
+
 def GetRuleList(fileName):
     ruleList = []
     with open(fileName, "r", encoding="utf-8") as f:
@@ -112,6 +188,9 @@ def Entry():
             L1, L2 = resolver.Resolve()
             blockList += L1
             unblockList += L2
+
+        # 应用白名单过滤
+        blockList, unblockList = FilterByWhitelist(blockList, unblockList)
 
         # 生成合并规则
         CreatFiters(blockList, unblockList, pwd + '/mainlist.txt')
