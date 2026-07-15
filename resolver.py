@@ -52,7 +52,7 @@ class Resolver(object):
                     continue
 
                 # host 模式
-                if line.find('0.0.0.0')==0 or line.find('127.0.0.1') == 0:
+                if line.startswith(('0.0.0.0', '127.0.0.1')):
                     row = line.split(' ')
                     row = list(map(lambda x: x.strip(), row)) # 字段去空格
                     for i in range(len(row)-1):
