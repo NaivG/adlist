@@ -37,7 +37,7 @@ def GetWhitelist():
     with open(whitelistFile, "r", encoding="utf-8") as f:
         for line in f:
             line = line.replace('\r', '').replace('\n', '').strip()
-            if len(line) < 1 or line.startswith('#'):
+            if not line or line.startswith('#'):
                 continue
             domain = line
             if domain.startswith('http://'):
