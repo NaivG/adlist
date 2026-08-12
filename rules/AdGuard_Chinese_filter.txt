@@ -1352,7 +1352,7 @@ $script,xmlhttprequest,third-party,domain=00ksw.com|01zww.com|0biquge.com|114zw.
 !
 ! NOTE: Specific rules
 !
-twword.com##.gadBlock
+applealmond.com##.gam-frame
 xgcartoon.com#%#//scriptlet('abort-on-stack-trace', 'document.createElement', 'mount_adsqrt_ad')
 .gif|$image,third-party,domain=25img.com
 *$script,third-party,domain=25img.com
@@ -5796,6 +5796,15 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||nvb0nqwjif.com^
+||jxnwbnxslrjvds.com^
+||gfblaghzk2.com^
+||24jp8wjmho.com^
+||sj2xvswu3r.com^
+||cnsy8lwlyv.com^
+||bickiron84.com^
+||cl1npfik45.com^
+||2j9banjbst.com^
 ||95ktftpt6.com^
 ||dhrbpvqqoovnxm.com^
 ||ped146qez.com^
@@ -5805,6 +5814,9 @@ newduba.cn###jq_youxi
 ||2p3ebtxsp.com^
 ||lht8yhbbl.com^
 ||u1g98fo6b.com^
+||yg6p1tskn.com^
+||cosiskkm.com^
+||rp9zb27jn1.com^
 ||7996epzfh.com^
 ||itm1yqknq.com^
 ||qnw0cru1i5.com^
@@ -15264,7 +15276,7 @@ meijutt.*/js/pcjs/
 ||ifeng.com/relateshare?
 ||lancdn.com/public/images/view/Tencent-
 ||5dm.*/ggjpg/
-||cdxyspa.com/js/e
+||yuntu68.com/imgcimo/
 ||layuion.com/get/showcase/
 ||xxir.com/static/images/ad.
 ||7wzx9.com/tbad.
@@ -23031,7 +23043,6 @@ wss://*.*.top/$third-party
 .com/config/v7.js
 .org/config/v7.js
 ||mihoutao1868.github.io^
-||wanmeisxs.cc/js/m.
 ||biqugie.com/js/wap.
 ||qingxinwx.*/static/xbiquge/js/wap.
 /static/fushuba/js/wap.js
