@@ -1354,6 +1354,8 @@ $script,xmlhttprequest,third-party,domain=00ksw.com|01zww.com|0biquge.com|114zw.
 !
 ! NOTE: Specific rules
 !
+||guazimanhua.com/assets/reader/mobile*-ad.js
+||guazimanhua.com/assets/ad/
 ||aiqu226.com/da/pftg*.js?ver=$script
 ||cdn.ping0.cc/images/ex/*.gif
 ||ue.17173cdn.com/a/www/index/*/js/seed.js
@@ -5814,6 +5816,15 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||spanner44.com^
+||ku8d1fla8.com^
+||refraction55.com^
+||swkqmcv.com^
+||fwlkokvvkx.icu^
+||lzwdh6iwo.com^
+||480ipil.com^
+||r27y52dd7.com^
+||crossbar13.com^
 ||lymxj.com^
 ||convergent16.top^
 ||36frocopxp.com^
