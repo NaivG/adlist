@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: cuu52g5hvM9+033TcLP43Q
-! Version: 202610161552
+! Checksum: uy8w/wdLUZeJ56hE8EdFPw
+! Version: 202610171452
 ! Title: EasyPrivacy
-! Last modified: 16 Oct 2026 15:52 UTC
+! Last modified: 17 Oct 2026 14:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5457,6 +5457,7 @@ omni.soundestlink.com$image
 ||mytrack.pro^$third-party
 ||myusersonline.com^$third-party
 ||myvisitorcounter.com^$third-party
+||myweb3id.io^$third-party
 ||mywebstats.com.au^$third-party
 ||mywebstats.org^$third-party
 ||n-analytics.io^$third-party
@@ -9051,6 +9052,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fvalid.appsflyersdk.com^
 ||fw.tv/embed/impressions
 ||g.msn.com^
+||g.rtbrain.app^
 ||g2insights-cdn.azureedge.net^
 ||ga-beacon.appspot.com^
 ||ga.chickgoddess.com/gs_api/stats/
@@ -53866,6 +53868,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||dd.qwant.com.first-party-js.datadome.co^$domain=qwant.com
 @@||dd.thetrainline.com.first-party-js.datadome.co^$domain=thetrainline.com
 @@||dd.wizzair.com.first-party-js.datadome.co^$domain=wizzair.com
+@@||ddbm2.paypal.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=id.venmo.com
 @@||dwt.soundcloud.com.first-party-js.datadome.co^$script,xmlhttprequest,domain=soundcloud.com
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||mycleverpush.com/iframe?$domain=bsdex.de
