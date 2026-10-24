@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: i8hwe5HvFO5N385MSruI3g
-! Version: 202610231612
+! Checksum: d9iLMOHmNUAsQWixFtBmKQ
+! Version: 202610241512
 ! Title: EasyPrivacy
-! Last modified: 23 Oct 2026 16:12 UTC
+! Last modified: 24 Oct 2026 15:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -317,6 +317,7 @@
 /analytics/track_event/*
 /analytics/tracker.js
 /analytics/trackers?
+/analytics/trackImpressions
 /analytics/visit.jsp
 /analytics/visit.php
 /analytics/visit?
@@ -8171,6 +8172,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.transtore.app/api/v2/storefront/tracking
 ||api.usestoryteller.com/api/app/activity/recordActivity?
 ||api.useunloq.com/event_management/
+||api.vaile.ai/api/track
 ||api.visitorapi.com^$third-party
 ||api.wipmania.com^
 ||apibaza.com/pixel/
@@ -8331,6 +8333,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beacon.securestudies.com^
 ||beacon.sftoaa.com^
 ||beacon.sojern.com^
+||beacon.viafoura.io^
 ||beacon.webpresence.work^
 ||beacons.mediamelon.com^
 ||beam.mjhlifesciences.com^
@@ -9713,6 +9716,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||oda.markitondemand.com^
 ||odysee.com/api/v1/metric/
 ||odysee.com/log/
+||offer-link.com/collect-click.php
 ||ohnorobot.com/verify.pl?
 ||olytics.omeda.com^
 ||omnie.ai/api/ddMetric
@@ -9862,6 +9866,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixel.nudgify.com^
 ||pixel.propublica.org^
 ||pixel.pub.lilyai.net^
+||pixel.quantserve.com^
 ||pixel.redgifs.com^
 ||pixel.roymorgan.com^
 ||pixel.s3xified.com^
@@ -13680,6 +13685,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lc-event.pixiv.net^
 ||leadconnectorhq.com/stats/event
 ||lego.com/api/dl-event-ingest
+||lego.com/api/uec/v1/events
 ||lendingtree.com/analytics/
 ||lendingtree.com/pixel/
 ||lenovo.com/gemets/
@@ -52810,6 +52816,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||nicolive.cdn.nimg.jp/relive/sp/trackingService.
 ||nicovideo.jp/analyze/
 ||nicovideo.jp/api/counter/
+||nijiurachan.net/analytics/
 ||nikkei.com/.resources/tracking/
 ||nkis.nikkei.com/imp?
 ||note.com/api/v3/trackings/

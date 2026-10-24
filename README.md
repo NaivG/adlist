@@ -23,7 +23,7 @@
 | 规则 | 原始链接 | 加速链接 | 更新日期 |
 |:-|:-|:-|:-|
 | AWAvenue-Ads | [原始链接](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/AWAvenue-Ads-Rule.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/AWAvenue-Ads.txt) | 2026/06/28 |
-| jiekouAD | [原始链接](https://cdn.jsdelivr.net/gh/damengzhu/banad/jiekouAD.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/jiekouAD.txt) | 2026/10/22 |
+| jiekouAD | [原始链接](https://cdn.jsdelivr.net/gh/damengzhu/banad/jiekouAD.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/jiekouAD.txt) | 2026/10/24 |
 | easyprivacy | [原始链接](https://easylist-downloads.adblockplus.org/easyprivacy.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/easyprivacy.txt) | 2026/10/24 |
 | cjx-annoyance | [原始链接](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/cjx-annoyance.txt) | 2026/10/02 |
 | easylist adservers | [原始链接](https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/NaivG/adlist/main/rules/easylist_adservers.txt) | 2026/10/24 |
